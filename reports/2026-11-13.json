@@ -56,10 +56,10 @@
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": null,
-   "avg_30d": null,
-   "base_30d": null,
-   "trend": null,
+   "delta_30d": 870,
+   "avg_30d": 41.139794738870016,
+   "base_30d": "2026-10-23",
+   "trend": 0.4303490312439363,
    "released_this_week": false
   },
   {
@@ -311,6 +311,7 @@
  "decelerating": [
   "obra/superpowers",
   "Fission-AI/OpenSpec",
+  "bmad-code-org/BMAD-METHOD",
   "kirodotdev/Kiro",
   "EveryInc/compound-engineering-plugin",
   "modu-ai/moai-adk"
@@ -384,7 +385,6 @@
   "gotalab/cc-sdd"
  ],
  "missing_30d": [
-  "bmad-code-org/BMAD-METHOD",
   "open-gsd/gsd-core",
   "open-gsd/gsd-pi",
   "buildermethods/agent-os",

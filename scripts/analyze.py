@@ -18,7 +18,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 GROUP_KO = {"spec": "스펙 프레임워크", "loop": "실행 루프·생명주기", "skills": "스킬·방법론", "candidate": "관찰 후보"}
-WINDOWS = {"7d": (7, 3), "30d": (30, 8)}  # (목표 일수, 허용 오차 일수)
+WINDOWS = {"7d": (7, 3), "30d": (30, 10)}  # (목표 일수, 허용 오차 일수)
 
 
 def ts(s):

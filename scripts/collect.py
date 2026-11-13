@@ -127,10 +127,10 @@ def ecosystem_months(query, now, existing):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--date", help="스냅샷 파일 날짜(기본: UTC 오늘)")
+    ap.add_argument("--date", help="스냅샷 파일 날짜(기본: KST 오늘)")
     args = ap.parse_args()
     now = datetime.now(timezone.utc)
-    day = args.date or now.strftime("%Y-%m-%d")
+    day = args.date or (now + timedelta(hours=9)).strftime("%Y-%m-%d")  # 파일명은 KST 날짜
 
     cfg = json.loads((ROOT / "watchlist.json").read_text())
     watch = {r["repo"].lower() for r in cfg["repos"]}
