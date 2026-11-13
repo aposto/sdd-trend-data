@@ -1,0 +1,262 @@
+{
+ "as_of": "2026-11-13T10:03:56Z",
+ "source": "GitHub REST API (authenticated)",
+ "repos": {
+  "github/spec-kit": {
+   "group": "spec",
+   "full_name": "github/spec-kit",
+   "stars": 149603,
+   "forks": 13443,
+   "open_issues": 233,
+   "created_at": "2025-08-21T22:54:31Z",
+   "pushed_at": "2026-11-12T21:54:10Z",
+   "archived": false,
+   "description": "💫 Toolkit to help you get started with SDD or any other process!",
+   "latest_release": {
+    "tag": "v1.4.0",
+    "published_at": "2026-11-10T21:26:08Z"
+   },
+   "commits_7d": 64
+  },
+  "Fission-AI/OpenSpec": {
+   "group": "spec",
+   "full_name": "Fission-AI/OpenSpec",
+   "stars": 74758,
+   "forks": 5125,
+   "open_issues": 205,
+   "created_at": "2025-08-05T10:37:45Z",
+   "pushed_at": "2026-11-13T02:06:18Z",
+   "archived": false,
+   "description": "Spec-driven development (SDD) for AI coding assistants.",
+   "latest_release": {
+    "tag": "v2.0.0",
+    "published_at": "2026-11-11T22:41:44Z"
+   },
+   "commits_7d": 17
+  },
+  "bmad-code-org/BMAD-METHOD": {
+   "group": "spec",
+   "full_name": "bmad-code-org/BMAD-METHOD",
+   "stars": 55331,
+   "forks": 6171,
+   "open_issues": 97,
+   "created_at": "2025-04-13T14:54:25Z",
+   "pushed_at": "2026-11-13T08:44:52Z",
+   "archived": false,
+   "description": "Breakthrough Method for Agile Ai Driven Development",
+   "latest_release": {
+    "tag": "v6.12.4",
+    "published_at": "2026-10-14T21:19:19Z"
+   },
+   "commits_7d": 11
+  },
+  "modu-ai/moai-adk": {
+   "group": "spec",
+   "full_name": "modu-ai/moai-adk",
+   "stars": 1255,
+   "forks": 224,
+   "open_issues": 72,
+   "created_at": "2025-09-16T13:07:11Z",
+   "pushed_at": "2026-11-13T09:45:11Z",
+   "archived": false,
+   "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+   "latest_release": {
+    "tag": "v3.1.2",
+    "published_at": "2026-08-21T06:50:41Z"
+   },
+   "commits_7d": 248
+  },
+  "open-gsd/gsd-core": {
+   "group": "loop",
+   "full_name": "open-gsd/gsd-core",
+   "stars": 11505,
+   "forks": 826,
+   "open_issues": 392,
+   "created_at": "2026-05-22T11:36:21Z",
+   "pushed_at": "2026-11-13T07:25:20Z",
+   "archived": false,
+   "description": "Git. Ship. Done - Core",
+   "latest_release": {
+    "tag": "v1.21.0",
+    "published_at": "2026-11-13T04:05:43Z"
+   },
+   "commits_7d": 61
+  },
+  "open-gsd/gsd-pi": {
+   "group": "loop",
+   "full_name": "open-gsd/gsd-pi",
+   "stars": 1367,
+   "forks": 117,
+   "open_issues": 83,
+   "created_at": "2026-05-22T11:03:33Z",
+   "pushed_at": "2026-11-13T09:56:41Z",
+   "archived": false,
+   "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+   "latest_release": {
+    "tag": "v1.23.0",
+    "published_at": "2026-10-29T02:40:27Z"
+   },
+   "commits_7d": 48
+  },
+  "awslabs/aidlc-workflows": {
+   "group": "loop",
+   "full_name": "awslabs/aidlc-workflows",
+   "stars": 6066,
+   "forks": 1080,
+   "open_issues": 307,
+   "created_at": "2025-11-13T22:05:08Z",
+   "pushed_at": "2026-11-13T09:58:50Z",
+   "archived": false,
+   "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+   "latest_release": {
+    "tag": "v2.11.4",
+    "published_at": "2026-11-13T05:48:13Z"
+   },
+   "commits_7d": 170
+  },
+  "mattpocock/skills": {
+   "group": "skills",
+   "full_name": "mattpocock/skills",
+   "stars": 323337,
+   "forks": 27135,
+   "open_issues": 240,
+   "created_at": "2026-02-03T11:15:53Z",
+   "pushed_at": "2026-11-13T08:41:25Z",
+   "archived": false,
+   "description": "Skills for Real Engineers. Straight from my .agents directory.",
+   "latest_release": {
+    "tag": "v1.3.2",
+    "published_at": "2026-10-29T10:27:41Z"
+   },
+   "commits_7d": 2
+  },
+  "obra/superpowers": {
+   "group": "skills",
+   "full_name": "obra/superpowers",
+   "stars": 316980,
+   "forks": 28213,
+   "open_issues": 344,
+   "created_at": "2025-10-09T19:45:18Z",
+   "pushed_at": "2026-11-03T23:24:58Z",
+   "archived": false,
+   "description": "An agentic skills framework & software development methodology that works.",
+   "latest_release": {
+    "tag": "v7.0.2",
+    "published_at": "2026-11-03T22:17:54Z"
+   },
+   "commits_7d": 0
+  },
+  "addyosmani/agent-skills": {
+   "group": "skills",
+   "full_name": "addyosmani/agent-skills",
+   "stars": 116944,
+   "forks": 12222,
+   "open_issues": 139,
+   "created_at": "2026-02-15T20:20:26Z",
+   "pushed_at": "2026-11-01T19:24:49Z",
+   "archived": false,
+   "description": "Production-grade engineering skills for AI coding agents.",
+   "latest_release": {
+    "tag": "0.6.15",
+    "published_at": "2026-10-31T06:40:31Z"
+   },
+   "commits_7d": 0
+  },
+  "google/elephant-goldfish-model": {
+   "group": "skills",
+   "full_name": "google/elephant-goldfish-model",
+   "stars": 18342,
+   "forks": 1365,
+   "open_issues": 101,
+   "created_at": "2026-09-13T16:31:06Z",
+   "pushed_at": "2026-11-13T08:26:46Z",
+   "archived": false,
+   "description": "Open-source plugin for designing and reviewing software with agents",
+   "latest_release": {
+    "tag": "v0.1.1",
+    "published_at": "2026-11-06T21:50:31Z"
+   },
+   "commits_7d": 50
+  },
+  "EveryInc/compound-engineering-plugin": {
+   "group": "candidate",
+   "full_name": "EveryInc/compound-engineering-plugin",
+   "stars": 26058,
+   "forks": 2067,
+   "open_issues": 78,
+   "created_at": "2025-10-09T19:43:46Z",
+   "pushed_at": "2026-11-13T09:08:12Z",
+   "archived": false,
+   "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+   "latest_release": {
+    "tag": "compound-engineering-v3.38.1",
+    "published_at": "2026-11-12T04:00:42Z"
+   },
+   "commits_7d": 38
+  },
+  "buildermethods/agent-os": {
+   "group": "candidate",
+   "full_name": "buildermethods/agent-os",
+   "stars": 5602,
+   "forks": 833,
+   "open_issues": 1,
+   "created_at": "2025-07-16T21:28:59Z",
+   "pushed_at": "2026-10-07T04:18:58Z",
+   "archived": false,
+   "description": "Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.",
+   "latest_release": {
+    "tag": "v3.0.0",
+    "published_at": "2026-01-20T17:26:20Z"
+   },
+   "commits_7d": 0
+  },
+  "kirodotdev/Kiro": {
+   "group": "candidate",
+   "full_name": "kirodotdev/Kiro",
+   "stars": 4464,
+   "forks": 333,
+   "open_issues": 1609,
+   "created_at": "2025-06-17T19:12:20Z",
+   "pushed_at": "2026-11-05T17:16:02Z",
+   "archived": false,
+   "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+   "latest_release": null,
+   "commits_7d": 0
+  },
+  "gotalab/cc-sdd": {
+   "group": "candidate",
+   "full_name": "gotalab/cc-sdd",
+   "stars": 3763,
+   "forks": 287,
+   "open_issues": 16,
+   "created_at": "2025-07-17T04:41:37Z",
+   "pushed_at": "2026-10-22T03:43:11Z",
+   "archived": false,
+   "description": "Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra",
+   "latest_release": {
+    "tag": "v3.1.0",
+    "published_at": "2026-09-23T07:30:18Z"
+   },
+   "commits_7d": 0
+  }
+ },
+ "candidates": {
+  "mouredev/hello-sdd": {
+   "stars": 801,
+   "created_at": "2026-08-27T11:49:48Z",
+   "description": "Curso de SDD (Spec-Driven Development) desde cero",
+   "matched": "\"spec-driven\""
+  },
+  "squall01337/mixamo-llm-mocap": {
+   "stars": 439,
+   "created_at": "2026-08-17T21:05:02Z",
+   "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+   "matched": "\"spec-driven\""
+  }
+ },
+ "ecosystem_new_repos_by_month": {
+  "2026-08": 807,
+  "2026-09": 899,
+  "2026-10": 994
+ }
+}
