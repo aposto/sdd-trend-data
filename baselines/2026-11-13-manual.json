@@ -1,0 +1,21 @@
+{
+ "_comment": "리포트 #1 작성 시 수동 수집값(GitHub search API). 자동 수집 이전의 기준선.",
+ "stars": {
+  "mattpocock/skills": ["2026-11-13T07:15:00Z", 323248],
+  "obra/superpowers": ["2026-11-13T07:15:00Z", 316937],
+  "github/spec-kit": ["2026-11-13T07:15:00Z", 149591],
+  "addyosmani/agent-skills": ["2026-11-13T07:15:00Z", 116867],
+  "Fission-AI/OpenSpec": ["2026-11-13T07:15:00Z", 74746],
+  "bmad-code-org/BMAD-METHOD": ["2026-11-13T07:15:00Z", 55329],
+  "google/elephant-goldfish-model": ["2026-11-13T07:15:00Z", 18311],
+  "open-gsd/gsd-core": ["2026-11-13T07:15:00Z", 11500],
+  "awslabs/aidlc-workflows": ["2026-11-13T07:15:00Z", 6063],
+  "open-gsd/gsd-pi": ["2026-11-13T07:15:00Z", 1367],
+  "modu-ai/moai-adk": ["2026-11-13T07:15:00Z", 1255],
+  "EveryInc/compound-engineering-plugin": ["2026-11-13T07:15:00Z", 26058],
+  "buildermethods/agent-os": ["2026-11-13T07:15:00Z", 5602],
+  "kirodotdev/Kiro": ["2026-11-13T07:15:00Z", 4462],
+  "gotalab/cc-sdd": ["2026-11-13T07:15:00Z", 3762]
+ },
+ "ecosystem_new_repos_by_quarter": {"2025-08..10": 316, "2025-11..2026-01": 1023, "2026-02..04": 1786, "2026-05..07": 2386, "2026-08..10": 2703}
+}

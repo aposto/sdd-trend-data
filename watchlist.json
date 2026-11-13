@@ -1,0 +1,27 @@
+{
+  "_comment": "관심 목록. group: spec(스펙 프레임워크) | loop(실행 루프·생명주기) | skills(스킬·방법론) | candidate(관찰 후보). 추가·삭제는 이 파일만 고치면 다음 수집부터 반영됩니다.",
+  "repos": [
+    {"repo": "github/spec-kit", "group": "spec"},
+    {"repo": "Fission-AI/OpenSpec", "group": "spec"},
+    {"repo": "bmad-code-org/BMAD-METHOD", "group": "spec"},
+    {"repo": "modu-ai/moai-adk", "group": "spec"},
+    {"repo": "open-gsd/gsd-core", "group": "loop"},
+    {"repo": "open-gsd/gsd-pi", "group": "loop"},
+    {"repo": "awslabs/aidlc-workflows", "group": "loop"},
+    {"repo": "mattpocock/skills", "group": "skills"},
+    {"repo": "obra/superpowers", "group": "skills"},
+    {"repo": "addyosmani/agent-skills", "group": "skills"},
+    {"repo": "google/elephant-goldfish-model", "group": "skills"},
+    {"repo": "EveryInc/compound-engineering-plugin", "group": "candidate"},
+    {"repo": "buildermethods/agent-os", "group": "candidate"},
+    {"repo": "kirodotdev/Kiro", "group": "candidate"},
+    {"repo": "gotalab/cc-sdd", "group": "candidate"}
+  ],
+  "discovery": {
+    "_comment": "관심 목록 밖에서 새로 뜨는 저장소 탐지. 최근 created_within_days일 안에 생긴, 키워드를 포함한 저장소 중 min_stars 이상.",
+    "keywords": ["\"spec-driven\"", "\"spec driven development\"", "\"AI-DLC\""],
+    "created_within_days": 90,
+    "min_stars": 300
+  },
+  "ecosystem_query": "\"spec-driven\""
+}

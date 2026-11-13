@@ -1,0 +1,16 @@
+{
+ "_comment": "30일 전 기준점. Wayback Machine에 저장된 github.com/<repo> 페이지의 stargazerCount. [UTC 시각, 스타]. 스냅샷 이력이 30일 쌓이면 쓰이지 않음.",
+ "stars": {
+  "github/spec-kit": ["2026-10-15T13:46:02Z", 141371],
+  "Fission-AI/OpenSpec": ["2026-10-13T11:27:05Z", 71796],
+  "bmad-code-org/BMAD-METHOD": ["2026-10-23T06:31:40Z", 54461],
+  "awslabs/aidlc-workflows": ["2026-10-15T08:53:22Z", 5215],
+  "modu-ai/moai-adk": ["2026-10-09T13:02:28Z", 1231],
+  "addyosmani/agent-skills": ["2026-10-13T13:42:08Z", 105982],
+  "obra/superpowers": ["2026-10-13T14:51:15Z", 298501],
+  "mattpocock/skills": ["2026-10-13T23:45:13Z", 289622],
+  "google/elephant-goldfish-model": ["2026-10-21T12:02:43Z", 19],
+  "EveryInc/compound-engineering-plugin": ["2026-10-08T16:35:42Z", 25431],
+  "kirodotdev/Kiro": ["2026-10-20T00:47:21Z", 4376]
+ }
+}
