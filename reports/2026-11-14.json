@@ -1,45 +1,45 @@
 {
- "as_of": "2026-11-14T03:15:22Z",
+ "as_of": "2026-11-14T05:59:27Z",
  "snapshot": "2026-11-14",
  "repos": [
   {
    "repo": "github/spec-kit",
    "group": "spec",
-   "stars": 149703,
+   "stars": 149716,
    "forks": 13444,
    "created": "2025-08",
    "release": "v1.4.0",
    "release_at": "2026-11-10T21:26:08Z",
-   "commits_7d": 47,
+   "commits_7d": 46,
    "archived": false,
-   "avg_life": 333.2797945520773,
+   "avg_life": 333.22420491193304,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 8332,
-   "avg_30d": 281.84796567168854,
+   "delta_30d": 8345,
+   "avg_30d": 281.2038198053436,
    "base_30d": "2026-10-15",
-   "trend": 0.8456797270008153,
+   "trend": 0.8438877358253798,
    "released_this_week": true
   },
   {
    "repo": "Fission-AI/OpenSpec",
    "group": "spec",
-   "stars": 74811,
+   "stars": 74818,
    "forks": 5129,
    "created": "2025-08",
    "release": "v2.0.0",
    "release_at": "2026-11-11T22:41:44Z",
    "commits_7d": 12,
    "archived": false,
-   "avg_life": 160.64453156794946,
+   "avg_life": 160.62026200959298,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 3015,
-   "avg_30d": 95.23499641903604,
+   "delta_30d": 3022,
+   "avg_30d": 95.11376824951132,
    "base_30d": "2026-10-13",
-   "trend": 0.5928306148333068,
+   "trend": 0.5921654407700486,
    "released_this_week": true
   },
   {
@@ -52,14 +52,14 @@
    "release_at": "2026-10-14T21:19:19Z",
    "commits_7d": 9,
    "archived": false,
-   "avg_life": 95.51270133365337,
+   "avg_life": 95.49392488827155,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
    "delta_30d": 890,
-   "avg_30d": 40.70677842820253,
+   "avg_30d": 40.49572718889738,
    "base_30d": "2026-10-23",
-   "trend": 0.4261923059426624,
+   "trend": 0.42406600457859095,
    "released_this_week": false
   },
   {
@@ -70,29 +70,29 @@
    "created": "2025-09",
    "release": "v3.1.2",
    "release_at": "2026-08-21T06:50:41Z",
-   "commits_7d": 23,
+   "commits_7d": 21,
    "archived": false,
-   "avg_life": 2.962777484760066,
+   "avg_life": 2.9619807027634666,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
    "delta_30d": 24,
-   "avg_30d": 0.6743033077152707,
+   "avg_30d": 0.6721514519035378,
    "base_30d": "2026-10-09",
-   "trend": 0.22759161333706357,
+   "trend": 0.22692634400907286,
    "released_this_week": false
   },
   {
    "repo": "open-gsd/gsd-core",
    "group": "loop",
-   "stars": 11518,
+   "stars": 11522,
    "forks": 827,
    "created": "2026-05",
    "release": "v1.21.0",
    "release_at": "2026-11-13T04:05:43Z",
    "commits_7d": 68,
    "archived": false,
-   "avg_life": 65.57280177086163,
+   "avg_life": 65.55304933049023,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
@@ -112,7 +112,7 @@
    "release_at": "2026-10-29T02:40:27Z",
    "commits_7d": 40,
    "archived": false,
-   "avg_life": 7.792804850658923,
+   "avg_life": 7.787753534761367,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
@@ -125,121 +125,121 @@
   {
    "repo": "awslabs/aidlc-workflows",
    "group": "loop",
-   "stars": 6073,
-   "forks": 1082,
+   "stars": 6074,
+   "forks": 1083,
    "created": "2025-11",
    "release": "v2.11.4",
    "release_at": "2026-11-13T05:48:13Z",
-   "commits_7d": 138,
+   "commits_7d": 136,
    "archived": false,
-   "avg_life": 16.628541233304265,
+   "avg_life": 16.62609202331014,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 858,
-   "avg_30d": 28.825533106247956,
+   "delta_30d": 859,
+   "avg_30d": 28.749072752380826,
    "base_30d": "2026-10-15",
-   "trend": 1.7334974067668125,
+   "trend": 1.7291539534410134,
    "released_this_week": true
   },
   {
    "repo": "mattpocock/skills",
    "group": "skills",
-   "stars": 323885,
-   "forks": 27185,
+   "stars": 323936,
+   "forks": 27188,
    "created": "2026-02",
    "release": "v1.3.2",
    "release_at": "2026-10-29T10:27:41Z",
    "commits_7d": 2,
    "archived": false,
-   "avg_life": 1141.7817027040403,
+   "avg_life": 1141.502957712047,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 34263,
-   "avg_30d": 1100.07926394895,
+   "delta_30d": 34314,
+   "avg_30d": 1097.7008013021066,
    "base_30d": "2026-10-13",
-   "trend": 0.9634759966319938,
+   "trend": 0.9616276452776482,
    "released_this_week": false
   },
   {
    "repo": "obra/superpowers",
    "group": "skills",
-   "stars": 317273,
-   "forks": 28249,
+   "stars": 317312,
+   "forks": 28254,
    "created": "2025-10",
    "release": "v7.0.2",
    "release_at": "2026-11-03T22:17:54Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 792.5632182538851,
+   "avg_life": 792.4350798536594,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 18772,
-   "avg_30d": 595.6198332235911,
+   "delta_30d": 18811,
+   "avg_30d": 594.7071453976228,
    "base_30d": "2026-10-13",
-   "trend": 0.7515108189550044,
+   "trend": 0.7504805889050855,
    "released_this_week": false
   },
   {
    "repo": "addyosmani/agent-skills",
    "group": "skills",
-   "stars": 117186,
-   "forks": 12257,
+   "stars": 117223,
+   "forks": 12260,
    "created": "2026-02",
-   "release": "0.6.15",
-   "release_at": "2026-10-31T06:40:31Z",
-   "commits_7d": 0,
+   "release": "0.6.16",
+   "release_at": "2026-11-14T04:33:58Z",
+   "commits_7d": 22,
    "archived": false,
-   "avg_life": 431.9613694882304,
+   "avg_life": 431.91634183955824,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 11204,
-   "avg_30d": 354.95296630896075,
+   "delta_30d": 11241,
+   "avg_30d": 354.84419476668035,
    "base_30d": "2026-10-13",
-   "trend": 0.821723865561159,
-   "released_this_week": false
+   "trend": 0.821557696232046,
+   "released_this_week": true
   },
   {
    "repo": "google/elephant-goldfish-model",
    "group": "skills",
-   "stars": 18669,
-   "forks": 1393,
+   "stars": 18717,
+   "forks": 1398,
    "created": "2026-09",
    "release": "v0.1.1",
    "release_at": "2026-11-06T21:50:31Z",
    "commits_7d": 40,
    "archived": false,
-   "avg_life": 303.8207922463052,
+   "avg_life": 304.0381462260719,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 18650,
-   "avg_30d": 789.124561266901,
+   "delta_30d": 18698,
+   "avg_30d": 787.359416396498,
    "base_30d": "2026-10-21",
-   "trend": 2.597335605086448,
+   "trend": 2.5896731254605325,
    "released_this_week": false
   },
   {
    "repo": "EveryInc/compound-engineering-plugin",
    "group": "candidate",
-   "stars": 26078,
+   "stars": 26081,
    "forks": 2067,
    "created": "2025-10",
    "release": "compound-engineering-v3.38.1",
    "release_at": "2026-11-12T04:00:42Z",
    "commits_7d": 37,
    "archived": false,
-   "avg_life": 65.14392535296979,
+   "avg_life": 65.13287981154171,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
-   "delta_30d": 647,
-   "avg_30d": 17.753161541930524,
+   "delta_30d": 650,
+   "avg_30d": 17.779888400807312,
    "base_30d": "2026-10-08",
-   "trend": 0.27252213380969054,
+   "trend": 0.2729786929773781,
    "released_this_week": true
   },
   {
@@ -252,7 +252,7 @@
    "release_at": "2026-01-20T17:26:20Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 11.548911296690552,
+   "avg_life": 11.546199956751733,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
@@ -272,14 +272,14 @@
    "release_at": null,
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 8.686937850537175,
+   "avg_life": 8.685013757629713,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
    "delta_30d": 92,
-   "avg_30d": 3.6649313632237086,
+   "avg_30d": 3.6483706533084015,
    "base_30d": "2026-10-20",
-   "trend": 0.4218899025503077,
+   "trend": 0.42007655429484353,
    "released_this_week": false
   },
   {
@@ -292,7 +292,7 @@
    "release_at": "2026-09-23T07:30:18Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 7.761783295832282,
+   "avg_life": 7.759959931918622,
    "delta_7d": null,
    "avg_7d": null,
    "base_7d": null,
@@ -338,13 +338,548 @@
    "at": "2026-11-13T05:48:13Z"
   },
   {
+   "repo": "addyosmani/agent-skills",
+   "tag": "0.6.16",
+   "at": "2026-11-14T04:33:58Z"
+  },
+  {
    "repo": "EveryInc/compound-engineering-plugin",
    "tag": "compound-engineering-v3.38.1",
    "at": "2026-11-12T04:00:42Z"
   }
  ],
- "candidates_ranked": [],
- "candidate_pool_size": 2,
+ "candidates_ranked": [
+  {
+   "repo": "janestreet/agent_skills",
+   "stars": 8350,
+   "delta_7d": null,
+   "avg_life": 791.6203066672812,
+   "created": "2026-11-03",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 792/일",
+    "HN 700점"
+   ],
+   "sources": [
+    "hn",
+    "new:\"agent skills\""
+   ],
+   "hn": {
+    "points": 700,
+    "title": "Socratic Tutor",
+    "hn_id": "50438261",
+    "keyword": "agent skills"
+   },
+   "description": "Agent skills",
+   "topics": [],
+   "score": 9041.342146670968
+  },
+  {
+   "repo": "wheresryan22/anatomy",
+   "stars": 27165,
+   "delta_7d": null,
+   "avg_life": 737.6972200762008,
+   "created": "2026-10-08",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 738/일"
+   ],
+   "sources": [
+    "kw:\"agent skills\"",
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "topics": [
+    "agent-skill",
+    "open-source",
+    "svg",
+    "vizualization"
+   ],
+   "score": 5163.880540533405
+  },
+  {
+   "repo": "patch-gg/pixelfx",
+   "stars": 7363,
+   "delta_7d": null,
+   "avg_life": 491.86786066082044,
+   "created": "2026-10-30",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 492/일"
+   ],
+   "sources": [
+    "topic:claude-code-plugin"
+   ],
+   "hn": null,
+   "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+   "topics": [
+    "agent-skills",
+    "animation",
+    "canvas",
+    "claude-code-plugin",
+    "gamedev",
+    "pixel-art",
+    "sprite-sheet",
+    "vfx"
+   ],
+   "score": 3443.075024625743
+  },
+  {
+   "repo": "GoogleChrome/modern-web-guidance",
+   "stars": 11626,
+   "delta_7d": null,
+   "avg_life": 49.36581636562121,
+   "created": "2026-03-23",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "HN 442점"
+   ],
+   "sources": [
+    "hn"
+   ],
+   "hn": {
+    "points": 442,
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "hn_id": "50443812",
+    "keyword": "agent skills"
+   },
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "score": 2555.5607145593485
+  },
+  {
+   "repo": "lemomo-ai/lemo-opuscar",
+   "stars": 15780,
+   "delta_7d": null,
+   "avg_life": 323.1915602748448,
+   "created": "2026-09-26",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 323/일"
+   ],
+   "sources": [
+    "topic:claude-code-plugin"
+   ],
+   "hn": null,
+   "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-short-film",
+    "ai-video",
+    "animation",
+    "canvas",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skill"
+   ],
+   "score": 2262.3409219239134
+  },
+  {
+   "repo": "haydenschmitty/floorplan",
+   "stars": 4163,
+   "delta_7d": null,
+   "avg_life": 234.5679431010848,
+   "created": "2026-10-27",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 235/일"
+   ],
+   "sources": [
+    "topic:claude-code-plugin"
+   ],
+   "hn": null,
+   "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+   "topics": [
+    "ai-coding",
+    "architecture-diagram",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "codebase-visualization",
+    "codex",
+    "codex-plugin",
+    "developer-tools",
+    "onboarding"
+   ],
+   "score": 1641.9756017075936
+  },
+  {
+   "repo": "rehan-remade/universal-modder",
+   "stars": 9673,
+   "delta_7d": null,
+   "avg_life": 214.76045937692405,
+   "created": "2026-09-30",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 215/일"
+   ],
+   "sources": [
+    "topic:claude-code-plugin"
+   ],
+   "hn": null,
+   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+   "topics": [
+    "age-of-empires",
+    "claude-code",
+    "claude-code-plugin",
+    "fal",
+    "game-assets",
+    "game-modding",
+    "mcp",
+    "modding",
+    "reverse-engineering",
+    "tmodloader"
+   ],
+   "score": 1503.3232156384684
+  },
+  {
+   "repo": "caru-ini/stack-diagram",
+   "stars": 2486,
+   "delta_7d": null,
+   "avg_life": 190.98336823292476,
+   "created": "2026-11-01",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 191/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+   "topics": [
+    "agent-skills",
+    "architecture-diagram",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "diagram",
+    "system-architecture",
+    "tech-stack"
+   ],
+   "score": 1336.8835776304734
+  },
+  {
+   "repo": "microsoft/TokenEconomizer",
+   "stars": 6071,
+   "delta_7d": null,
+   "avg_life": 189.29719948739734,
+   "created": "2026-10-13",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 189/일"
+   ],
+   "sources": [
+    "topic:agentic-coding"
+   ],
+   "hn": null,
+   "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+   "topics": [
+    "agentic-ai",
+    "agentic-coding",
+    "ai-coding",
+    "ai-coding-assistant",
+    "anthropic",
+    "artificial-intelligence",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "coding-agents"
+   ],
+   "score": 1325.0803964117813
+  },
+  {
+   "repo": "t3dotgg/tstack",
+   "stars": 3650,
+   "delta_7d": null,
+   "avg_life": 173.4704037026382,
+   "created": "2026-10-24",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 173/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+   "topics": [],
+   "score": 1214.2928259184675
+  },
+  {
+   "repo": "Vincentwei1021/video-shotcraft",
+   "stars": 19240,
+   "delta_7d": null,
+   "avg_life": 163.38279889519725,
+   "created": "2026-07-19",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 163/일"
+   ],
+   "sources": [
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-video",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "motion-design",
+    "motion-graphics",
+    "product-video"
+   ],
+   "score": 1143.6795922663807
+  },
+  {
+   "repo": "QingYunA/answer-me-with-html",
+   "stars": 6311,
+   "delta_7d": null,
+   "avg_life": 147.33426157425734,
+   "created": "2026-10-02",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 147/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+   "topics": [
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skill",
+    "claude-skills",
+    "cli",
+    "diagram",
+    "dsh-plugin",
+    "explainer"
+   ],
+   "score": 1031.3398310198013
+  },
+  {
+   "repo": "tamaratran/fast-jev-compaction",
+   "stars": 7969,
+   "delta_7d": null,
+   "avg_life": 137.39306973981144,
+   "created": "2026-09-17",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 137/일"
+   ],
+   "sources": [
+    "new:\"claude code plugin\""
+   ],
+   "hn": null,
+   "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
+   "topics": [],
+   "score": 961.7514881786801
+  },
+  {
+   "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+   "stars": 9535,
+   "delta_7d": null,
+   "avg_life": 125.02363664011571,
+   "created": "2026-08-29",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 125/일"
+   ],
+   "sources": [
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
+   "topics": [
+    "ai-seo",
+    "ai-visibility",
+    "backlinks",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "dataforseo",
+    "generative-engine-optimization",
+    "geo",
+    "geo-mcp"
+   ],
+   "score": 875.16545648081
+  },
+  {
+   "repo": "Oldcircle/geo-sleuth",
+   "stars": 6987,
+   "delta_7d": null,
+   "avg_life": 122.83652794511232,
+   "created": "2026-09-18",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 123/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-vision",
+    "cursor",
+    "gemini-cli",
+    "geoguessr",
+    "geoint",
+    "geolocation"
+   ],
+   "score": 859.8556956157863
+  },
+  {
+   "repo": "genspark-ai/genoffice",
+   "stars": 12317,
+   "delta_7d": null,
+   "avg_life": 116.36698917421323,
+   "created": "2026-07-31",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 116/일"
+   ],
+   "sources": [
+    "kw:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "docx",
+    "excel",
+    "libreoffice-alternative",
+    "local-first"
+   ],
+   "score": 814.5689242194926
+  },
+  {
+   "repo": "Dodaios/ste80-humanizer",
+   "stars": 493,
+   "delta_7d": null,
+   "avg_life": 108.87564284764895,
+   "created": "2026-11-09",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 109/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "asd-ste100",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "humanize-ai-text",
+    "humanizer",
+    "karpathy"
+   ],
+   "score": 762.1294999335427
+  },
+  {
+   "repo": "andyhuo520/digital-human-koubo",
+   "stars": 1970,
+   "delta_7d": null,
+   "avg_life": 103.36195997128834,
+   "created": "2026-10-26",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 103/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+   "topics": [],
+   "score": 723.5337197990184
+  },
+  {
+   "repo": "daveebbelaar/bama",
+   "stars": 1811,
+   "delta_7d": null,
+   "avg_life": 86.71165442221657,
+   "created": "2026-10-24",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 87/일"
+   ],
+   "sources": [
+    "new:\"agent skills\"",
+    "topic:claude-code-plugin"
+   ],
+   "hn": null,
+   "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "app-clone",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "computer-use",
+    "liquid-glass",
+    "macos",
+    "macos-app"
+   ],
+   "score": 606.9815809555159
+  },
+  {
+   "repo": "morganlinton/BeautifulRust",
+   "stars": 1808,
+   "delta_7d": null,
+   "avg_life": 81.72196018197266,
+   "created": "2026-10-23",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 82/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "claude-skills",
+    "clippy",
+    "code-review",
+    "coding-agent",
+    "cursor",
+    "rust",
+    "style-guide"
+   ],
+   "score": 572.0537212738086
+  }
+ ],
+ "candidate_pool_size": 302,
  "ecosystem_new_repos_by_month": {
   "2026-08": 807,
   "2026-09": 899,
