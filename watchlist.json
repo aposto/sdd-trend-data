@@ -107,5 +107,10 @@
     "retain_days": 30,
     "max_pool": 400
   },
-  "ecosystem_query": "\"spec-driven\""
+  "ecosystem_query": "\"spec-driven\"",
+  "relevance": {
+    "_comment": "후보 관련성 판정(이름·설명·토픽에 대한 정규식, 소문자). strong=SDD·AI-SDLC 핵심어, weak=에이전트 워크플로 일반어. 둘 다 없으면 순위에서 제외(추적은 계속).",
+    "strong": "\\bspec\\b|spec-driven|spec driven|\\bspecs\\b|\\bsdd\\b|sdlc|ai-dlc|specification|\\bprd\\b|requirement|design doc|design review|architecture review|\\btdd\\b|test-driven|implementation plan|\\bplanning\\b",
+    "weak": "context engineering|context rot|subagent|orchestrat|harness|methodolog|engineering workflow|development workflow|coding workflow|agentic coding|\\bplan\\b"
+  }
 }

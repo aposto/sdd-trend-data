@@ -350,533 +350,238 @@
  ],
  "candidates_ranked": [
   {
-   "repo": "janestreet/agent_skills",
-   "stars": 8350,
+   "repo": "ShuaiMXu/happyhands",
+   "relevance": "핵심",
+   "stars": 489,
    "delta_7d": null,
-   "avg_life": 791.6203066672812,
-   "created": "2026-11-03",
+   "avg_life": 24.8740243844283,
+   "created": "2026-10-25",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 792/일",
-    "HN 700점"
+    "신생 고성장 25/일"
    ],
    "sources": [
-    "hn",
-    "new:\"agent skills\""
-   ],
-   "hn": {
-    "points": 700,
-    "title": "Socratic Tutor",
-    "hn_id": "50438261",
-    "keyword": "agent skills"
-   },
-   "description": "Agent skills",
-   "topics": [],
-   "score": 9041.342146670968
-  },
-  {
-   "repo": "wheresryan22/anatomy",
-   "stars": 27165,
-   "delta_7d": null,
-   "avg_life": 737.6972200762008,
-   "created": "2026-10-08",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 738/일"
-   ],
-   "sources": [
-    "kw:\"agent skills\"",
-    "new:\"agent skills\""
+    "kw:\"design review\" agent",
+    "new:\"design review\" agent"
    ],
    "hn": null,
-   "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+   "description": "Open-source, AI-assisted UI design review for coding agents. Inspect screenshots, scope code changes and compare results in a local workbench. Alpha.",
    "topics": [
-    "agent-skill",
-    "open-source",
-    "svg",
-    "vizualization"
+    "ai-assisted-development",
+    "coding-agents",
+    "design-review",
+    "design-systems",
+    "developer-tools",
+    "ui-review"
    ],
-   "score": 5163.880540533405
+   "score": 174.11817069099808
   },
   {
-   "repo": "patch-gg/pixelfx",
-   "stars": 7363,
+   "repo": "pullboard-dev/pullboard",
+   "relevance": "핵심",
+   "stars": 820,
    "delta_7d": null,
-   "avg_life": 491.86786066082044,
-   "created": "2026-10-30",
+   "avg_life": 21.537698267937138,
+   "created": "2026-10-07",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 492/일"
+    "신생 고성장 22/일"
    ],
    "sources": [
-    "topic:claude-code-plugin"
+    "topic:spec-driven-development"
    ],
    "hn": null,
-   "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+   "description": "Autonomous development for real products. Governed agents build from specs you approve, follow the rules you set, and nothing merges until another agent proves it. Your decisions, judgement and taste ",
    "topics": [
-    "agent-skills",
-    "animation",
-    "canvas",
-    "claude-code-plugin",
-    "gamedev",
-    "pixel-art",
-    "sprite-sheet",
-    "vfx"
+    "agentic-coding",
+    "ai-agents",
+    "ai-governance",
+    "autonomous-agents",
+    "claude-code",
+    "cli",
+    "code-review",
+    "codex",
+    "coding-agents",
+    "developer-tools"
    ],
-   "score": 3443.075024625743
+   "score": 150.76388787555996
   },
   {
-   "repo": "GoogleChrome/modern-web-guidance",
-   "stars": 11626,
+   "repo": "Innei/ryugi",
+   "relevance": "핵심",
+   "stars": 405,
    "delta_7d": null,
-   "avg_life": 49.36581636562121,
-   "created": "2026-03-23",
+   "avg_life": 15.680060798772553,
+   "created": "2026-10-19",
    "first_seen": "2026-11-14",
    "signals": [
-    "HN 442점"
+    "신생 고성장 16/일"
    ],
    "sources": [
-    "hn"
-   ],
-   "hn": {
-    "points": 442,
-    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "hn_id": "50443812",
-    "keyword": "agent skills"
-   },
-   "description": "Keep your coding agent up to date with the latest web best practices",
-   "topics": [],
-   "score": 2555.5607145593485
-  },
-  {
-   "repo": "lemomo-ai/lemo-opuscar",
-   "stars": 15780,
-   "delta_7d": null,
-   "avg_life": 323.1915602748448,
-   "created": "2026-09-26",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 323/일"
-   ],
-   "sources": [
-    "topic:claude-code-plugin"
+    "kw:\"coding agent\" workflow",
+    "new:\"coding agent\" workflow"
    ],
    "hn": null,
-   "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le",
+   "description": "Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install arti",
    "topics": [
     "agent-skills",
     "ai-agents",
-    "ai-short-film",
-    "ai-video",
-    "animation",
-    "canvas",
-    "claude",
+    "artboard",
+    "artifacts",
+    "brainstorming",
     "claude-code",
     "claude-code-plugin",
-    "claude-code-skill"
-   ],
-   "score": 2262.3409219239134
-  },
-  {
-   "repo": "haydenschmitty/floorplan",
-   "stars": 4163,
-   "delta_7d": null,
-   "avg_life": 234.5679431010848,
-   "created": "2026-10-27",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 235/일"
-   ],
-   "sources": [
-    "topic:claude-code-plugin"
-   ],
-   "hn": null,
-   "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-   "topics": [
-    "ai-coding",
-    "architecture-diagram",
-    "claude",
-    "claude-code",
-    "claude-code-plugin",
-    "codebase-visualization",
+    "claude-skills",
     "codex",
-    "codex-plugin",
-    "developer-tools",
-    "onboarding"
+    "coding-agents"
    ],
-   "score": 1641.9756017075936
+   "score": 109.76042559140787
   },
   {
-   "repo": "rehan-remade/universal-modder",
-   "stars": 9673,
+   "repo": "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter",
+   "relevance": "주변",
+   "stars": 5188,
    "delta_7d": null,
-   "avg_life": 214.76045937692405,
-   "created": "2026-09-30",
+   "avg_life": 46.381461620245695,
+   "created": "2026-07-25",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 215/일"
+    "신생 고성장 46/일"
    ],
    "sources": [
-    "topic:claude-code-plugin"
+    "topic:agentic-workflow"
    ],
    "hn": null,
-   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+   "description": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.",
    "topics": [
-    "age-of-empires",
-    "claude-code",
-    "claude-code-plugin",
-    "fal",
-    "game-assets",
-    "game-modding",
-    "mcp",
-    "modding",
-    "reverse-engineering",
-    "tmodloader"
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-employee",
+    "ai-native",
+    "ai-workforce",
+    "dag-orchestration",
+    "external-agent-adapter",
+    "fastapi",
+    "generative-ai",
+    "hitl"
    ],
-   "score": 1503.3232156384684
+   "score": 324.67023134171984
   },
   {
-   "repo": "caru-ini/stack-diagram",
-   "stars": 2486,
+   "repo": "huaxialucaicaizi/ai-startup-skills",
+   "relevance": "주변",
+   "stars": 924,
    "delta_7d": null,
-   "avg_life": 190.98336823292476,
-   "created": "2026-11-01",
+   "avg_life": 40.4967540142379,
+   "created": "2026-10-22",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 191/일"
+    "신생 고성장 40/일"
    ],
    "sources": [
     "new:\"agent skills\""
    ],
    "hn": null,
-   "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+   "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
    "topics": [
     "agent-skills",
-    "architecture-diagram",
+    "ai",
+    "business-plan",
     "claude-code",
-    "claude-skills",
     "codex",
-    "diagram",
-    "system-architecture",
-    "tech-stack"
+    "cursor",
+    "entrepreneurship",
+    "growth",
+    "mvp-validation",
+    "one-person-company"
    ],
-   "score": 1336.8835776304734
+   "score": 283.4772780996653
   },
   {
-   "repo": "microsoft/TokenEconomizer",
-   "stars": 6071,
+   "repo": "mikehasa/golive-skill",
+   "relevance": "주변",
+   "stars": 1535,
    "delta_7d": null,
-   "avg_life": 189.29719948739734,
-   "created": "2026-10-13",
+   "avg_life": 29.700888245212383,
+   "created": "2026-09-23",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 189/일"
+    "신생 고성장 30/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+   "topics": [
+    "agent-skill",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "cloudflare",
+    "codex",
+    "database",
+    "deployment",
+    "developer-tools",
+    "devops"
+   ],
+   "score": 207.90621771648668
+  },
+  {
+   "repo": "dagoSte/squadra",
+   "relevance": "주변",
+   "stars": 1279,
+   "delta_7d": null,
+   "avg_life": 27.182603228391663,
+   "created": "2026-09-28",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 27/일"
    ],
    "sources": [
     "topic:agentic-coding"
    ],
    "hn": null,
-   "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+   "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code an",
    "topics": [
-    "agentic-ai",
-    "agentic-coding",
-    "ai-coding",
-    "ai-coding-assistant",
-    "anthropic",
-    "artificial-intelligence",
-    "claude-code",
-    "codex",
-    "coding-agent",
-    "coding-agents"
-   ],
-   "score": 1325.0803964117813
-  },
-  {
-   "repo": "t3dotgg/tstack",
-   "stars": 3650,
-   "delta_7d": null,
-   "avg_life": 173.4704037026382,
-   "created": "2026-10-24",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 173/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-   "topics": [],
-   "score": 1214.2928259184675
-  },
-  {
-   "repo": "Vincentwei1021/video-shotcraft",
-   "stars": 19240,
-   "delta_7d": null,
-   "avg_life": 163.38279889519725,
-   "created": "2026-07-19",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 163/일"
-   ],
-   "sources": [
-    "topic:claude-skills"
-   ],
-   "hn": null,
-   "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ",
-   "topics": [
+    "agent-orchestration",
     "agent-skills",
+    "agentic-coding",
     "ai-agents",
-    "ai-video",
-    "claude-code",
-    "claude-code-skills",
-    "claude-skills",
-    "codex",
-    "motion-design",
-    "motion-graphics",
-    "product-video"
-   ],
-   "score": 1143.6795922663807
-  },
-  {
-   "repo": "QingYunA/answer-me-with-html",
-   "stars": 6311,
-   "delta_7d": null,
-   "avg_life": 147.33426157425734,
-   "created": "2026-10-02",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 147/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-   "topics": [
-    "agent-skill",
-    "ai-agent",
-    "claude-code",
-    "claude-code-skill",
-    "claude-skill",
-    "claude-skills",
-    "cli",
-    "diagram",
-    "dsh-plugin",
-    "explainer"
-   ],
-   "score": 1031.3398310198013
-  },
-  {
-   "repo": "tamaratran/fast-jev-compaction",
-   "stars": 7969,
-   "delta_7d": null,
-   "avg_life": 137.39306973981144,
-   "created": "2026-09-17",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 137/일"
-   ],
-   "sources": [
-    "new:\"claude code plugin\""
-   ],
-   "hn": null,
-   "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
-   "topics": [],
-   "score": 961.7514881786801
-  },
-  {
-   "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
-   "stars": 9535,
-   "delta_7d": null,
-   "avg_life": 125.02363664011571,
-   "created": "2026-08-29",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 125/일"
-   ],
-   "sources": [
-    "topic:claude-skills"
-   ],
-   "hn": null,
-   "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
-   "topics": [
-    "ai-seo",
-    "ai-visibility",
-    "backlinks",
+    "ai-coding",
     "claude",
     "claude-code",
     "claude-skills",
-    "dataforseo",
-    "generative-engine-optimization",
-    "geo",
-    "geo-mcp"
-   ],
-   "score": 875.16545648081
-  },
-  {
-   "repo": "Oldcircle/geo-sleuth",
-   "stars": 6987,
-   "delta_7d": null,
-   "avg_life": 122.83652794511232,
-   "created": "2026-09-18",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 123/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "computer-vision",
-    "cursor",
-    "gemini-cli",
-    "geoguessr",
-    "geoint",
-    "geolocation"
-   ],
-   "score": 859.8556956157863
-  },
-  {
-   "repo": "genspark-ai/genoffice",
-   "stars": 12317,
-   "delta_7d": null,
-   "avg_life": 116.36698917421323,
-   "created": "2026-07-31",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 116/일"
-   ],
-   "sources": [
-    "kw:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "claude-code",
-    "cli",
-    "codex",
-    "cursor",
-    "docx",
-    "excel",
-    "libreoffice-alternative",
-    "local-first"
-   ],
-   "score": 814.5689242194926
-  },
-  {
-   "repo": "Dodaios/ste80-humanizer",
-   "stars": 493,
-   "delta_7d": null,
-   "avg_life": 108.87564284764895,
-   "created": "2026-11-09",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 109/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-   "topics": [
-    "agent-skills",
-    "ai-writing",
-    "asd-ste100",
-    "claude-code",
-    "claude-skills",
-    "codex",
-    "cursor",
-    "humanize-ai-text",
-    "humanizer",
-    "karpathy"
-   ],
-   "score": 762.1294999335427
-  },
-  {
-   "repo": "andyhuo520/digital-human-koubo",
-   "stars": 1970,
-   "delta_7d": null,
-   "avg_life": 103.36195997128834,
-   "created": "2026-10-26",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 103/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-   "topics": [],
-   "score": 723.5337197990184
-  },
-  {
-   "repo": "daveebbelaar/bama",
-   "stars": 1811,
-   "delta_7d": null,
-   "avg_life": 86.71165442221657,
-   "created": "2026-10-24",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 87/일"
-   ],
-   "sources": [
-    "new:\"agent skills\"",
-    "topic:claude-code-plugin"
-   ],
-   "hn": null,
-   "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "app-clone",
-    "claude-code",
-    "claude-code-plugin",
-    "codex",
-    "computer-use",
-    "liquid-glass",
-    "macos",
-    "macos-app"
-   ],
-   "score": 606.9815809555159
-  },
-  {
-   "repo": "morganlinton/BeautifulRust",
-   "stars": 1808,
-   "delta_7d": null,
-   "avg_life": 81.72196018197266,
-   "created": "2026-10-23",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "신생 고성장 82/일"
-   ],
-   "sources": [
-    "new:\"agent skills\""
-   ],
-   "hn": null,
-   "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "claude-plugin",
-    "claude-skills",
-    "clippy",
     "code-review",
-    "coding-agent",
-    "cursor",
-    "rust",
-    "style-guide"
+    "codex"
    ],
-   "score": 572.0537212738086
+   "score": 190.27822259874165
+  },
+  {
+   "repo": "soumatheusgomes/vibe-coding-toolkit",
+   "relevance": "주변",
+   "stars": 2417,
+   "delta_7d": null,
+   "avg_life": 26.484056716764684,
+   "created": "2026-08-14",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 26/일"
+   ],
+   "sources": [
+    "kw:\"claude code plugin\""
+   ],
+   "hn": null,
+   "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+   "topics": [
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "developer-tools",
+    "llm-agents",
+    "prompts"
+   ],
+   "score": 185.3883970173528
   }
  ],
  "candidate_pool_size": 302,

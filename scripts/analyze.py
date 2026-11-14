@@ -13,6 +13,7 @@
 """
 import argparse
 import json
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -68,7 +69,7 @@ def trend_label(ratio):
     return f"{word} ({ratio:.2f})"
 
 
-def rank_candidates(snaps, cur, now):
+def rank_candidates(snaps, cur, now, relevance):
     """후보 풀에서 급상승·신생 고성장·HN 화제 신호가 있는 저장소를 고른다."""
     hist = {}
     for sn in snaps:
@@ -85,6 +86,13 @@ def rank_candidates(snaps, cur, now):
         d7 = None
         if hit and hit[0] < now:
             d7 = c["stars"] - hit[1]
+        text = " ".join([n.split("/")[-1].replace("-", " "), c.get("description", ""), " ".join(c.get("topics", []))]).lower()
+        if re.search(relevance["strong"], text):
+            tier = "핵심"
+        elif re.search(relevance["weak"], text):
+            tier = "주변"
+        else:
+            continue
         signals = []
         if d7 is not None and (d7 >= 300 or (d7 >= 100 and d7 / 7 >= 2 * avg_life)):
             signals.append(f"급상승 +{d7:,}/주")
@@ -96,11 +104,11 @@ def rank_candidates(snaps, cur, now):
         if not signals:
             continue
         score = (d7 if d7 is not None else avg_life * 7) + (hn or {}).get("points", 0) * 5
-        out.append({"repo": n, "stars": c["stars"], "delta_7d": d7, "avg_life": avg_life,
+        out.append({"repo": n, "relevance": tier, "stars": c["stars"], "delta_7d": d7, "avg_life": avg_life,
                     "created": c["created_at"][:10], "first_seen": c.get("first_seen"),
                     "signals": signals, "sources": c.get("sources"), "hn": hn,
                     "description": c.get("description", ""), "topics": c.get("topics", []), "score": score})
-    out.sort(key=lambda r: -r["score"])
+    out.sort(key=lambda r: (r["relevance"] != "핵심", -r["score"]))
     return out
 
 
@@ -156,7 +164,7 @@ def main():
         "accelerating": [r["repo"] for r in by_trend if r["trend"] >= 1.2],
         "decelerating": [r["repo"] for r in by_trend if r["trend"] < 0.8],
         "released_this_week": [{"repo": r["repo"], "tag": r["release"], "at": r["release_at"]} for r in ok if r["released_this_week"]],
-        "candidates_ranked": rank_candidates(snaps, cur, now)[:20],
+        "candidates_ranked": rank_candidates(snaps, cur, now, json.loads((ROOT / "watchlist.json").read_text())["relevance"])[:20],
         "candidate_pool_size": len(cur.get("candidates") or {}),
         "ecosystem_new_repos_by_month": cur.get("ecosystem_new_repos_by_month", {}),
         "missing_7d": [r["repo"] for r in ok if r["delta_7d"] is None],
@@ -179,10 +187,10 @@ def main():
                          f"{fmt(r['avg_life'])} | {fmt(r['avg_30d'])} | {trend_label(r['trend'])} | {rel} | {fmt(r['commits_7d'])} |")
     if report["candidates_ranked"]:
         lines += ["", f"## 관찰 후보(자동 탐지, 풀 {report['candidate_pool_size']}개 중 신호 있는 것)", "",
-                  "| 저장소 | 스타 | 주간 증가 | 생성 | 신호 | 설명 |", "| --- | ---: | ---: | --- | --- | --- |"]
+                  "| 관련성 | 저장소 | 스타 | 주간 증가 | 생성 | 신호 | 설명 |", "| --- | --- | ---: | ---: | --- | --- | --- |"]
         for c in report["candidates_ranked"][:15]:
             wk = f"+{fmt(c['delta_7d'])}" if c["delta_7d"] is not None else "—"
-            lines.append(f"| [{c['repo']}](https://github.com/{c['repo']}) | {fmt(c['stars'])} | {wk} | {c['created']} | "
+            lines.append(f"| {c['relevance']} | [{c['repo']}](https://github.com/{c['repo']}) | {fmt(c['stars'])} | {wk} | {c['created']} | "
                          f"{', '.join(c['signals'])} | {c['description'][:70]} |")
     (out_dir / f"{cur['_file']}.md").write_text("\n".join(lines) + "\n")
     print(f"wrote reports/{cur['_file']}.json, .md")
