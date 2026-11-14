@@ -93,20 +93,125 @@ def search_count(q):
     return body["total_count"] if body else None
 
 
-def discover(cfg, watch, now):
-    since = (now - timedelta(days=cfg["created_within_days"])).strftime("%Y-%m-%d")
-    seen = {}
+GH_REPO_RE = re.compile(r"github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)")
+
+
+def _cand(it, source):
+    return {"stars": it["stargazers_count"], "created_at": it["created_at"], "pushed_at": it.get("pushed_at"),
+            "description": (it.get("description") or "")[:200], "topics": (it.get("topics") or [])[:10],
+            "sources": [source]}
+
+
+def _add(pool, name, entry, watch):
+    if name.lower() in watch:
+        return
+    if name in pool:
+        pool[name]["sources"] = sorted(set(pool[name]["sources"]) | set(entry["sources"]))
+        for k, v in entry.items():
+            if k != "sources" and v is not None:
+                pool[name][k] = v
+    else:
+        pool[name] = entry
+
+
+def hn_github_links(cfg, now):
+    """Hacker News(Algolia API)에서 최근 N일 키워드 관련 글 중 GitHub 저장소 링크를 모은다."""
+    since = int((now - timedelta(days=cfg.get("hn_days", 7))).timestamp())
+    found = {}
+    for kw in cfg.get("hn_keywords", []):
+        url = "https://hn.algolia.com/api/v1/search?" + urllib.parse.urlencode(
+            {"query": kw, "tags": "story", "numericFilters": f"created_at_i>{since}", "hitsPerPage": 50})
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "sdd-trend-data"}), timeout=30) as r:
+                hits = json.loads(r.read().decode()).get("hits", [])
+        except Exception as e:
+            print(f"hn search failed for {kw}: {e}", file=sys.stderr)
+            continue
+        for h in hits:
+            text = " ".join(filter(None, [h.get("url"), h.get("story_text")]))
+            for owner, repo in GH_REPO_RE.findall(text):
+                repo = re.sub(r"\.git$", "", repo)
+                if owner.lower() in ("orgs", "topics", "features", "settings", "sponsors", "marketplace"):
+                    continue
+                name = f"{owner}/{repo}"
+                pts = h.get("points") or 0
+                if name not in found or pts > found[name]["points"]:
+                    found[name] = {"points": pts, "title": (h.get("title") or "")[:120],
+                                   "hn_id": h.get("objectID"), "keyword": kw}
+    return {k: v for k, v in found.items() if v["points"] >= cfg.get("hn_min_points", 10)}
+
+
+def discover(cfg, watch, now, prev_pool):
+    """넓게 모은다: 키워드·토픽 검색(최근 업데이트, 생성일 무관) + 신생 저장소 검색 + Hacker News 링크.
+    이전 스냅샷 후보도 이어서 추적해, 스타 이력으로 주간 증가를 계산할 수 있게 한다."""
+    pushed = (now - timedelta(days=cfg["pushed_within_days"])).strftime("%Y-%m-%d")
+    young = (now - timedelta(days=cfg["young_within_days"])).strftime("%Y-%m-%d")
+    queries = []
     for kw in cfg["keywords"]:
-        q = f"{kw} created:>={since} stars:>={cfg['min_stars']}"
-        body = get("/search/repositories", {"q": q, "sort": "stars", "order": "desc", "per_page": 30})
-        time.sleep(2.5)
+        queries.append((f"{kw} pushed:>={pushed} stars:>={cfg['min_stars']}", f"kw:{kw}"))
+        queries.append((f"{kw} created:>={young} stars:>={cfg['young_min_stars']}", f"new:{kw}"))
+    for t in cfg["topics"]:
+        queries.append((f"topic:{t} pushed:>={pushed} stars:>={cfg['min_stars']}", f"topic:{t}"))
+    pool = {}
+    for q, src in queries:
+        try:
+            body = get("/search/repositories", {"q": q, "sort": "stars", "order": "desc", "per_page": cfg["per_query"]})
+        except Exception as e:
+            print(f"search failed {q}: {e}", file=sys.stderr)
+            body = None
+        time.sleep(2.5)  # search API: 30 req/min
         for it in (body or {}).get("items", []):
-            name = it["full_name"]
-            if name.lower() in watch or name in seen:
+            _add(pool, it["full_name"], _cand(it, src), watch)
+
+    for name, h in hn_github_links(cfg, now).items():
+        if name.lower() in watch:
+            continue
+        info = pool.get(name)
+        if info is None:
+            try:
+                it = get(f"/repos/{name}")
+            except Exception:
+                it = None
+            if not it or it.get("stargazers_count", 0) < cfg["young_min_stars"]:
                 continue
-            seen[name] = {"stars": it["stargazers_count"], "created_at": it["created_at"],
-                          "description": (it.get("description") or "")[:200], "matched": kw}
-    return seen
+            name = it["full_name"]
+            _add(pool, name, _cand(it, "hn"), watch)
+        else:
+            info["sources"] = sorted(set(info["sources"]) | {"hn"})
+        if name in pool:
+            pool[name]["hn"] = h
+
+    matched_today = set(pool)
+    # 이전 후보 중 오늘 검색에 안 걸린 것도 retain_days 동안 계속 추적
+    cutoff = now - timedelta(days=cfg["retain_days"])
+    for name, old in (prev_pool or {}).items():
+        if name in pool or name.lower() in watch:
+            continue
+        last_seen = old.get("last_matched") or old.get("first_seen")
+        if last_seen and datetime.strptime(last_seen, "%Y-%m-%d").replace(tzinfo=timezone.utc) < cutoff:
+            continue
+        try:
+            it = get(f"/repos/{name}")
+        except Exception:
+            it = None
+        if not it:
+            continue
+        e = _cand(it, "tracked")
+        e["sources"] = old.get("sources", ["tracked"])
+        if old.get("hn"):
+            e["hn"] = old["hn"]
+        pool[it["full_name"]] = e
+
+    today = now.strftime("%Y-%m-%d")
+    for name, e in pool.items():
+        prev = (prev_pool or {}).get(name, {})
+        e["first_seen"] = prev.get("first_seen") or today
+        e["last_matched"] = today if name in matched_today else prev.get("last_matched", today)
+    # 너무 커지지 않게 상한
+    if len(pool) > cfg["max_pool"]:
+        pool = dict(sorted(pool.items(), key=lambda kv: -kv[1]["stars"])[: cfg["max_pool"]])
+    print(f"candidates: {len(pool)}")
+    return pool
 
 
 def ecosystem_months(query, now, existing):
@@ -143,16 +248,18 @@ def main():
             repos[r["repo"]] = {"group": r["group"], "error": str(e)[:200]}
         print(f"{r['repo']}: {repos[r['repo']].get('stars', repos[r['repo']].get('error'))}")
 
-    prev_eco = {}
-    snaps = sorted((ROOT / "snapshots").glob("*.json"))
+    prev_eco, prev_pool = {}, {}
+    snaps = [p for p in sorted((ROOT / "snapshots").glob("*.json")) if p.stem != day]
     if snaps:
-        prev_eco = json.loads(snaps[-1].read_text()).get("ecosystem_new_repos_by_month", {})
+        prev = json.loads(snaps[-1].read_text())
+        prev_eco = prev.get("ecosystem_new_repos_by_month", {})
+        prev_pool = prev.get("candidates", {})
 
     snap = {
         "as_of": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": "GitHub REST API" + (" (authenticated)" if TOKEN else " (unauthenticated)"),
         "repos": repos,
-        "candidates": discover(cfg["discovery"], watch, now),
+        "candidates": discover(cfg["discovery"], watch, now, prev_pool),
         "ecosystem_new_repos_by_month": ecosystem_months(cfg["ecosystem_query"], now, prev_eco),
     }
     out = ROOT / "snapshots" / f"{day}.json"

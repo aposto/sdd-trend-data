@@ -12,13 +12,13 @@
 ## 1. 데이터 확인
 - `snapshots/` 최신 파일의 `as_of`가 36시간 이내인지 본다. 아니면 Actions 실패로 보고 최신 파일로 진행하되, 리포트 맨 아래와 최종 메시지에 "데이터 기준일 YYYY-MM-DD(수집 지연)"를 적는다.
 - `python3 scripts/analyze.py` 실행 → `reports/<날짜>.json`(기계용), `reports/<날짜>.md`(표)
-- JSON에서 쓸 것: `repos[]`(stars, delta_7d, avg_life, avg_30d, trend, release, released_this_week, commits_7d), `top_weekly_gain`, `accelerating`, `decelerating`, `released_this_week`, `candidates`, `ecosystem_new_repos_by_month`, `missing_7d`, `missing_30d`
+- JSON에서 쓸 것: `repos[]`(stars, delta_7d, avg_life, avg_30d, trend, release, released_this_week, commits_7d), `top_weekly_gain`, `accelerating`, `decelerating`, `released_this_week`, `candidates_ranked`, `ecosystem_new_repos_by_month`, `missing_7d`, `missing_30d`
 - 숫자는 반드시 이 JSON에서 가져온다. 기억이나 검색 결과의 스타 수를 쓰지 않는다.
 
 ## 2. 해석용 조사 (WebSearch standard, 6~12회)
 - `released_this_week`의 각 릴리즈: 릴리즈 노트를 열어 바뀐 점 1줄 (예: `<repo> v<tag> release notes`)
 - `top_weekly_gain` 상위 3개와 `accelerating`: 왜 움직였는지 (발표, 블로그, 컨퍼런스, SNS 화제)
-- `candidates` 중 스타 상위 3개: 무엇을 하는 도구인지
+- `candidates_ranked` 상위 8개: README를 열어 관련성 판정 — **도구**(SDD·AI-SDLC·에이전트 워크플로 도구/플러그인/스킬), **자료**(강좌·튜토리얼·목록), **무관**(키워드만 겹침). 도구만 리포트에 올리고, 자료는 한 줄 언급, 무관은 제외한다. 판정 결과는 회차 목록 파일의 해당 행 '후보 판정' 칸에 `저장소:판정`으로 남긴다
 - 업계 흐름: `spec-driven development` 이번 주 뉴스 1~2회
 - 숫자·날짜를 가져온 페이지는 열어서 확인하고 출처 목록에 남긴다. 한 출처에서 15단어 이상 인용 금지, 요약은 바꿔 쓴다.
 
@@ -33,7 +33,7 @@
 | 주간 상승 | 주간 증가 상위 8개 막대 차트, 1위만 강조색 | 차트 |
 | 왜 움직였나 | 가속·둔화·급등 3~4개를 근거와 함께 | 번호 목록 |
 | 이번 주 사용법 팁 | 아래 순번표에서 한 도구를 골라 시작 명령 3줄 + 언제 쓰나 | 문단 + 코드 |
-| 관찰 후보 | `candidates` 상위 3~5개, 관심 목록 승격 제안 여부 | 표 |
+| 관찰 후보 | `candidates_ranked` 중 '도구' 판정 3~5개: 신호(급상승/신생 고성장/HN), 한 줄 설명, 관심 목록 승격 제안 여부 | 표 |
 | 다음 주 관전 포인트 | 2~4개 | 목록 |
 | 측정 방법과 출처 | 데이터 기준 시각, 계산식 한 줄, 연 페이지 링크 | 목록 |
 
@@ -51,7 +51,7 @@
 - 전체 리포트 링크
 
 ## 5. 기록
-- Project `claude/sdd-weekly-index.md`에 행 추가: `| #N | YYYY-MM-DD | <문서 링크> | <핵심 한 줄> | <다룬 팁> |`
+- Project `claude/sdd-weekly-index.md`에 행 추가: `| #N | YYYY-MM-DD | <문서 링크> | <핵심 한 줄> | <다룬 팁> | <후보 판정> |`
 - 관찰 후보 승격은 사람이 결정한다. 제안만 하고 `watchlist.json`은 고치지 않는다.
 
 ## 6. 마무리 메시지

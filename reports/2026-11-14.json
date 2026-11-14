@@ -343,20 +343,8 @@
    "at": "2026-11-12T04:00:42Z"
   }
  ],
- "candidates": {
-  "mouredev/hello-sdd": {
-   "stars": 803,
-   "created_at": "2026-08-27T11:49:48Z",
-   "description": "Curso de SDD (Spec-Driven Development) desde cero",
-   "matched": "\"spec-driven\""
-  },
-  "squall01337/mixamo-llm-mocap": {
-   "stars": 440,
-   "created_at": "2026-08-17T21:05:02Z",
-   "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
-   "matched": "\"spec-driven\""
-  }
- },
+ "candidates_ranked": [],
+ "candidate_pool_size": 2,
  "ecosystem_new_repos_by_month": {
   "2026-08": 807,
   "2026-09": 899,
