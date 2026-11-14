@@ -7,6 +7,7 @@
 - `git clone --depth 1 https://github.com/aposto/sdd-trend-data` (공개 저장소, 읽기만 필요)
 - 회차 번호: claude.ai Project "vibe-coding"의 `claude/sdd-weekly-index.md` 마지막 회차 + 1
 - 이전 회차 링크도 같은 파일에 있다. 지난 호의 '다음 주 관전 포인트'를 읽어 이번 호에서 답한다.
+- Projects 도구를 쓸 수 없는 실행 환경이면: N = (오늘 − 2026-11-13) ÷ 7 + 1, 사용법 팁은 순번표에서 (N − 1)번째, 회차 목록 갱신은 하지 않고 최종 메시지에 "회차 목록에 추가할 행"으로 적는다.
 
 ## 1. 데이터 확인
 - `snapshots/` 최신 파일의 `as_of`가 36시간 이내인지 본다. 아니면 Actions 실패로 보고 최신 파일로 진행하되, 리포트 맨 아래와 최종 메시지에 "데이터 기준일 YYYY-MM-DD(수집 지연)"를 적는다.
