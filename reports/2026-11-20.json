@@ -1,80 +1,80 @@
 {
- "as_of": "2026-11-20T03:58:22Z",
+ "as_of": "2026-11-20T11:49:36Z",
  "snapshot": "2026-11-20",
  "repos": [
   {
    "repo": "github/spec-kit",
    "group": "spec",
-   "stars": 150716,
-   "forks": 13538,
+   "stars": 150768,
+   "forks": 13547,
    "created": "2025-08",
    "release": "v1.4.3",
    "release_at": "2026-11-19T14:31:35Z",
    "commits_7d": 49,
    "archived": false,
-   "avg_life": 331.0904123598969,
-   "delta_7d": 1125,
-   "avg_7d": 163.91175746456167,
+   "avg_life": 330.9667173588021,
+   "delta_7d": 1165,
+   "avg_7d": 164.70203226756553,
    "base_7d": "2026-11-13",
-   "delta_30d": 9345,
-   "avg_30d": 262.559753377082,
+   "delta_30d": 9397,
+   "avg_30d": 261.61536939641314,
    "base_30d": "2026-10-15",
-   "trend": 0.7930152718879648,
+   "trend": 0.7904582414937967,
    "released_this_week": true
   },
   {
    "repo": "Fission-AI/OpenSpec",
    "group": "spec",
-   "stars": 75289,
-   "forks": 5157,
+   "stars": 75319,
+   "forks": 5158,
    "created": "2025-08",
    "release": "v2.1.1",
    "release_at": "2026-11-19T22:26:58Z",
    "commits_7d": 17,
    "archived": false,
-   "avg_life": 159.60437754284024,
-   "delta_7d": 543,
-   "avg_7d": 79.1147416028951,
+   "avg_life": 159.5572855005838,
+   "delta_7d": 561,
+   "avg_7d": 79.31145073141997,
    "base_7d": "2026-11-13",
-   "delta_30d": 3493,
-   "avg_30d": 92.6810587674206,
+   "delta_30d": 3523,
+   "avg_30d": 92.67239266493351,
    "base_30d": "2026-10-13",
-   "trend": 0.5806924609103756,
+   "trend": 0.5808095341694344,
    "released_this_week": true
   },
   {
    "repo": "bmad-code-org/BMAD-METHOD",
    "group": "spec",
-   "stars": 55559,
-   "forks": 6198,
+   "stars": 55571,
+   "forks": 6199,
    "created": "2025-04",
    "release": "v6.12.4",
    "release_at": "2026-10-14T21:19:19Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 94.88434878296722,
-   "delta_7d": 230,
-   "avg_7d": 33.51084819275483,
+   "avg_life": 94.85183233726748,
+   "delta_7d": 240,
+   "avg_7d": 33.930032398468434,
    "base_7d": "2026-11-13",
-   "delta_30d": 1098,
-   "avg_30d": 39.36395073531059,
+   "delta_30d": 1110,
+   "avg_30d": 39.332708848383035,
    "base_30d": "2026-10-23",
-   "trend": 0.41486242188740036,
+   "trend": 0.41467526645691516,
    "released_this_week": false
   },
   {
    "repo": "modu-ai/moai-adk",
    "group": "spec",
-   "stars": 1259,
+   "stars": 1258,
    "forks": 223,
    "created": "2025-09",
    "release": "v3.1.2",
    "release_at": "2026-08-21T06:50:41Z",
    "commits_7d": 8,
    "archived": false,
-   "avg_life": 2.930504376038937,
-   "delta_7d": 4,
-   "avg_7d": 0.5827973598739971,
+   "avg_life": 2.9259480051669913,
+   "delta_7d": 3,
+   "avg_7d": 0.4241254049808555,
    "base_7d": "2026-11-13",
    "delta_30d": null,
    "avg_30d": null,
@@ -85,16 +85,16 @@
   {
    "repo": "open-gsd/gsd-core",
    "group": "loop",
-   "stars": 11712,
-   "forks": 845,
+   "stars": 11721,
+   "forks": 846,
    "created": "2026-05",
    "release": "v1.22.0",
    "release_at": "2026-11-19T04:04:25Z",
-   "commits_7d": 118,
+   "commits_7d": 115,
    "archived": false,
-   "avg_life": 64.46429935401079,
-   "delta_7d": 212,
-   "avg_7d": 30.888260073321845,
+   "avg_life": 64.39784313407537,
+   "delta_7d": 216,
+   "avg_7d": 30.537029158621593,
    "base_7d": "2026-11-13",
    "delta_30d": null,
    "avg_30d": null,
@@ -105,16 +105,16 @@
   {
    "repo": "open-gsd/gsd-pi",
    "group": "loop",
-   "stars": 1379,
+   "stars": 1377,
    "forks": 117,
    "created": "2026-05",
    "release": "v1.23.0",
    "release_at": "2026-10-29T02:40:27Z",
-   "commits_7d": 24,
+   "commits_7d": 14,
    "archived": false,
-   "avg_life": 7.589235410597257,
-   "delta_7d": 12,
-   "avg_7d": 1.7483920796219912,
+   "avg_life": 7.564604891425327,
+   "delta_7d": 10,
+   "avg_7d": 1.413751349936185,
    "base_7d": "2026-11-13",
    "delta_30d": null,
    "avg_30d": null,
@@ -125,116 +125,116 @@
   {
    "repo": "awslabs/aidlc-workflows",
    "group": "loop",
-   "stars": 6176,
-   "forks": 1104,
+   "stars": 6179,
+   "forks": 1106,
    "created": "2025-11",
    "release": "v2.11.4",
    "release_at": "2026-11-13T05:48:13Z",
-   "commits_7d": 51,
+   "commits_7d": 40,
    "archived": false,
-   "avg_life": 16.63590080358294,
+   "avg_life": 16.629323295249034,
    "delta_7d": 113,
-   "avg_7d": 16.464025416440418,
+   "avg_7d": 15.975390254278889,
    "base_7d": "2026-11-13",
-   "delta_30d": 961,
-   "avg_30d": 26.847220874963625,
+   "delta_30d": 964,
+   "avg_30d": 26.68705346471967,
    "base_30d": "2026-10-15",
-   "trend": 1.6138122721422716,
-   "released_this_week": true
+   "trend": 1.604818968932074,
+   "released_this_week": false
   },
   {
    "repo": "mattpocock/skills",
    "group": "skills",
-   "stars": 328248,
-   "forks": 27584,
+   "stars": 328507,
+   "forks": 27603,
    "created": "2026-02",
    "release": "v1.3.2",
    "release_at": "2026-10-29T10:27:41Z",
    "commits_7d": 4,
    "archived": false,
-   "avg_life": 1133.0767719644332,
-   "delta_7d": 5000,
-   "avg_7d": 728.4966998424964,
+   "avg_life": 1132.6913060938607,
+   "delta_7d": 5170,
+   "avg_7d": 730.9094479170076,
    "base_7d": "2026-11-13",
-   "delta_30d": 38626,
-   "avg_30d": 1039.0092867690394,
+   "delta_30d": 38885,
+   "avg_30d": 1036.849169342118,
    "base_30d": "2026-10-13",
-   "trend": 0.9169804840034735,
+   "trend": 0.9153854750750593,
    "released_this_week": false
   },
   {
    "repo": "obra/superpowers",
    "group": "skills",
-   "stars": 322204,
-   "forks": 28641,
+   "stars": 322479,
+   "forks": 28654,
    "created": "2025-10",
    "release": "v7.0.2",
    "release_at": "2026-11-03T22:17:54Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 792.9371734930721,
-   "delta_7d": 5267,
-   "avg_7d": 767.3984236140856,
+   "avg_life": 792.9753248055043,
+   "delta_7d": 5499,
+   "avg_7d": 777.4218673299081,
    "base_7d": "2026-11-13",
-   "delta_30d": 23703,
-   "avg_30d": 631.2953622149261,
+   "delta_30d": 23978,
+   "avg_30d": 633.1016614914092,
    "base_30d": "2026-10-13",
-   "trend": 0.7961480219598277,
+   "trend": 0.7983875937712087,
    "released_this_week": false
   },
   {
    "repo": "addyosmani/agent-skills",
    "group": "skills",
-   "stars": 119211,
-   "forks": 12409,
+   "stars": 119294,
+   "forks": 12421,
    "created": "2026-02",
    "release": "0.6.17",
    "release_at": "2026-11-18T20:06:40Z",
-   "commits_7d": 38,
+   "commits_7d": 36,
    "archived": false,
-   "avg_life": 429.87110832946996,
-   "delta_7d": 2344,
-   "avg_7d": 341.5192528861623,
+   "avg_life": 429.66338524004163,
+   "delta_7d": 2350,
+   "avg_7d": 332.23156723500347,
    "base_7d": "2026-11-13",
-   "delta_30d": 13229,
-   "avg_30d": 351.88558248418957,
+   "delta_30d": 13312,
+   "avg_30d": 351.0377091289103,
    "base_30d": "2026-10-13",
-   "trend": 0.8185839328715498,
+   "trend": 0.8170063384218667,
    "released_this_week": true
   },
   {
    "repo": "google/elephant-goldfish-model",
    "group": "skills",
-   "stars": 21484,
-   "forks": 1588,
+   "stars": 21562,
+   "forks": 1592,
    "created": "2026-09",
    "release": "v0.1.1",
    "release_at": "2026-11-06T21:50:31Z",
    "commits_7d": 6,
    "archived": false,
-   "avg_life": 318.3887029171004,
-   "delta_7d": 3173,
-   "avg_7d": 462.30400572004817,
+   "avg_life": 318.0024273211899,
+   "delta_7d": 3220,
+   "avg_7d": 455.22793467945155,
    "base_7d": "2026-11-13",
-   "delta_30d": 21465,
-   "avg_30d": 723.6130083470578,
+   "delta_30d": 21543,
+   "avg_30d": 718.3181004417622,
    "base_30d": "2026-10-21",
-   "trend": 2.27273455910107,
+   "trend": 2.2588447091199217,
    "released_this_week": false
   },
   {
    "repo": "EveryInc/compound-engineering-plugin",
    "group": "candidate",
-   "stars": 26164,
-   "forks": 2066,
+   "stars": 26166,
+   "forks": 2067,
    "created": "2025-10",
    "release": "compound-engineering-v3.38.2",
    "release_at": "2026-11-18T07:55:47Z",
-   "commits_7d": 11,
+   "commits_7d": 12,
    "archived": false,
-   "avg_life": 64.38887736257607,
-   "delta_7d": 106,
-   "avg_7d": 15.444130036660923,
+   "avg_life": 64.3419820214678,
+   "delta_7d": 108,
+   "avg_7d": 15.268514579310796,
    "base_7d": "2026-11-13",
    "delta_30d": null,
    "avg_30d": null,
@@ -245,16 +245,16 @@
   {
    "repo": "buildermethods/agent-os",
    "group": "candidate",
-   "stars": 5627,
+   "stars": 5628,
    "forks": 831,
    "created": "2025-07",
    "release": "v3.0.0",
    "release_at": "2026-01-20T17:26:20Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 11.453977161395356,
-   "delta_7d": 25,
-   "avg_7d": 3.6424834992124815,
+   "avg_life": 11.448386693263934,
+   "delta_7d": 26,
+   "avg_7d": 3.6757535098340806,
    "base_7d": "2026-11-13",
    "delta_30d": null,
    "avg_30d": null,
@@ -272,14 +272,14 @@
    "release_at": null,
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 8.615101721853963,
-   "delta_7d": 21,
-   "avg_7d": 3.0596861393384844,
+   "avg_life": 8.609687294138798,
+   "delta_7d": 19,
+   "avg_7d": 2.6861275648787513,
    "base_7d": "2026-11-13",
    "delta_30d": 107,
-   "avg_30d": 3.4369062193176525,
+   "avg_30d": 3.4011555717431254,
    "base_30d": "2026-10-20",
-   "trend": 0.3989397142693323,
+   "trend": 0.3950382232881471,
    "released_this_week": false
   },
   {
@@ -292,10 +292,30 @@
    "release_at": "2026-09-23T07:30:18Z",
    "commits_7d": 0,
    "archived": false,
-   "avg_life": 7.6868245858273045,
-   "delta_7d": 12,
-   "avg_7d": 1.7483920796219912,
+   "avg_life": 7.681704512470399,
+   "delta_7d": 11,
+   "avg_7d": 1.5551264849298034,
    "base_7d": "2026-11-13",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "backnotprop/pstack",
+   "group": "candidate",
+   "stars": 4632,
+   "forks": 358,
+   "created": "2026-05",
+   "release": null,
+   "release_at": null,
+   "commits_7d": 16,
+   "archived": false,
+   "avg_life": 26.1122190800649,
+   "delta_7d": null,
+   "avg_7d": null,
+   "base_7d": null,
    "delta_30d": null,
    "avg_30d": null,
    "base_30d": null,
@@ -338,11 +358,6 @@
    "at": "2026-11-19T04:04:25Z"
   },
   {
-   "repo": "awslabs/aidlc-workflows",
-   "tag": "v2.11.4",
-   "at": "2026-11-13T05:48:13Z"
-  },
-  {
    "repo": "addyosmani/agent-skills",
    "tag": "0.6.17",
    "at": "2026-11-18T20:06:40Z"
@@ -357,13 +372,13 @@
   {
    "repo": "SnailSploit/Claude-Red",
    "relevance": "핵심",
-   "stars": 11274,
-   "delta_7d": 510,
-   "avg_life": 43.20853324456884,
+   "stars": 11288,
+   "delta_7d": 524,
+   "avg_life": 43.20799814955116,
    "created": "2026-03-04",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +510/주"
+    "급상승 +524/주"
    ],
    "sources": [
     "topic:claude-skills"
@@ -378,18 +393,18 @@
     "redteam-tools",
     "skills"
    ],
-   "score": 510
+   "score": 524
   },
   {
    "repo": "Innei/ryugi",
    "relevance": "핵심",
-   "stars": 555,
-   "delta_7d": 150,
-   "avg_life": 17.48312556808673,
+   "stars": 562,
+   "delta_7d": 157,
+   "avg_life": 17.522995936894294,
    "created": "2026-10-19",
    "first_seen": "2026-11-14",
    "signals": [
-    "신생 고성장 17/일"
+    "신생 고성장 18/일"
    ],
    "sources": [
     "kw:\"coding agent\" workflow",
@@ -409,14 +424,14 @@
     "codex",
     "coding-agents"
    ],
-   "score": 150
+   "score": 157
   },
   {
    "repo": "ShuaiMXu/happyhands",
    "relevance": "핵심",
-   "stars": 519,
-   "delta_7d": 30,
-   "avg_life": 20.29327349957777,
+   "stars": 524,
+   "delta_7d": 35,
+   "avg_life": 20.2299245024022,
    "created": "2026-10-25",
    "first_seen": "2026-11-14",
    "signals": [
@@ -436,45 +451,19 @@
     "developer-tools",
     "ui-review"
    ],
-   "score": 30
-  },
-  {
-   "repo": "alibaba/open-code-review",
-   "relevance": "주변",
-   "stars": 54434,
-   "delta_7d": 3625,
-   "avg_life": 292.54476065881477,
-   "created": "2026-05-18",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "급상승 +3,625/주"
-   ],
-   "sources": [
-    "topic:agent-skills"
-   ],
-   "hn": null,
-   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-   "topics": [
-    "agent",
-    "agent-skills",
-    "code-review",
-    "code-review-assistant",
-    "harness",
-    "repository-level-context"
-   ],
-   "score": 3625
+   "score": 35
   },
   {
    "repo": "Tencent/LoopForge",
    "relevance": "주변",
-   "stars": 4241,
-   "delta_7d": 3564,
-   "avg_life": 36.87662413534182,
+   "stars": 5204,
+   "delta_7d": 4527,
+   "avg_life": 45.12177217311283,
    "created": "2026-07-28",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +3,564/주",
-    "신생 고성장 37/일"
+    "급상승 +4,527/주",
+    "신생 고성장 45/일"
    ],
    "sources": [
     "kw:\"coding agent\" workflow",
@@ -494,18 +483,44 @@
     "coding-agents",
     "cursor"
    ],
-   "score": 3564
+   "score": 4527
+  },
+  {
+   "repo": "alibaba/open-code-review",
+   "relevance": "주변",
+   "stars": 54527,
+   "delta_7d": 3718,
+   "avg_life": 292.5300935498653,
+   "created": "2026-05-18",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +3,718/주"
+   ],
+   "sources": [
+    "topic:agent-skills"
+   ],
+   "hn": null,
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+   "topics": [
+    "agent",
+    "agent-skills",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context"
+   ],
+   "score": 3718
   },
   {
    "repo": "tt-a1i/archify",
    "relevance": "주변",
-   "stars": 98097,
-   "delta_7d": 1834,
-   "avg_life": 448.05831178439485,
+   "stars": 98213,
+   "delta_7d": 1950,
+   "avg_life": 447.9186407424754,
    "created": "2026-04-15",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +1,834/주"
+    "급상승 +1,950/주"
    ],
    "sources": [
     "kw:\"agent skills\"",
@@ -526,18 +541,18 @@
     "developer-tools",
     "diagrams"
    ],
-   "score": 1834
+   "score": 1950
   },
   {
    "repo": "paperclipai/paperclip",
    "relevance": "주변",
-   "stars": 115253,
-   "delta_7d": 1511,
-   "avg_life": 438.993411522995,
+   "stars": 115347,
+   "delta_7d": 1605,
+   "avg_life": 438.80449980219413,
    "created": "2026-03-02",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +1,511/주"
+    "급상승 +1,605/주"
    ],
    "sources": [
     "topic:agent-skills",
@@ -557,18 +572,18 @@
     "autonomous-agents",
     "claude"
    ],
-   "score": 1511
+   "score": 1605
   },
   {
    "repo": "nexu-io/open-design",
    "relevance": "주변",
-   "stars": 108553,
-   "delta_7d": 1003,
-   "avg_life": 527.004219077359,
+   "stars": 108617,
+   "delta_7d": 1067,
+   "avg_life": 526.4785030689385,
    "created": "2026-04-28",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +1,003/주"
+    "급상승 +1,067/주"
    ],
    "sources": [
     "topic:agent-skills"
@@ -587,48 +602,18 @@
     "deepseek-harness",
     "design-systems"
    ],
-   "score": 1003
-  },
-  {
-   "repo": "ruvnet/ruflo",
-   "relevance": "주변",
-   "stars": 82122,
-   "delta_7d": 465,
-   "avg_life": 153.42059601654935,
-   "created": "2025-06-02",
-   "first_seen": "2026-11-14",
-   "signals": [
-    "급상승 +465/주"
-   ],
-   "sources": [
-    "topic:agentic-workflow"
-   ],
-   "hn": null,
-   "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
-   "topics": [
-    "agent-memory",
-    "agent-orchestration",
-    "agentic-ai",
-    "agentic-workflow",
-    "ai-agents",
-    "autonomous-agents",
-    "claude",
-    "claude-code",
-    "codex",
-    "hnsw"
-   ],
-   "score": 465
+   "score": 1067
   },
   {
    "repo": "alchaincyf/huashu-design",
    "relevance": "주변",
-   "stars": 29904,
-   "delta_7d": 455,
-   "avg_life": 139.37817304887164,
+   "stars": 29943,
+   "delta_7d": 494,
+   "avg_life": 139.34740771263057,
    "created": "2026-04-19",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +455/주"
+    "급상승 +494/주"
    ],
    "sources": [
     "topic:claude-skills"
@@ -647,18 +632,48 @@
     "deepseek-harness",
     "design"
    ],
-   "score": 455
+   "score": 494
+  },
+  {
+   "repo": "ruvnet/ruflo",
+   "relevance": "주변",
+   "stars": 82136,
+   "delta_7d": 479,
+   "avg_life": 153.35299683749102,
+   "created": "2025-06-02",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +479/주"
+   ],
+   "sources": [
+    "topic:agentic-workflow"
+   ],
+   "hn": null,
+   "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
+   "topics": [
+    "agent-memory",
+    "agent-orchestration",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-agents",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "codex",
+    "hnsw"
+   ],
+   "score": 479
   },
   {
    "repo": "alchaincyf/nuwa-skill",
    "relevance": "주변",
-   "stars": 38658,
-   "delta_7d": 411,
-   "avg_life": 168.82999272424652,
+   "stars": 38688,
+   "delta_7d": 441,
+   "avg_life": 168.71988157355983,
    "created": "2026-04-05",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +411/주"
+    "급상승 +441/주"
    ],
    "sources": [
     "topic:agent-skills",
@@ -678,18 +693,18 @@
     "deepseek-harness",
     "dsh-plugin"
    ],
-   "score": 411
+   "score": 441
   },
   {
    "repo": "sickn33/agentic-awesome-skills",
    "relevance": "주변",
-   "stars": 50006,
-   "delta_7d": 334,
-   "avg_life": 161.61008367816925,
+   "stars": 50025,
+   "delta_7d": 353,
+   "avg_life": 161.5006856425563,
    "created": "2026-01-14",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +334/주"
+    "급상승 +353/주"
    ],
    "sources": [
     "kw:\"agent skills\"",
@@ -709,18 +724,18 @@
     "claude-code",
     "claude-code-skills"
    ],
-   "score": 334
+   "score": 353
   },
   {
    "repo": "infiniflow/ragflow",
    "relevance": "주변",
-   "stars": 94456,
-   "delta_7d": 325,
-   "avg_life": 87.9555276244699,
+   "stars": 94474,
+   "delta_7d": 343,
+   "avg_life": 87.9454897339978,
    "created": "2023-12-12",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +325/주"
+    "급상승 +343/주"
    ],
    "sources": [
     "topic:context-engineering"
@@ -739,18 +754,18 @@
     "context-engineering",
     "context-management"
    ],
-   "score": 325
+   "score": 343
   },
   {
    "repo": "OrchestratorInc/agent-orchestrator",
    "relevance": "주변",
-   "stars": 14941,
-   "delta_7d": 315,
-   "avg_life": 53.40763582555541,
+   "stars": 14960,
+   "delta_7d": 334,
+   "avg_life": 53.41307209961395,
    "created": "2026-02-13",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +315/주"
+    "급상승 +334/주"
    ],
    "sources": [
     "topic:agentic-coding"
@@ -769,18 +784,18 @@
     "codex",
     "codex-cli"
    ],
-   "score": 315
+   "score": 334
   },
   {
    "repo": "Gentleman-Programming/gentle-shell",
    "relevance": "주변",
-   "stars": 2834,
-   "delta_7d": 248,
-   "avg_life": 14.62778796775881,
+   "stars": 2838,
+   "delta_7d": 252,
+   "avg_life": 14.623733329564134,
    "created": "2026-05-10",
    "first_seen": "2026-11-14",
    "signals": [
-    "급상승 +248/주"
+    "급상승 +252/주"
    ],
    "sources": [
     "topic:sdd",
@@ -800,18 +815,18 @@
     "gentle-ai",
     "gentle-shell-package"
    ],
-   "score": 248
+   "score": 252
   },
   {
    "repo": "ineedfoundmyway/planrelay",
    "relevance": "주변",
-   "stars": 118,
+   "stars": 119,
    "delta_7d": null,
-   "avg_life": 24.529627455320625,
+   "avg_life": 23.161869061189183,
    "created": "2026-11-15",
    "first_seen": "2026-11-20",
    "signals": [
-    "신생 고성장 25/일"
+    "신생 고성장 23/일"
    ],
    "sources": [
     "new:\"coding agent\" workflow"
@@ -828,18 +843,18 @@
     "plan-review",
     "plannotator"
    ],
-   "score": 171.70739218724438
+   "score": 162.13308342832428
   },
   {
    "repo": "sno-ai/sno-station",
    "relevance": "주변",
    "stars": 1024,
    "delta_7d": null,
-   "avg_life": 16.548943937145378,
+   "avg_life": 16.461882997559563,
    "created": "2026-09-19",
    "first_seen": "2026-11-20",
    "signals": [
-    "신생 고성장 17/일"
+    "신생 고성장 16/일"
    ],
    "sources": [
     "topic:agentic-coding"
@@ -858,14 +873,14 @@
     "code-review",
     "codex"
    ],
-   "score": 115.84260756001764
+   "score": 115.23318098291693
   },
   {
    "repo": "soumatheusgomes/vibe-coding-toolkit",
    "relevance": "주변",
-   "stars": 2516,
-   "delta_7d": 99,
-   "avg_life": 25.89053562374743,
+   "stars": 2517,
+   "delta_7d": 100,
+   "avg_life": 25.81389841634236,
    "created": "2026-08-14",
    "first_seen": "2026-11-14",
    "signals": [
@@ -884,14 +899,14 @@
     "llm-agents",
     "prompts"
    ],
-   "score": 99
+   "score": 100
   },
   {
    "repo": "mikehasa/golive-skill",
    "relevance": "주변",
-   "stars": 1578,
-   "delta_7d": 43,
-   "avg_life": 27.396846269714832,
+   "stars": 1580,
+   "delta_7d": 45,
+   "avg_life": 27.27659633986249,
    "created": "2026-09-23",
    "first_seen": "2026-11-14",
    "signals": [
@@ -914,14 +929,14 @@
     "developer-tools",
     "devops"
    ],
-   "score": 43
+   "score": 45
   },
   {
    "repo": "huaxialucaicaizi/ai-startup-skills",
    "relevance": "주변",
-   "stars": 932,
-   "delta_7d": 8,
-   "avg_life": 32.43707031600895,
+   "stars": 933,
+   "delta_7d": 9,
+   "avg_life": 32.10620499632184,
    "created": "2026-10-22",
    "first_seen": "2026-11-14",
    "signals": [
@@ -944,22 +959,25 @@
     "mvp-validation",
     "one-person-company"
    ],
-   "score": 8
+   "score": 9
   }
  ],
- "candidate_pool_size": 326,
+ "candidate_pool_size": 325,
  "ecosystem_new_repos_by_month": {
   "2026-08": 807,
   "2026-09": 899,
   "2026-10": 994
  },
- "missing_7d": [],
+ "missing_7d": [
+  "backnotprop/pstack"
+ ],
  "missing_30d": [
   "modu-ai/moai-adk",
   "open-gsd/gsd-core",
   "open-gsd/gsd-pi",
   "EveryInc/compound-engineering-plugin",
   "buildermethods/agent-os",
-  "gotalab/cc-sdd"
+  "gotalab/cc-sdd",
+  "backnotprop/pstack"
  ]
 }

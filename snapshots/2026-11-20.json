@@ -1,13 +1,13 @@
 {
- "as_of": "2026-11-20T03:58:22Z",
+ "as_of": "2026-11-20T11:49:36Z",
  "source": "GitHub REST API (authenticated)",
  "repos": {
   "github/spec-kit": {
    "group": "spec",
    "full_name": "github/spec-kit",
-   "stars": 150716,
-   "forks": 13538,
-   "open_issues": 218,
+   "stars": 150768,
+   "forks": 13547,
+   "open_issues": 220,
    "created_at": "2025-08-21T22:54:31Z",
    "pushed_at": "2026-11-19T16:00:16Z",
    "archived": false,
@@ -21,8 +21,8 @@
   "Fission-AI/OpenSpec": {
    "group": "spec",
    "full_name": "Fission-AI/OpenSpec",
-   "stars": 75289,
-   "forks": 5157,
+   "stars": 75319,
+   "forks": 5158,
    "open_issues": 205,
    "created_at": "2025-08-05T10:37:45Z",
    "pushed_at": "2026-11-19T22:29:39Z",
@@ -37,11 +37,11 @@
   "bmad-code-org/BMAD-METHOD": {
    "group": "spec",
    "full_name": "bmad-code-org/BMAD-METHOD",
-   "stars": 55559,
-   "forks": 6198,
-   "open_issues": 109,
+   "stars": 55571,
+   "forks": 6199,
+   "open_issues": 110,
    "created_at": "2025-04-13T14:54:25Z",
-   "pushed_at": "2026-11-20T01:32:54Z",
+   "pushed_at": "2026-11-20T11:48:55Z",
    "archived": false,
    "description": "Breakthrough Method for Agile Ai Driven Development",
    "latest_release": {
@@ -53,11 +53,11 @@
   "modu-ai/moai-adk": {
    "group": "spec",
    "full_name": "modu-ai/moai-adk",
-   "stars": 1259,
+   "stars": 1258,
    "forks": 223,
    "open_issues": 0,
    "created_at": "2025-09-16T13:07:11Z",
-   "pushed_at": "2026-11-20T03:36:04Z",
+   "pushed_at": "2026-11-20T11:45:36Z",
    "archived": false,
    "description": "Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude×GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
    "latest_release": {
@@ -69,23 +69,23 @@
   "open-gsd/gsd-core": {
    "group": "loop",
    "full_name": "open-gsd/gsd-core",
-   "stars": 11712,
-   "forks": 845,
-   "open_issues": 413,
+   "stars": 11721,
+   "forks": 846,
+   "open_issues": 414,
    "created_at": "2026-05-22T11:36:21Z",
-   "pushed_at": "2026-11-20T03:43:55Z",
+   "pushed_at": "2026-11-20T07:23:22Z",
    "archived": false,
    "description": "Git. Ship. Done - Core",
    "latest_release": {
     "tag": "v1.22.0",
     "published_at": "2026-11-19T04:04:25Z"
    },
-   "commits_7d": 118
+   "commits_7d": 115
   },
   "open-gsd/gsd-pi": {
    "group": "loop",
    "full_name": "open-gsd/gsd-pi",
-   "stars": 1379,
+   "stars": 1377,
    "forks": 117,
    "open_issues": 94,
    "created_at": "2026-05-22T11:03:33Z",
@@ -96,30 +96,30 @@
     "tag": "v1.23.0",
     "published_at": "2026-10-29T02:40:27Z"
    },
-   "commits_7d": 24
+   "commits_7d": 14
   },
   "awslabs/aidlc-workflows": {
    "group": "loop",
    "full_name": "awslabs/aidlc-workflows",
-   "stars": 6176,
-   "forks": 1104,
-   "open_issues": 343,
+   "stars": 6179,
+   "forks": 1106,
+   "open_issues": 351,
    "created_at": "2025-11-13T22:05:08Z",
-   "pushed_at": "2026-11-20T03:56:14Z",
+   "pushed_at": "2026-11-20T11:49:31Z",
    "archived": false,
    "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
    "latest_release": {
     "tag": "v2.11.4",
     "published_at": "2026-11-13T05:48:13Z"
    },
-   "commits_7d": 51
+   "commits_7d": 40
   },
   "mattpocock/skills": {
    "group": "skills",
    "full_name": "mattpocock/skills",
-   "stars": 328248,
-   "forks": 27584,
-   "open_issues": 258,
+   "stars": 328507,
+   "forks": 27603,
+   "open_issues": 260,
    "created_at": "2026-02-03T11:15:53Z",
    "pushed_at": "2026-11-19T13:35:13Z",
    "archived": false,
@@ -133,9 +133,9 @@
   "obra/superpowers": {
    "group": "skills",
    "full_name": "obra/superpowers",
-   "stars": 322204,
-   "forks": 28641,
-   "open_issues": 352,
+   "stars": 322479,
+   "forks": 28654,
+   "open_issues": 356,
    "created_at": "2025-10-09T19:45:18Z",
    "pushed_at": "2026-11-03T23:24:58Z",
    "archived": false,
@@ -149,9 +149,9 @@
   "addyosmani/agent-skills": {
    "group": "skills",
    "full_name": "addyosmani/agent-skills",
-   "stars": 119211,
-   "forks": 12409,
-   "open_issues": 121,
+   "stars": 119294,
+   "forks": 12421,
+   "open_issues": 122,
    "created_at": "2026-02-15T20:20:26Z",
    "pushed_at": "2026-11-18T20:06:38Z",
    "archived": false,
@@ -160,14 +160,14 @@
     "tag": "0.6.17",
     "published_at": "2026-11-18T20:06:40Z"
    },
-   "commits_7d": 38
+   "commits_7d": 36
   },
   "google/elephant-goldfish-model": {
    "group": "skills",
    "full_name": "google/elephant-goldfish-model",
-   "stars": 21484,
-   "forks": 1588,
-   "open_issues": 131,
+   "stars": 21562,
+   "forks": 1592,
+   "open_issues": 132,
    "created_at": "2026-09-13T16:31:06Z",
    "pushed_at": "2026-11-19T20:22:02Z",
    "archived": false,
@@ -181,23 +181,23 @@
   "EveryInc/compound-engineering-plugin": {
    "group": "candidate",
    "full_name": "EveryInc/compound-engineering-plugin",
-   "stars": 26164,
-   "forks": 2066,
-   "open_issues": 84,
+   "stars": 26166,
+   "forks": 2067,
+   "open_issues": 83,
    "created_at": "2025-10-09T19:43:46Z",
-   "pushed_at": "2026-11-20T02:56:44Z",
+   "pushed_at": "2026-11-20T07:53:12Z",
    "archived": false,
    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
    "latest_release": {
     "tag": "compound-engineering-v3.38.2",
     "published_at": "2026-11-18T07:55:47Z"
    },
-   "commits_7d": 11
+   "commits_7d": 12
   },
   "buildermethods/agent-os": {
    "group": "candidate",
    "full_name": "buildermethods/agent-os",
-   "stars": 5627,
+   "stars": 5628,
    "forks": 831,
    "open_issues": 1,
    "created_at": "2025-07-16T21:28:59Z",
@@ -238,13 +238,26 @@
     "published_at": "2026-09-23T07:30:18Z"
    },
    "commits_7d": 0
+  },
+  "backnotprop/pstack": {
+   "group": "candidate",
+   "full_name": "backnotprop/pstack",
+   "stars": 4632,
+   "forks": 358,
+   "open_issues": 4,
+   "created_at": "2026-05-27T02:30:34Z",
+   "pushed_at": "2026-11-19T20:16:08Z",
+   "archived": false,
+   "description": "Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering",
+   "latest_release": null,
+   "commits_7d": 16
   }
  },
  "candidates": {
   "JetBrains/thinkrail": {
-   "stars": 8363,
+   "stars": 8370,
    "created_at": "2026-07-08T07:40:43Z",
-   "pushed_at": "2026-11-20T03:58:19Z",
+   "pushed_at": "2026-11-20T11:30:11Z",
    "description": "ThinkRail is the agentic IDE that gets better every time you use it",
    "topics": [
     "agent",
@@ -283,7 +296,7 @@
   "spec-kitty/spec-kitty": {
    "stars": 1734,
    "created_at": "2025-10-09T12:29:47Z",
-   "pushed_at": "2026-11-19T07:57:34Z",
+   "pushed_at": "2026-11-20T11:49:49Z",
    "description": "Spec-Driven Development with organizational governance. Specs tell AI agents what to build; Charter governs how they build it. Git-native missions, enforceable workflows, and consistent engineering st",
    "topics": [
     "agentic-coding",
@@ -349,7 +362,7 @@
   "cabloy/cabloy": {
    "stars": 986,
    "created_at": "2018-01-14T05:13:19Z",
-   "pushed_at": "2026-11-20T01:15:24Z",
+   "pushed_at": "2026-11-20T11:41:31Z",
    "description": "Cabloy is a Node.js fullstack framework for AI vibe coding, with AI Spec-Driven Development guiding work from confirmed specs to verifiable delivery.",
    "topics": [
     "framework",
@@ -369,7 +382,7 @@
    "last_matched": "2026-11-20"
   },
   "kaochenlong/spectra-app": {
-   "stars": 777,
+   "stars": 778,
    "created_at": "2026-02-04T03:13:04Z",
    "pushed_at": "2026-11-17T15:32:20Z",
    "description": "Spec-driven development for coding agents — a desktop app, a CLI, and skills for Codex, Claude Code, Cursor, Copilot, Antigravity and Junie",
@@ -396,7 +409,7 @@
   "devoxx/DevoxxGenieIDEAPlugin": {
    "stars": 695,
    "created_at": "2024-04-14T21:08:14Z",
-   "pushed_at": "2026-11-18T11:31:40Z",
+   "pushed_at": "2026-11-20T07:56:16Z",
    "description": "DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest ver",
    "topics": [
     "anthropic",
@@ -479,7 +492,7 @@
   "kaanozhan/Frame": {
    "stars": 461,
    "created_at": "2026-01-20T22:32:25Z",
-   "pushed_at": "2026-11-19T20:40:30Z",
+   "pushed_at": "2026-11-20T11:27:01Z",
    "description": "ADE( Agentic Development Environment) The spec-driven environment for AI coding agents, where your planning becomes lasting, shared project context.",
    "topics": [
     "ade",
@@ -553,7 +566,7 @@
   "specmatic/specmatic": {
    "stars": 401,
    "created_at": "2020-03-16T13:33:07Z",
-   "pushed_at": "2026-11-19T17:00:55Z",
+   "pushed_at": "2026-11-20T11:49:53Z",
    "description": "Shift-left API Integration | Auto-fix integration drift before integration. Specmatic turns API specifications into executable contracts, continuously verifying that every change made by AI coding age",
    "topics": [
     "asyncapi",
@@ -664,7 +677,7 @@
   "kubeshop/testkube": {
    "stars": 1682,
    "created_at": "2021-07-01T07:47:49Z",
-   "pushed_at": "2026-11-19T22:10:29Z",
+   "pushed_at": "2026-11-20T11:41:51Z",
    "description": "☸️ The Testing Platform for the agentic SDLC",
    "topics": [
     "ai",
@@ -708,7 +721,7 @@
    "last_matched": "2026-11-20"
   },
   "anthropics/skills": {
-   "stars": 197760,
+   "stars": 197883,
    "created_at": "2025-09-22T15:53:31Z",
    "pushed_at": "2026-11-16T14:22:50Z",
    "description": "Public repository for Agent Skills",
@@ -723,7 +736,7 @@
    "last_matched": "2026-11-20"
   },
   "Shubhamsaboo/awesome-llm-apps": {
-   "stars": 145094,
+   "stars": 145136,
    "created_at": "2024-04-29T05:30:25Z",
    "pushed_at": "2026-11-18T05:25:32Z",
    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
@@ -740,7 +753,7 @@
    "last_matched": "2026-11-20"
   },
   "Leonxlnx/taste-skill": {
-   "stars": 118960,
+   "stars": 119130,
    "created_at": "2026-02-19T21:44:05Z",
    "pushed_at": "2026-11-08T21:51:50Z",
    "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
@@ -764,7 +777,7 @@
    "last_matched": "2026-11-20"
   },
   "tt-a1i/archify": {
-   "stars": 98097,
+   "stars": 98213,
    "created_at": "2026-04-15T05:27:37Z",
    "pushed_at": "2026-11-20T00:24:18Z",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
@@ -789,7 +802,7 @@
    "last_matched": "2026-11-20"
   },
   "OpenMontageInc/OpenMontage": {
-   "stars": 81785,
+   "stars": 81861,
    "created_at": "2026-03-29T15:23:22Z",
    "pushed_at": "2026-11-16T06:55:27Z",
    "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
@@ -812,7 +825,7 @@
    "last_matched": "2026-11-20"
   },
   "blader/humanizer": {
-   "stars": 71330,
+   "stars": 71493,
    "created_at": "2026-01-18T05:30:15Z",
    "pushed_at": "2026-11-19T18:53:14Z",
    "description": "Agent skill that removes signs of AI-generated writing from text",
@@ -836,9 +849,9 @@
    "last_matched": "2026-11-20"
   },
   "mvanhorn/last30days-skill": {
-   "stars": 70904,
+   "stars": 71151,
    "created_at": "2026-01-23T20:37:37Z",
-   "pushed_at": "2026-11-20T03:55:02Z",
+   "pushed_at": "2026-11-20T05:45:47Z",
    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
    "topics": [
     "ai-prompts",
@@ -859,7 +872,7 @@
    "last_matched": "2026-11-20"
   },
   "K-Dense-AI/scientific-agent-skills": {
-   "stars": 57866,
+   "stars": 57906,
    "created_at": "2025-10-19T20:54:15Z",
    "pushed_at": "2026-11-16T09:19:25Z",
    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
@@ -884,7 +897,7 @@
    "last_matched": "2026-11-20"
   },
   "obsidianmd/obsidian-skills": {
-   "stars": 53258,
+   "stars": 53277,
    "created_at": "2026-01-02T21:45:11Z",
    "pushed_at": "2026-11-19T15:06:02Z",
    "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
@@ -908,9 +921,9 @@
    "last_matched": "2026-11-20"
   },
   "sickn33/agentic-awesome-skills": {
-   "stars": 50006,
+   "stars": 50025,
    "created_at": "2026-01-14T17:48:09Z",
-   "pushed_at": "2026-11-20T01:19:56Z",
+   "pushed_at": "2026-11-20T09:31:08Z",
    "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
    "topics": [
     "agent-skills",
@@ -932,7 +945,7 @@
    "last_matched": "2026-11-20"
   },
   "wshobson/agents": {
-   "stars": 42713,
+   "stars": 42722,
    "created_at": "2025-07-24T23:28:14Z",
    "pushed_at": "2026-11-18T13:13:28Z",
    "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida",
@@ -958,7 +971,7 @@
    "last_matched": "2026-11-20"
   },
   "github/awesome-copilot": {
-   "stars": 41364,
+   "stars": 41379,
    "created_at": "2025-06-11T16:57:39Z",
    "pushed_at": "2026-11-20T03:13:57Z",
    "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
@@ -980,7 +993,7 @@
    "last_matched": "2026-11-20"
   },
   "vercel-labs/skills": {
-   "stars": 40119,
+   "stars": 40159,
    "created_at": "2026-01-14T21:31:18Z",
    "pushed_at": "2026-11-17T00:58:04Z",
    "description": "The open agent skills tool - npx skills",
@@ -992,7 +1005,7 @@
    "last_matched": "2026-11-20"
   },
   "VoltAgent/awesome-agent-skills": {
-   "stars": 37365,
+   "stars": 37376,
    "created_at": "2025-10-28T08:55:32Z",
    "pushed_at": "2026-11-15T18:23:24Z",
    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
@@ -1017,7 +1030,7 @@
    "last_matched": "2026-11-20"
   },
   "vercel-labs/agent-skills": {
-   "stars": 34558,
+   "stars": 34585,
    "created_at": "2025-12-08T19:10:06Z",
    "pushed_at": "2026-11-12T14:09:10Z",
    "description": "Vercel's official collection of agent skills",
@@ -1029,7 +1042,7 @@
    "last_matched": "2026-11-20"
   },
   "googleworkspace/cli": {
-   "stars": 32408,
+   "stars": 32410,
    "created_at": "2026-03-02T19:46:06Z",
    "pushed_at": "2026-11-03T01:37:22Z",
    "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
@@ -1052,8 +1065,31 @@
    "first_seen": "2026-11-14",
    "last_matched": "2026-11-20"
   },
+  "op7418/guizang-ppt-skill": {
+   "stars": 30175,
+   "created_at": "2026-04-23T13:23:07Z",
+   "pushed_at": "2026-10-30T12:45:28Z",
+   "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+   "topics": [
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "html-deck",
+    "image-generation",
+    "ppt",
+    "presentation",
+    "skill",
+    "skills",
+    "swiss-design"
+   ],
+   "sources": [
+    "kw:\"agent skills\""
+   ],
+   "first_seen": "2026-11-14",
+   "last_matched": "2026-11-20"
+  },
   "alirezarezvani/claude-skills": {
-   "stars": 30154,
+   "stars": 30175,
    "created_at": "2025-10-19T04:04:05Z",
    "pushed_at": "2026-11-19T07:26:37Z",
    "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engi",
@@ -1077,31 +1113,8 @@
    "first_seen": "2026-11-14",
    "last_matched": "2026-11-20"
   },
-  "op7418/guizang-ppt-skill": {
-   "stars": 30138,
-   "created_at": "2026-04-23T13:23:07Z",
-   "pushed_at": "2026-10-30T12:45:28Z",
-   "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
-   "topics": [
-    "ai-agent",
-    "claude-code",
-    "codex",
-    "html-deck",
-    "image-generation",
-    "ppt",
-    "presentation",
-    "skill",
-    "skills",
-    "swiss-design"
-   ],
-   "sources": [
-    "kw:\"agent skills\""
-   ],
-   "first_seen": "2026-11-14",
-   "last_matched": "2026-11-20"
-  },
   "phuryn/pm-skills": {
-   "stars": 28189,
+   "stars": 28194,
    "created_at": "2026-03-01T23:33:44Z",
    "pushed_at": "2026-11-08T23:10:04Z",
    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
@@ -1121,7 +1134,7 @@
    "last_matched": "2026-11-20"
   },
   "agentskills/agentskills": {
-   "stars": 27468,
+   "stars": 27474,
    "created_at": "2025-12-16T15:47:19Z",
    "pushed_at": "2026-11-04T19:47:27Z",
    "description": "Specification and documentation for Agent Skills",
@@ -1135,7 +1148,7 @@
    "last_matched": "2026-11-20"
   },
   "NVIDIA/SkillSpector": {
-   "stars": 26971,
+   "stars": 27012,
    "created_at": "2026-03-21T00:28:43Z",
    "pushed_at": "2026-11-19T14:51:51Z",
    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo",
@@ -1158,7 +1171,7 @@
    "last_matched": "2026-11-20"
   },
   "google/skills": {
-   "stars": 24458,
+   "stars": 24469,
    "created_at": "2026-03-31T19:02:20Z",
    "pushed_at": "2026-11-19T23:06:09Z",
    "description": "Agent Skills for Google products and technologies",
@@ -1174,7 +1187,7 @@
    "last_matched": "2026-11-20"
   },
   "KKKKhazix/khazix-skills": {
-   "stars": 22416,
+   "stars": 22423,
    "created_at": "2026-04-06T07:37:02Z",
    "pushed_at": "2026-11-18T12:51:25Z",
    "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
@@ -1196,7 +1209,7 @@
    "last_matched": "2026-11-20"
   },
   "liyupi/ai-guide": {
-   "stars": 22248,
+   "stars": 22262,
    "created_at": "2025-02-13T05:47:46Z",
    "pushed_at": "2026-11-12T02:10:38Z",
    "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu",
@@ -1219,7 +1232,7 @@
    "last_matched": "2026-11-20"
   },
   "teng-lin/notebooklm-py": {
-   "stars": 20305,
+   "stars": 20310,
    "created_at": "2026-01-07T15:27:19Z",
    "pushed_at": "2026-11-19T21:26:28Z",
    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen",
@@ -1243,7 +1256,7 @@
    "last_matched": "2026-11-20"
   },
   "larksuite/cli": {
-   "stars": 18164,
+   "stars": 18170,
    "created_at": "2026-03-25T07:13:30Z",
    "pushed_at": "2026-11-19T03:58:57Z",
    "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,",
@@ -1255,9 +1268,9 @@
    "last_matched": "2026-11-20"
   },
   "genspark-ai/genoffice": {
-   "stars": 12660,
+   "stars": 12676,
    "created_at": "2026-07-31T09:40:58Z",
-   "pushed_at": "2026-11-19T14:12:33Z",
+   "pushed_at": "2026-11-20T08:25:54Z",
    "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and",
    "topics": [
     "ai",
@@ -1278,7 +1291,7 @@
    "last_matched": "2026-11-20"
   },
   "jakubkrehel/skills": {
-   "stars": 12433,
+   "stars": 12459,
    "created_at": "2026-07-10T08:58:36Z",
    "pushed_at": "2026-11-19T04:11:32Z",
    "description": "A collection of agent skills that help you build great interfaces.",
@@ -1290,7 +1303,7 @@
    "last_matched": "2026-11-20"
   },
   "wheresryan22/anatomy": {
-   "stars": 28268,
+   "stars": 28337,
    "created_at": "2026-10-08T10:12:49Z",
    "pushed_at": "2026-10-18T20:20:24Z",
    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
@@ -1307,7 +1320,7 @@
    "last_matched": "2026-11-20"
   },
   "janestreet/agent_skills": {
-   "stars": 10306,
+   "stars": 10359,
    "created_at": "2026-11-03T16:50:21Z",
    "pushed_at": "2026-11-17T16:38:00Z",
    "description": "Agent skills",
@@ -1319,7 +1332,7 @@
    "last_matched": "2026-11-20"
   },
   "QingYunA/answer-me-with-html": {
-   "stars": 6559,
+   "stars": 6570,
    "created_at": "2026-10-02T09:57:40Z",
    "pushed_at": "2026-11-20T01:48:50Z",
    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
@@ -1342,7 +1355,7 @@
    "last_matched": "2026-11-20"
   },
   "t3dotgg/tstack": {
-   "stars": 4200,
+   "stars": 4217,
    "created_at": "2026-10-24T05:00:20Z",
    "pushed_at": "2026-11-11T11:33:03Z",
    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
@@ -1354,7 +1367,7 @@
    "last_matched": "2026-11-20"
   },
   "nanaism/yomiyasu": {
-   "stars": 3401,
+   "stars": 3410,
    "created_at": "2026-09-30T11:49:32Z",
    "pushed_at": "2026-11-20T02:27:42Z",
    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
@@ -1377,7 +1390,7 @@
    "last_matched": "2026-11-20"
   },
   "caru-ini/stack-diagram": {
-   "stars": 2662,
+   "stars": 2671,
    "created_at": "2026-11-01T05:35:12Z",
    "pushed_at": "2026-11-19T09:00:34Z",
    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
@@ -1398,7 +1411,7 @@
    "last_matched": "2026-11-20"
   },
   "UnderleveledBuilder/awesome-short-drama-skills": {
-   "stars": 2620,
+   "stars": 2641,
    "created_at": "2026-10-13T20:35:18Z",
    "pushed_at": "2026-11-19T07:52:11Z",
    "description": "AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama ",
@@ -1421,7 +1434,7 @@
    "last_matched": "2026-11-20"
   },
   "EL4CTEO/blender-skills": {
-   "stars": 2465,
+   "stars": 2494,
    "created_at": "2026-10-14T19:08:14Z",
    "pushed_at": "2026-11-17T15:20:14Z",
    "description": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
@@ -1444,7 +1457,7 @@
    "last_matched": "2026-11-20"
   },
   "morganlinton/BeautifulRust": {
-   "stars": 2071,
+   "stars": 2075,
    "created_at": "2026-10-23T03:01:11Z",
    "pushed_at": "2026-11-08T17:21:11Z",
    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
@@ -1467,7 +1480,7 @@
    "last_matched": "2026-11-20"
   },
   "andyhuo520/digital-human-koubo": {
-   "stars": 2047,
+   "stars": 2052,
    "created_at": "2026-10-26T04:34:09Z",
    "pushed_at": "2026-10-31T12:05:46Z",
    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
@@ -1479,7 +1492,7 @@
    "last_matched": "2026-11-20"
   },
   "daveebbelaar/bama": {
-   "stars": 1912,
+   "stars": 1917,
    "created_at": "2026-10-24T08:44:36Z",
    "pushed_at": "2026-11-05T13:09:56Z",
    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
@@ -1503,7 +1516,7 @@
    "last_matched": "2026-11-20"
   },
   "Tejashmakwana/motionmaxxing": {
-   "stars": 1692,
+   "stars": 1705,
    "created_at": "2026-10-06T18:18:49Z",
    "pushed_at": "2026-10-06T18:20:43Z",
    "description": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
@@ -1524,7 +1537,7 @@
    "last_matched": "2026-11-20"
   },
   "mikehasa/golive-skill": {
-   "stars": 1578,
+   "stars": 1580,
    "created_at": "2026-09-23T13:37:26Z",
    "pushed_at": "2026-10-11T21:04:01Z",
    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
@@ -1570,7 +1583,7 @@
    "last_matched": "2026-11-20"
   },
   "juliobsz/skills": {
-   "stars": 1381,
+   "stars": 1384,
    "created_at": "2026-10-12T00:07:32Z",
    "pushed_at": "2026-10-26T15:35:41Z",
    "description": "An agent skill that builds award-caliber websites from one line",
@@ -1593,7 +1606,7 @@
    "last_matched": "2026-11-20"
   },
   "sybil-solutions/inference-optimisation-skill": {
-   "stars": 1270,
+   "stars": 1287,
    "created_at": "2026-11-16T18:40:04Z",
    "pushed_at": "2026-11-16T18:40:08Z",
    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
@@ -1612,7 +1625,7 @@
    "last_matched": "2026-11-20"
   },
   "konlu/story-studio": {
-   "stars": 1185,
+   "stars": 1191,
    "created_at": "2026-10-26T09:20:06Z",
    "pushed_at": "2026-11-13T02:29:23Z",
    "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
@@ -1647,9 +1660,9 @@
    "last_matched": "2026-11-20"
   },
   "kubai087/kubai-icons": {
-   "stars": 1041,
+   "stars": 1053,
    "created_at": "2026-11-03T09:52:39Z",
-   "pushed_at": "2026-11-20T03:53:10Z",
+   "pushed_at": "2026-11-20T09:10:39Z",
    "description": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th",
    "topics": [
     "agent-skills",
@@ -1670,7 +1683,7 @@
    "last_matched": "2026-11-20"
   },
   "Dodaios/ste80-humanizer": {
-   "stars": 990,
+   "stars": 1001,
    "created_at": "2026-11-09T17:18:59Z",
    "pushed_at": "2026-11-18T13:11:10Z",
    "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
@@ -1693,7 +1706,7 @@
    "last_matched": "2026-11-20"
   },
   "huaxialucaicaizi/ai-startup-skills": {
-   "stars": 932,
+   "stars": 933,
    "created_at": "2026-10-22T10:23:29Z",
    "pushed_at": "2026-11-18T13:43:17Z",
    "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
@@ -1751,7 +1764,7 @@
    "last_matched": "2026-11-20"
   },
   "Moh4696/cinematic-skill": {
-   "stars": 816,
+   "stars": 829,
    "created_at": "2026-11-09T07:58:11Z",
    "pushed_at": "2026-11-09T15:35:12Z",
    "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
@@ -1772,7 +1785,7 @@
    "last_matched": "2026-11-20"
   },
   "wangrongding/tv-fresh": {
-   "stars": 800,
+   "stars": 801,
    "created_at": "2026-10-24T16:58:15Z",
    "pushed_at": "2026-10-25T17:33:37Z",
    "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
@@ -1784,7 +1797,7 @@
    "last_matched": "2026-11-20"
   },
   "lhlGitHub/threejs-architecture-effects": {
-   "stars": 744,
+   "stars": 746,
    "created_at": "2026-09-22T03:01:05Z",
    "pushed_at": "2026-09-22T03:27:27Z",
    "description": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
@@ -1796,7 +1809,7 @@
    "last_matched": "2026-11-20"
   },
   "Leonxlnx/cook": {
-   "stars": 737,
+   "stars": 742,
    "created_at": "2026-10-31T21:48:38Z",
    "pushed_at": "2026-10-31T21:48:44Z",
    "description": "Give your agent a target, a bar and time, then let it cook. An agent skill for visual builds that have to match reference images or videos.",
@@ -1814,9 +1827,9 @@
    "last_matched": "2026-11-20"
   },
   "phuryn/product-engineering": {
-   "stars": 660,
+   "stars": 666,
    "created_at": "2026-10-29T11:32:54Z",
-   "pushed_at": "2026-11-19T14:09:39Z",
+   "pushed_at": "2026-11-20T10:44:26Z",
    "description": "45 agent skills from shipping three live products: decide what to build, build it with Claude Code or Codex, have a second model review it, release it.",
    "topics": [
     "agent-skills",
@@ -1837,9 +1850,9 @@
    "last_matched": "2026-11-20"
   },
   "felipebasurto/unslop-ui": {
-   "stars": 581,
+   "stars": 608,
    "created_at": "2026-10-27T13:00:12Z",
-   "pushed_at": "2026-11-18T11:59:06Z",
+   "pushed_at": "2026-11-20T11:44:54Z",
    "description": "Agent skill that cuts AI tells from UI copy, charts and dashboards: eyebrows, numbering, botsplaining, decorative icons, badges and status dots. Opt-in surface rules.",
    "topics": [
     "agent-skills",
@@ -1858,7 +1871,7 @@
    "last_matched": "2026-11-20"
   },
   "actionow-ai/vvv": {
-   "stars": 565,
+   "stars": 566,
    "created_at": "2026-10-22T07:29:54Z",
    "pushed_at": "2026-10-30T02:22:12Z",
    "description": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
@@ -1879,9 +1892,9 @@
    "last_matched": "2026-11-20"
   },
   "career-ops-hq/career-ops": {
-   "stars": 83819,
+   "stars": 83883,
    "created_at": "2026-04-04T18:21:18Z",
-   "pushed_at": "2026-11-19T22:48:24Z",
+   "pushed_at": "2026-11-20T11:39:46Z",
    "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat",
    "topics": [
     "agent-skills",
@@ -1904,9 +1917,9 @@
    "last_matched": "2026-11-20"
   },
   "anthropics/claude-plugins-official": {
-   "stars": 47739,
+   "stars": 47778,
    "created_at": "2025-11-20T18:36:20Z",
-   "pushed_at": "2026-11-20T01:20:23Z",
+   "pushed_at": "2026-11-20T07:30:18Z",
    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
    "topics": [
     "claude-code",
@@ -1920,9 +1933,9 @@
    "last_matched": "2026-11-20"
   },
   "jarrodwatts/claude-hud": {
-   "stars": 29269,
+   "stars": 29272,
    "created_at": "2026-01-02T01:35:07Z",
-   "pushed_at": "2026-11-10T23:24:15Z",
+   "pushed_at": "2026-11-20T11:25:15Z",
    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
    "topics": [
     "anthropic",
@@ -1940,7 +1953,7 @@
    "last_matched": "2026-11-20"
   },
   "OthmanAdi/planning-with-files": {
-   "stars": 28144,
+   "stars": 28155,
    "created_at": "2026-01-03T07:37:28Z",
    "pushed_at": "2026-11-11T20:55:30Z",
    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi",
@@ -1965,7 +1978,7 @@
    "last_matched": "2026-11-20"
   },
   "wasp-lang/open-saas": {
-   "stars": 16379,
+   "stars": 16383,
    "created_at": "2023-12-01T13:54:36Z",
    "pushed_at": "2026-11-11T17:08:31Z",
    "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc",
@@ -1988,7 +2001,7 @@
    "last_matched": "2026-11-20"
   },
   "internet-court/internet-court-skill": {
-   "stars": 7141,
+   "stars": 7142,
    "created_at": "2026-06-16T13:20:01Z",
    "pushed_at": "2026-10-26T12:55:11Z",
    "description": "The trust layer for agent-to-agent commerce — natural-language mandates, ERC-7710 delegated permissions, x402 payments, escrow, and dispute resolution as one open, catch-all Agent Skill / Claude Code ",
@@ -2011,7 +2024,7 @@
    "last_matched": "2026-11-20"
   },
   "soumatheusgomes/vibe-coding-toolkit": {
-   "stars": 2516,
+   "stars": 2517,
    "created_at": "2026-08-14T23:41:31Z",
    "pushed_at": "2026-11-08T17:34:10Z",
    "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
@@ -2030,7 +2043,7 @@
    "last_matched": "2026-11-20"
   },
   "EpicGames/unreal-engine-skills-for-claude-code-plugin": {
-   "stars": 2001,
+   "stars": 1999,
    "created_at": "2026-06-08T19:59:22Z",
    "pushed_at": "2026-10-27T21:36:42Z",
    "description": "",
@@ -2042,7 +2055,7 @@
    "last_matched": "2026-11-20"
   },
   "OpenOSINT/OpenOSINT": {
-   "stars": 1950,
+   "stars": 1952,
    "created_at": "2026-05-06T11:12:42Z",
    "pushed_at": "2026-11-15T17:12:43Z",
    "description": "Open-source OSINT agent: 21 public-source tools behind natural-language chat, an MCP server and a Claude Code plugin. Passive by default, no keys to start.",
@@ -2066,9 +2079,9 @@
    "last_matched": "2026-11-20"
   },
   "quemsah/awesome-claude-plugins": {
-   "stars": 1645,
+   "stars": 1649,
    "created_at": "2025-10-30T19:07:37Z",
-   "pushed_at": "2026-11-19T15:16:03Z",
+   "pushed_at": "2026-11-20T09:47:12Z",
    "description": "Automated index of Claude Code plugins and adoption metrics across GitHub repositories, powered by a Node.js/TypeScript crawler",
    "topics": [
     "awesome-list",
@@ -2097,7 +2110,7 @@
    "last_matched": "2026-11-20"
   },
   "fivetaku/gptaku_plugins": {
-   "stars": 1312,
+   "stars": 1314,
    "created_at": "2026-02-21T08:08:16Z",
    "pushed_at": "2026-11-18T08:19:58Z",
    "description": "A Claude Code plugin marketplace for people who want to become AI Native",
@@ -2106,26 +2119,6 @@
     "kw:\"claude code plugin\""
    ],
    "first_seen": "2026-11-14",
-   "last_matched": "2026-11-20"
-  },
-  "Bodila51/gtavi-claudecode": {
-   "stars": 954,
-   "created_at": "2026-11-18T17:54:29Z",
-   "pushed_at": "2026-11-19T09:30:06Z",
-   "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:16 cuts with hooks, captions and credits.",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "clipping",
-    "gta6",
-    "tiktok",
-    "youtube-shorts"
-   ],
-   "sources": [
-    "kw:\"claude code plugin\"",
-    "new:\"claude code plugin\""
-   ],
-   "first_seen": "2026-11-20",
    "last_matched": "2026-11-20"
   },
   "hex/claude-council": {
@@ -2253,7 +2246,7 @@
    "last_matched": "2026-11-20"
   },
   "yuting0624/antigravity-for-claude-code": {
-   "stars": 506,
+   "stars": 507,
    "created_at": "2026-06-19T01:13:25Z",
    "pushed_at": "2026-11-16T04:46:44Z",
    "description": "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC. Community project; not affiliated with Google/Anthropic.",
@@ -2268,6 +2261,29 @@
     "orchestration",
     "plugin-for-agy",
     "subagent-delegation"
+   ],
+   "sources": [
+    "kw:\"claude code plugin\""
+   ],
+   "first_seen": "2026-11-14",
+   "last_matched": "2026-11-20"
+  },
+  "danjdewhurst/story-skills": {
+   "stars": 438,
+   "created_at": "2026-02-12T21:30:02Z",
+   "pushed_at": "2026-11-14T04:51:10Z",
+   "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex",
+    "codex-plugin",
+    "continuity",
+    "creative-writing",
+    "fiction-writing",
+    "markdown"
    ],
    "sources": [
     "kw:\"claude code plugin\""
@@ -2298,29 +2314,6 @@
    "first_seen": "2026-11-14",
    "last_matched": "2026-11-20"
   },
-  "danjdewhurst/story-skills": {
-   "stars": 436,
-   "created_at": "2026-02-12T21:30:02Z",
-   "pushed_at": "2026-11-14T04:51:10Z",
-   "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude-code-plugin",
-    "claude-skills",
-    "codex",
-    "codex-plugin",
-    "continuity",
-    "creative-writing",
-    "fiction-writing",
-    "markdown"
-   ],
-   "sources": [
-    "kw:\"claude code plugin\""
-   ],
-   "first_seen": "2026-11-14",
-   "last_matched": "2026-11-20"
-  },
   "kingbootoshi/nano-banana-2-skill": {
    "stars": 420,
    "created_at": "2026-02-24T04:05:10Z",
@@ -2334,7 +2327,7 @@
    "last_matched": "2026-11-20"
   },
   "Sunghwan0112/spritecast": {
-   "stars": 349,
+   "stars": 359,
    "created_at": "2026-11-03T21:16:10Z",
    "pushed_at": "2026-11-20T03:46:33Z",
    "description": "Claude Code plugin: game sprites at your game's exact camera angle, drawn in your art style - props, 8-direction walking characters, characters seated on your own chairs (3D-guided)",
@@ -2382,7 +2375,7 @@
    "last_matched": "2026-11-20"
   },
   "lemomo-ai/lemo-wake": {
-   "stars": 371,
+   "stars": 372,
    "created_at": "2026-10-03T12:57:31Z",
    "pushed_at": "2026-10-17T11:42:23Z",
    "description": "Claude Code plugin: turn one still image into a ~5 s seamless looping animation (MP4, GIF, WebP, Live Photo). · 把一张图做成约 5 秒的无缝循环动图。",
@@ -2426,7 +2419,7 @@
    "last_matched": "2026-11-20"
   },
   "makevoid/claude-make-an-anime": {
-   "stars": 134,
+   "stars": 137,
    "created_at": "2026-11-04T02:25:54Z",
    "pushed_at": "2026-11-08T15:21:34Z",
    "description": "A Claude Code plugin that turns a story into a finished anime",
@@ -2497,9 +2490,9 @@
    "last_matched": "2026-11-20"
   },
   "ai-boost/awesome-prompts": {
-   "stars": 9286,
+   "stars": 9289,
    "created_at": "2024-01-19T15:15:10Z",
-   "pushed_at": "2026-11-19T09:22:04Z",
+   "pushed_at": "2026-11-20T08:32:12Z",
    "description": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
    "topics": [
     "agents",
@@ -2522,7 +2515,7 @@
   "Datus-ai/Datus-agent": {
    "stars": 1931,
    "created_at": "2025-07-04T15:43:40Z",
-   "pushed_at": "2026-11-20T01:33:51Z",
+   "pushed_at": "2026-11-20T11:37:19Z",
    "description": "The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.",
    "topics": [],
    "sources": [
@@ -2534,7 +2527,7 @@
   "repoprompt/repoprompt-ce": {
    "stars": 997,
    "created_at": "2026-05-12T19:44:16Z",
-   "pushed_at": "2026-11-19T19:45:31Z",
+   "pushed_at": "2026-11-20T11:47:26Z",
    "description": "Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.",
    "topics": [
     "ai-agents",
@@ -2554,7 +2547,7 @@
    "last_matched": "2026-11-20"
   },
   "WakeUp-Jin/Practical-Guide-to-Context-Engineering": {
-   "stars": 857,
+   "stars": 858,
    "created_at": "2025-09-12T09:24:44Z",
    "pushed_at": "2026-11-01T10:48:11Z",
    "description": "大模型应用开发 -上下文工程与运行空间实践指南，上下文工程是设计原则，Agent Harness 是构建目标，本项目的目标，是为开发者和研究者提供一份大模型应用开发的骨架思路",
@@ -2571,7 +2564,7 @@
   "ai-driven-dev/framework": {
    "stars": 567,
    "created_at": "2026-02-06T20:59:32Z",
-   "pushed_at": "2026-11-19T17:53:07Z",
+   "pushed_at": "2026-11-20T10:51:46Z",
    "description": "Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC",
    "topics": [
     "agent",
@@ -2594,7 +2587,7 @@
   "DEEP-JLU/Awesome-Graph-Engineering": {
    "stars": 407,
    "created_at": "2026-08-20T09:51:28Z",
-   "pushed_at": "2026-10-30T07:23:20Z",
+   "pushed_at": "2026-11-20T07:55:22Z",
    "description": "A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering",
    "topics": [
     "graph-engineering",
@@ -2656,9 +2649,9 @@
    "last_matched": "2026-11-20"
   },
   "ShuaiMXu/happyhands": {
-   "stars": 519,
+   "stars": 524,
    "created_at": "2026-10-25T14:10:24Z",
-   "pushed_at": "2026-11-19T08:56:38Z",
+   "pushed_at": "2026-11-20T11:48:35Z",
    "description": "Open-source, AI-assisted UI design review for coding agents. Inspect screenshots, scope code changes and compare results in a local workbench. Alpha.",
    "topics": [
     "ai-assisted-development",
@@ -2676,9 +2669,9 @@
    "last_matched": "2026-11-20"
   },
   "salitronic/eda-agent": {
-   "stars": 383,
+   "stars": 386,
    "created_at": "2026-04-16T19:09:52Z",
-   "pushed_at": "2026-11-19T12:04:05Z",
+   "pushed_at": "2026-11-20T11:18:23Z",
    "description": "Open-source MCP server that lets an AI drive a live session of Altium Designer, and optionally KiCad or EasyEDA Pro, editing the open design in place while you watch. 560+ tools: schematic, PCB, libra",
    "topics": [
     "ai",
@@ -2699,7 +2692,7 @@
    "last_matched": "2026-11-20"
   },
   "mirzaaghazadeh/iphone-duo-skills": {
-   "stars": 331,
+   "stars": 333,
    "created_at": "2026-09-09T21:24:32Z",
    "pushed_at": "2026-11-17T13:17:34Z",
    "description": "Agent skills for building iOS apps on iPhone Duo, Apple's first foldable iPhone — adaptive layout, vertical bars, hinge & scenes, camera, and design review.",
@@ -2722,7 +2715,7 @@
    "last_matched": "2026-11-20"
   },
   "1jehuang/jcode": {
-   "stars": 21926,
+   "stars": 21937,
    "created_at": "2026-01-05T09:43:36Z",
    "pushed_at": "2026-11-20T03:25:24Z",
    "description": "High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows",
@@ -2745,7 +2738,7 @@
    "last_matched": "2026-11-20"
   },
   "stagewise-io/stagewise": {
-   "stars": 6834,
+   "stars": 6833,
    "created_at": "2025-04-26T12:43:16Z",
    "pushed_at": "2026-11-16T19:01:01Z",
    "description": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
@@ -2763,7 +2756,7 @@
   "tuist/tuist": {
    "stars": 5868,
    "created_at": "2018-04-16T07:02:54Z",
-   "pushed_at": "2026-11-20T03:14:36Z",
+   "pushed_at": "2026-11-20T11:34:24Z",
    "description": "Tuist builds infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents. Shared cache, tests, and insights that sit alongside your existing CI.",
    "topics": [
     "bazel",
@@ -2784,9 +2777,9 @@
    "last_matched": "2026-11-20"
   },
   "Tencent/LoopForge": {
-   "stars": 4241,
+   "stars": 5204,
    "created_at": "2026-07-28T03:51:01Z",
-   "pushed_at": "2026-11-20T03:23:44Z",
+   "pushed_at": "2026-11-20T11:44:59Z",
    "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
    "topics": [
     "agent-orchestration",
@@ -2808,9 +2801,9 @@
    "last_matched": "2026-11-20"
   },
   "NVIDIA/skills": {
-   "stars": 4086,
+   "stars": 4094,
    "created_at": "2026-02-25T21:54:05Z",
-   "pushed_at": "2026-11-20T01:09:51Z",
+   "pushed_at": "2026-11-20T11:10:08Z",
    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
    "topics": [
     "agent-skills",
@@ -2831,7 +2824,7 @@
    "last_matched": "2026-11-20"
   },
   "lennney/stop-that-shit": {
-   "stars": 4026,
+   "stars": 4036,
    "created_at": "2026-08-11T15:31:45Z",
    "pushed_at": "2026-11-19T14:52:46Z",
    "description": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested has",
@@ -2871,7 +2864,7 @@
   "first-fluke/oh-my-agent": {
    "stars": 1473,
    "created_at": "2026-01-30T11:29:46Z",
-   "pushed_at": "2026-11-19T05:11:07Z",
+   "pushed_at": "2026-11-20T04:58:36Z",
    "description": "Agent skills and specialist teams for Claude Code, Codex, Cursor and other coding agents. Load one skill or install domain presets, project hooks and parallel workflows with test gates.",
    "topics": [
     "agent-harness",
@@ -2892,9 +2885,9 @@
    "last_matched": "2026-11-20"
   },
   "ChesterRa/cccc": {
-   "stars": 1344,
+   "stars": 1345,
    "created_at": "2025-08-15T06:39:43Z",
-   "pushed_at": "2026-11-19T14:36:03Z",
+   "pushed_at": "2026-11-20T09:58:42Z",
    "description": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 work",
    "topics": [
     "ai-agents",
@@ -2915,7 +2908,7 @@
    "last_matched": "2026-11-20"
   },
   "Unity-Technologies/skills": {
-   "stars": 1302,
+   "stars": 1300,
    "created_at": "2026-05-05T09:18:23Z",
    "pushed_at": "2026-11-20T00:39:17Z",
    "description": "A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows",
@@ -2927,7 +2920,7 @@
    "last_matched": "2026-11-20"
   },
   "lidge-ai/ima2-gen": {
-   "stars": 904,
+   "stars": 905,
    "created_at": "2026-04-21T19:46:16Z",
    "pushed_at": "2026-11-19T08:25:44Z",
    "description": "Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.",
@@ -2974,7 +2967,7 @@
    "last_matched": "2026-11-20"
   },
   "docker/skills": {
-   "stars": 643,
+   "stars": 645,
    "created_at": "2026-03-27T13:58:50Z",
    "pushed_at": "2026-11-19T07:51:51Z",
    "description": "A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.",
@@ -3013,6 +3006,30 @@
    "first_seen": "2026-11-14",
    "last_matched": "2026-11-20"
   },
+  "Innei/ryugi": {
+   "stars": 562,
+   "created_at": "2026-10-19T10:05:43Z",
+   "pushed_at": "2026-11-20T09:21:17Z",
+   "description": "Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install arti",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "artboard",
+    "artifacts",
+    "brainstorming",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex",
+    "coding-agents"
+   ],
+   "sources": [
+    "kw:\"coding agent\" workflow",
+    "new:\"coding agent\" workflow"
+   ],
+   "first_seen": "2026-11-14",
+   "last_matched": "2026-11-20"
+  },
   "mco-org/mco": {
    "stars": 557,
    "created_at": "2026-02-26T07:25:48Z",
@@ -3036,32 +3053,8 @@
    "first_seen": "2026-11-14",
    "last_matched": "2026-11-20"
   },
-  "Innei/ryugi": {
-   "stars": 555,
-   "created_at": "2026-10-19T10:05:43Z",
-   "pushed_at": "2026-11-19T20:16:23Z",
-   "description": "Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install arti",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "artboard",
-    "artifacts",
-    "brainstorming",
-    "claude-code",
-    "claude-code-plugin",
-    "claude-skills",
-    "codex",
-    "coding-agents"
-   ],
-   "sources": [
-    "kw:\"coding agent\" workflow",
-    "new:\"coding agent\" workflow"
-   ],
-   "first_seen": "2026-11-14",
-   "last_matched": "2026-11-20"
-  },
   "GlitterKill/sdl-mcp": {
-   "stars": 502,
+   "stars": 503,
    "created_at": "2026-02-08T20:34:49Z",
    "pushed_at": "2026-10-29T00:09:53Z",
    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools.  It turns sprawling codebases into compact, high-sig",
@@ -3084,7 +3077,7 @@
    "last_matched": "2026-11-20"
   },
   "cameronfreer/lean4-skills": {
-   "stars": 493,
+   "stars": 494,
    "created_at": "2025-10-17T22:27:46Z",
    "pushed_at": "2026-11-08T04:28:11Z",
    "description": "Lean 4 theorem proving skill and workflow pack for AI coding agents",
@@ -3185,9 +3178,9 @@
    "last_matched": "2026-11-20"
   },
   "cocofhu/grasp": {
-   "stars": 367,
+   "stars": 368,
    "created_at": "2026-07-24T15:27:02Z",
-   "pushed_at": "2026-11-19T18:10:50Z",
+   "pushed_at": "2026-11-20T10:36:52Z",
    "description": "Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more.",
    "topics": [
     "agent",
@@ -3318,7 +3311,7 @@
    "last_matched": "2026-11-20"
   },
   "unicodef1wn/lauren-poteto-rules": {
-   "stars": 120,
+   "stars": 121,
    "created_at": "2026-09-21T16:44:51Z",
    "pushed_at": "2026-09-21T16:53:14Z",
    "description": "Engineering rules for building trustworthy coding-agent workflows, inspired by Lauren Tan.",
@@ -3338,7 +3331,7 @@
    "last_matched": "2026-11-20"
   },
   "ineedfoundmyway/planrelay": {
-   "stars": 118,
+   "stars": 119,
    "created_at": "2026-11-15T08:31:14Z",
    "pushed_at": "2026-11-15T10:09:15Z",
    "description": "Local-first plan and code review workspace built on Plannotator. Annotate, resolve blockers, track revisions, and export SHA-256-bound feedback for developer and coding-agent workflows. Includes a zer",
@@ -3359,7 +3352,7 @@
    "last_matched": "2026-11-20"
   },
   "zeromicro/go-zero": {
-   "stars": 33433,
+   "stars": 33434,
    "created_at": "2020-08-07T15:37:57Z",
    "pushed_at": "2026-11-18T15:02:39Z",
    "description": "A cloud-native Go microservices framework with cli tool for productivity.",
@@ -3382,9 +3375,9 @@
    "last_matched": "2026-11-20"
   },
   "Gentleman-Programming/gentle-ai": {
-   "stars": 9416,
+   "stars": 9424,
    "created_at": "2026-02-27T23:28:01Z",
-   "pushed_at": "2026-11-18T17:04:42Z",
+   "pushed_at": "2026-11-20T09:13:49Z",
    "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, person",
    "topics": [
     "agent-skills",
@@ -3405,7 +3398,7 @@
    "last_matched": "2026-11-20"
   },
   "Gentleman-Programming/gentle-shell": {
-   "stars": 2834,
+   "stars": 2838,
    "created_at": "2026-05-10T10:11:33Z",
    "pushed_at": "2026-11-19T13:09:22Z",
    "description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Power",
@@ -3431,7 +3424,7 @@
   "maxritter/qualitylayer": {
    "stars": 2152,
    "created_at": "2025-10-18T08:30:23Z",
-   "pushed_at": "2026-11-20T00:40:22Z",
+   "pushed_at": "2026-11-20T10:25:58Z",
    "description": "Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.",
    "topics": [
     "agent-skills",
@@ -3498,7 +3491,7 @@
    "last_matched": "2026-11-20"
   },
   "GanyuanRan/Aegis": {
-   "stars": 1448,
+   "stars": 1449,
    "created_at": "2026-04-30T17:40:49Z",
    "pushed_at": "2026-11-14T05:14:39Z",
    "description": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
@@ -3540,7 +3533,7 @@
   "asklokesh/loki-mode": {
    "stars": 1119,
    "created_at": "2025-12-26T16:26:14Z",
-   "pushed_at": "2026-11-20T02:09:14Z",
+   "pushed_at": "2026-11-20T11:35:19Z",
    "description": "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Clau",
    "topics": [
     "ai-agents",
@@ -3632,7 +3625,7 @@
   "gmickel/flow-next": {
    "stars": 727,
    "created_at": "2025-12-26T22:27:07Z",
-   "pushed_at": "2026-11-20T01:37:39Z",
+   "pushed_at": "2026-11-20T11:44:43Z",
    "description": "Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code ",
    "topics": [
     "agentic-workflow",
@@ -3669,7 +3662,7 @@
    "last_matched": "2026-11-20"
   },
   "ericrisco/rsc-harness": {
-   "stars": 640,
+   "stars": 641,
    "created_at": "2026-05-31T08:00:19Z",
    "pushed_at": "2026-11-18T07:04:30Z",
    "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to",
@@ -3692,7 +3685,7 @@
    "last_matched": "2026-11-20"
   },
   "eltociear/awesome-AI-driven-development": {
-   "stars": 578,
+   "stars": 577,
    "created_at": "2024-05-18T03:26:49Z",
    "pushed_at": "2026-11-19T05:07:12Z",
    "description": "Awesome list of AI-Driven Development.",
@@ -3717,7 +3710,7 @@
   "rpamis/comet": {
    "stars": 3307,
    "created_at": "2026-05-14T09:22:35Z",
-   "pushed_at": "2026-11-20T02:25:27Z",
+   "pushed_at": "2026-11-20T11:40:10Z",
    "description": "Comet: agent skill harness for turning ideas into evaluated workflows",
    "topics": [
     "ai",
@@ -3758,9 +3751,9 @@
    "last_matched": "2026-11-20"
   },
   "morluto/rea": {
-   "stars": 470233,
+   "stars": 470786,
    "created_at": "2026-04-14T00:51:32Z",
-   "pushed_at": "2026-11-20T03:58:15Z",
+   "pushed_at": "2026-11-20T11:46:24Z",
    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
    "topics": [
     "agent-skills",
@@ -3781,7 +3774,7 @@
    "last_matched": "2026-11-20"
   },
   "DietrichGebert/ponytail": {
-   "stars": 194952,
+   "stars": 195235,
    "created_at": "2026-06-12T00:52:37Z",
    "pushed_at": "2026-10-29T11:59:31Z",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -3805,9 +3798,9 @@
    "last_matched": "2026-11-20"
   },
   "paperclipai/paperclip": {
-   "stars": 115253,
+   "stars": 115347,
    "created_at": "2026-03-02T15:01:51Z",
-   "pushed_at": "2026-11-20T03:54:18Z",
+   "pushed_at": "2026-11-20T11:47:34Z",
    "description": "The open-source app everyone uses to manage agents at work",
    "topics": [
     "acpx",
@@ -3829,9 +3822,9 @@
    "last_matched": "2026-11-20"
   },
   "pbakaus/impeccable": {
-   "stars": 113555,
+   "stars": 113760,
    "created_at": "2025-11-16T01:52:04Z",
-   "pushed_at": "2026-11-19T17:42:37Z",
+   "pushed_at": "2026-11-20T10:05:34Z",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "topics": [
     "agent-skills",
@@ -3847,9 +3840,9 @@
    "last_matched": "2026-11-20"
   },
   "nexu-io/open-design": {
-   "stars": 108553,
+   "stars": 108617,
    "created_at": "2026-04-28T04:25:20Z",
-   "pushed_at": "2026-11-20T01:09:18Z",
+   "pushed_at": "2026-11-20T11:14:26Z",
    "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha",
    "topics": [
     "agent-skills",
@@ -3870,7 +3863,7 @@
    "last_matched": "2026-11-20"
   },
   "cathrynlavery/diagram-design": {
-   "stars": 68753,
+   "stars": 68968,
    "created_at": "2026-04-16T18:01:16Z",
    "pushed_at": "2026-11-19T00:17:05Z",
    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
@@ -3891,7 +3884,7 @@
    "last_matched": "2026-11-20"
   },
   "coreyhaines31/marketingskills": {
-   "stars": 61546,
+   "stars": 61616,
    "created_at": "2026-01-15T19:45:23Z",
    "pushed_at": "2026-11-20T02:15:08Z",
    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
@@ -3916,9 +3909,9 @@
    "last_matched": "2026-11-20"
   },
   "hesreallyhim/awesome-claude-code": {
-   "stars": 58389,
+   "stars": 58420,
    "created_at": "2025-04-19T20:55:59Z",
-   "pushed_at": "2026-11-20T03:07:31Z",
+   "pushed_at": "2026-11-20T09:07:11Z",
    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio",
    "topics": [
     "agent-skills",
@@ -3940,7 +3933,7 @@
    "last_matched": "2026-11-20"
   },
   "emilkowalski/skills": {
-   "stars": 58221,
+   "stars": 58306,
    "created_at": "2026-03-16T13:52:31Z",
    "pushed_at": "2026-11-15T12:42:50Z",
    "description": "Skills for Designers and Engineers.",
@@ -3959,9 +3952,9 @@
    "last_matched": "2026-11-20"
   },
   "alibaba/open-code-review": {
-   "stars": 54434,
+   "stars": 54527,
    "created_at": "2026-05-18T02:16:36Z",
-   "pushed_at": "2026-11-19T12:28:52Z",
+   "pushed_at": "2026-11-20T09:58:20Z",
    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
    "topics": [
     "agent",
@@ -3978,7 +3971,7 @@
    "last_matched": "2026-11-20"
   },
   "VoltAgent/awesome-openclaw-skills": {
-   "stars": 53876,
+   "stars": 53884,
    "created_at": "2026-01-25T09:22:32Z",
    "pushed_at": "2026-11-18T14:56:54Z",
    "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
@@ -4001,9 +3994,9 @@
    "last_matched": "2026-11-20"
   },
   "CherryHQ/cherry-studio": {
-   "stars": 53669,
+   "stars": 53683,
    "created_at": "2024-05-24T01:56:26Z",
-   "pushed_at": "2026-11-20T03:53:00Z",
+   "pushed_at": "2026-11-20T11:51:08Z",
    "description": "Your AI workspace for models, agents, and productivity.",
    "topics": [
     "agent-skills",
@@ -4024,7 +4017,7 @@
    "last_matched": "2026-11-20"
   },
   "reactive-resume/reactive-resume": {
-   "stars": 45924,
+   "stars": 45936,
    "created_at": "2020-03-25T14:08:22Z",
    "pushed_at": "2026-11-20T03:14:03Z",
    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
@@ -4047,7 +4040,7 @@
    "last_matched": "2026-11-20"
   },
   "alchaincyf/nuwa-skill": {
-   "stars": 38658,
+   "stars": 38688,
    "created_at": "2026-04-05T04:33:04Z",
    "pushed_at": "2026-11-17T06:07:14Z",
    "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
@@ -4071,7 +4064,7 @@
    "last_matched": "2026-11-20"
   },
   "virgiliojr94/book-to-skill": {
-   "stars": 38503,
+   "stars": 38534,
    "created_at": "2026-05-01T02:09:39Z",
    "pushed_at": "2026-11-19T21:48:14Z",
    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
@@ -4095,7 +4088,7 @@
    "last_matched": "2026-11-20"
   },
   "davila7/claude-code-templates": {
-   "stars": 34016,
+   "stars": 34021,
    "created_at": "2025-07-04T01:26:26Z",
    "pushed_at": "2026-11-20T03:10:29Z",
    "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
@@ -4118,9 +4111,9 @@
    "last_matched": "2026-11-20"
   },
   "topoteretes/cognee": {
-   "stars": 33422,
+   "stars": 33431,
    "created_at": "2023-08-16T16:16:33Z",
-   "pushed_at": "2026-11-19T22:45:03Z",
+   "pushed_at": "2026-11-20T11:43:29Z",
    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
    "topics": [
     "agent-memory",
@@ -4142,7 +4135,7 @@
    "last_matched": "2026-11-20"
   },
   "thedotmack/claude-mem": {
-   "stars": 118480,
+   "stars": 118548,
    "created_at": "2025-08-31T20:50:03Z",
    "pushed_at": "2026-11-19T18:36:00Z",
    "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla",
@@ -4166,7 +4159,7 @@
    "last_matched": "2026-11-20"
   },
   "Egonex-AI/Understand-Anything": {
-   "stars": 93336,
+   "stars": 93399,
    "created_at": "2026-03-15T02:30:51Z",
    "pushed_at": "2026-11-18T08:31:20Z",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
@@ -4189,9 +4182,9 @@
    "last_matched": "2026-11-20"
   },
   "code-yeongyu/oh-my-openagent": {
-   "stars": 71013,
+   "stars": 71018,
    "created_at": "2025-12-03T01:40:05Z",
-   "pushed_at": "2026-11-19T21:22:14Z",
+   "pushed_at": "2026-11-20T11:04:27Z",
    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
    "topics": [
     "ai",
@@ -4212,9 +4205,9 @@
    "last_matched": "2026-11-20"
   },
   "nanocoai/nanoclaw": {
-   "stars": 31128,
+   "stars": 31127,
    "created_at": "2026-01-31T15:47:22Z",
-   "pushed_at": "2026-11-19T21:51:21Z",
+   "pushed_at": "2026-11-20T08:43:16Z",
    "description": "Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to ",
    "topics": [
     "ai-agents",
@@ -4235,7 +4228,7 @@
    "last_matched": "2026-11-20"
   },
   "alchaincyf/huashu-design": {
-   "stars": 29904,
+   "stars": 29943,
    "created_at": "2026-04-19T14:42:06Z",
    "pushed_at": "2026-11-10T00:16:14Z",
    "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
@@ -4258,9 +4251,9 @@
    "last_matched": "2026-11-20"
   },
   "JimLiu/baoyu-skills": {
-   "stars": 27719,
+   "stars": 27743,
    "created_at": "2026-01-13T03:04:56Z",
-   "pushed_at": "2026-11-06T17:20:33Z",
+   "pushed_at": "2026-11-20T05:47:41Z",
    "description": "",
    "topics": [
     "agent-skills",
@@ -4275,7 +4268,7 @@
    "last_matched": "2026-11-20"
   },
   "latent-spaces/brag": {
-   "stars": 22029,
+   "stars": 22056,
    "created_at": "2026-06-16T19:36:36Z",
    "pushed_at": "2026-11-15T17:07:46Z",
    "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
@@ -4294,7 +4287,7 @@
    "last_matched": "2026-11-20"
   },
   "Vincentwei1021/video-shotcraft": {
-   "stars": 21693,
+   "stars": 21748,
    "created_at": "2026-07-19T11:44:41Z",
    "pushed_at": "2026-11-19T03:44:14Z",
    "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) ",
@@ -4317,7 +4310,7 @@
    "last_matched": "2026-11-20"
   },
   "nidhinjs/prompt-master": {
-   "stars": 16157,
+   "stars": 16166,
    "created_at": "2026-03-11T16:25:43Z",
    "pushed_at": "2026-10-22T13:26:18Z",
    "description": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention",
@@ -4334,7 +4327,7 @@
    "last_matched": "2026-11-20"
   },
   "yusufkaraaslan/Skill_Seekers": {
-   "stars": 15347,
+   "stars": 15348,
    "created_at": "2025-10-17T14:43:48Z",
    "pushed_at": "2026-11-16T12:58:52Z",
    "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
@@ -4357,9 +4350,9 @@
    "last_matched": "2026-11-20"
   },
   "NevaMind-AI/memU": {
-   "stars": 14629,
+   "stars": 14630,
    "created_at": "2025-07-29T01:54:40Z",
-   "pushed_at": "2026-11-19T07:57:34Z",
+   "pushed_at": "2026-11-20T08:31:07Z",
    "description": "Personal memory across agents",
    "topics": [
     "agent-memory",
@@ -4380,9 +4373,9 @@
    "last_matched": "2026-11-20"
   },
   "elementalsouls/Claude-BugHunter": {
-   "stars": 12752,
+   "stars": 13339,
    "created_at": "2026-05-05T11:22:32Z",
-   "pushed_at": "2026-11-19T13:21:35Z",
+   "pushed_at": "2026-11-20T07:46:59Z",
    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
    "topics": [
     "ai-security",
@@ -4403,7 +4396,7 @@
    "last_matched": "2026-11-20"
   },
   "Jeffallan/claude-skills": {
-   "stars": 12464,
+   "stars": 12470,
    "created_at": "2025-10-20T20:27:22Z",
    "pushed_at": "2026-11-16T17:30:27Z",
    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
@@ -4421,7 +4414,7 @@
    "last_matched": "2026-11-20"
   },
   "SnailSploit/Claude-Red": {
-   "stars": 11274,
+   "stars": 11288,
    "created_at": "2026-03-04T05:52:35Z",
    "pushed_at": "2026-11-17T14:13:12Z",
    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
@@ -4440,7 +4433,7 @@
    "last_matched": "2026-11-20"
   },
   "Ryze-AI-Adgent/open-seo-mcp-skills": {
-   "stars": 10534,
+   "stars": 10559,
    "created_at": "2026-08-29T23:37:01Z",
    "pushed_at": "2026-10-27T08:57:55Z",
    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
@@ -4463,7 +4456,7 @@
    "last_matched": "2026-11-20"
   },
   "anbeime/skill": {
-   "stars": 9741,
+   "stars": 9755,
    "created_at": "2026-02-02T09:12:57Z",
    "pushed_at": "2026-11-20T02:12:35Z",
    "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate",
@@ -4486,7 +4479,7 @@
    "last_matched": "2026-11-20"
   },
   "WenyuChiou/awesome-agentic-ai-zh": {
-   "stars": 8837,
+   "stars": 8839,
    "created_at": "2026-05-04T22:18:51Z",
    "pushed_at": "2026-11-19T19:38:39Z",
    "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
@@ -4509,9 +4502,9 @@
    "last_matched": "2026-11-20"
   },
   "zenstory-ai/oh-story-claudecode": {
-   "stars": 8774,
+   "stars": 8783,
    "created_at": "2026-04-22T16:35:39Z",
-   "pushed_at": "2026-11-20T03:55:11Z",
+   "pushed_at": "2026-11-20T04:48:12Z",
    "description": "网文写作 Agent 技能包：扫榜、拆文、大纲细纲、长短篇连载、伏笔追踪、去AI味与封面生成，适配 Claude Code / Codex 等 ｜ Agent skills for writing web novels",
    "topics": [
     "agent-skills",
@@ -4532,9 +4525,9 @@
    "last_matched": "2026-11-20"
   },
   "lemomo-ai/lemo-opuscar": {
-   "stars": 18783,
+   "stars": 18914,
    "created_at": "2026-09-26T10:10:41Z",
-   "pushed_at": "2026-11-17T05:17:37Z",
+   "pushed_at": "2026-11-20T04:32:37Z",
    "description": "A toolbox of film styles made in code for Claude Code: 99 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Le",
    "topics": [
     "agent-skills",
@@ -4555,7 +4548,7 @@
    "last_matched": "2026-11-20"
   },
   "tigerless-labs/autoharness": {
-   "stars": 11194,
+   "stars": 11201,
    "created_at": "2026-06-09T21:05:42Z",
    "pushed_at": "2026-11-12T08:19:16Z",
    "description": "Building the self-learning layer next-gen agents will ship with, learning skills from real work.",
@@ -4573,9 +4566,9 @@
    "last_matched": "2026-11-20"
   },
   "rehan-remade/universal-modder": {
-   "stars": 9800,
+   "stars": 9803,
    "created_at": "2026-09-30T05:00:35Z",
-   "pushed_at": "2026-11-20T00:37:10Z",
+   "pushed_at": "2026-11-20T06:28:01Z",
    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
    "topics": [
     "age-of-empires",
@@ -4596,7 +4589,7 @@
    "last_matched": "2026-11-20"
   },
   "patch-gg/pixelfx": {
-   "stars": 8342,
+   "stars": 8440,
    "created_at": "2026-10-30T06:43:25Z",
    "pushed_at": "2026-11-13T08:43:39Z",
    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
@@ -4617,7 +4610,7 @@
    "last_matched": "2026-11-20"
   },
   "haydenschmitty/floorplan": {
-   "stars": 5187,
+   "stars": 5386,
    "created_at": "2026-10-27T12:03:01Z",
    "pushed_at": "2026-11-16T16:57:59Z",
    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
@@ -4640,7 +4633,7 @@
    "last_matched": "2026-11-20"
   },
   "Manavarya09/design-extract": {
-   "stars": 5163,
+   "stars": 5169,
    "created_at": "2026-04-15T10:11:22Z",
    "pushed_at": "2026-11-18T06:41:01Z",
    "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp",
@@ -4663,7 +4656,7 @@
    "last_matched": "2026-11-20"
   },
   "zenbu-labs/terminal-browser": {
-   "stars": 4727,
+   "stars": 4731,
    "created_at": "2026-07-06T16:31:11Z",
    "pushed_at": "2026-11-20T00:43:59Z",
    "description": "A real browser inside your terminal",
@@ -4686,7 +4679,7 @@
    "last_matched": "2026-11-20"
   },
   "nyldn/claude-octopus": {
-   "stars": 4474,
+   "stars": 4477,
    "created_at": "2026-01-15T08:49:38Z",
    "pushed_at": "2026-11-19T03:32:22Z",
    "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
@@ -4709,7 +4702,7 @@
    "last_matched": "2026-11-20"
   },
   "nowork-studio/notfair-plugin": {
-   "stars": 4272,
+   "stars": 4278,
    "created_at": "2026-03-27T06:39:58Z",
    "pushed_at": "2026-11-17T20:25:09Z",
    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
@@ -4732,7 +4725,7 @@
    "last_matched": "2026-11-20"
   },
   "zilliztech/memsearch": {
-   "stars": 2909,
+   "stars": 2913,
    "created_at": "2026-02-09T02:29:16Z",
    "pushed_at": "2026-11-19T07:05:58Z",
    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
@@ -4755,7 +4748,7 @@
    "last_matched": "2026-11-20"
   },
   "wondelai/skills": {
-   "stars": 2743,
+   "stars": 2745,
    "created_at": "2026-01-29T13:54:15Z",
    "pushed_at": "2026-11-13T13:37:16Z",
    "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
@@ -4778,9 +4771,9 @@
    "last_matched": "2026-11-20"
   },
   "tractorjuice/arc-kit": {
-   "stars": 2289,
+   "stars": 2290,
    "created_at": "2025-10-14T10:25:11Z",
-   "pushed_at": "2026-11-19T18:06:01Z",
+   "pushed_at": "2026-11-20T07:12:14Z",
    "description": "Enterprise architecture governance for Claude Code and other AI coding assistants. 76 commands draft requirements, business cases and design reviews.",
    "topics": [
     "ai-agents",
@@ -4801,9 +4794,9 @@
    "last_matched": "2026-11-20"
   },
   "kenryu42/cc-safety-net": {
-   "stars": 2078,
+   "stars": 2079,
    "created_at": "2025-12-25T17:52:57Z",
-   "pushed_at": "2026-11-19T18:01:48Z",
+   "pushed_at": "2026-11-20T05:19:35Z",
    "description": "A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity ",
    "topics": [
     "ai-agents",
@@ -4895,7 +4888,7 @@
   "hyhmrright/brooks-lint": {
    "stars": 1583,
    "created_at": "2026-03-26T11:40:33Z",
-   "pushed_at": "2026-11-20T03:31:53Z",
+   "pushed_at": "2026-11-20T06:40:01Z",
    "description": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
    "topics": [
     "agent-skills",
@@ -4939,7 +4932,7 @@
    "last_matched": "2026-11-20"
   },
   "renezander030/capcut-cli": {
-   "stars": 1237,
+   "stars": 1240,
    "created_at": "2026-04-13T08:19:44Z",
    "pushed_at": "2026-11-19T16:21:22Z",
    "description": "Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.jso",
@@ -4964,7 +4957,7 @@
   "fcakyon/claude-codex-settings": {
    "stars": 1214,
    "created_at": "2025-07-09T07:46:08Z",
-   "pushed_at": "2026-11-19T13:49:16Z",
+   "pushed_at": "2026-11-20T11:19:04Z",
    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API support.",
    "topics": [
     "ai-agents",
@@ -4985,9 +4978,9 @@
    "last_matched": "2026-11-20"
   },
   "openqodex/openqodex": {
-   "stars": 1189,
+   "stars": 1191,
    "created_at": "2026-10-02T06:19:06Z",
-   "pushed_at": "2026-11-20T03:55:41Z",
+   "pushed_at": "2026-11-20T08:32:44Z",
    "description": "Open source AI code review for coding agents. A separate reviewer checks every change your agent writes before you push, in Claude Code, Codex, Cursor and Cline. No account or key of its own.",
    "topics": [
     "agent-skills",
@@ -5008,7 +5001,7 @@
    "last_matched": "2026-11-20"
   },
   "Snailclimb/JavaGuide": {
-   "stars": 159624,
+   "stars": 159628,
    "created_at": "2018-05-07T13:27:00Z",
    "pushed_at": "2026-10-25T11:47:10Z",
    "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
@@ -5031,9 +5024,9 @@
    "last_matched": "2026-11-20"
   },
   "infiniflow/ragflow": {
-   "stars": 94456,
+   "stars": 94474,
    "created_at": "2023-12-12T06:13:13Z",
-   "pushed_at": "2026-11-20T03:21:18Z",
+   "pushed_at": "2026-11-20T11:43:07Z",
    "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
    "topics": [
     "agent-harness",
@@ -5054,9 +5047,9 @@
    "last_matched": "2026-11-20"
   },
   "headroomlabs-ai/headroom": {
-   "stars": 80178,
+   "stars": 80193,
    "created_at": "2026-01-07T19:58:51Z",
-   "pushed_at": "2026-11-20T03:14:47Z",
+   "pushed_at": "2026-11-20T04:39:00Z",
    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
    "topics": [
     "agent",
@@ -5077,9 +5070,9 @@
    "last_matched": "2026-11-20"
   },
   "shanraisshan/claude-code-best-practice": {
-   "stars": 69241,
+   "stars": 69255,
    "created_at": "2025-10-31T14:15:28Z",
-   "pushed_at": "2026-11-20T03:41:43Z",
+   "pushed_at": "2026-11-20T06:33:19Z",
    "description": "from vibe coding to agentic engineering - practice makes claude perfect",
    "topics": [
     "agentic-ai",
@@ -5102,9 +5095,9 @@
    "last_matched": "2026-11-20"
   },
   "VectifyAI/PageIndex": {
-   "stars": 40492,
+   "stars": 40495,
    "created_at": "2025-04-01T10:53:54Z",
-   "pushed_at": "2026-11-19T14:31:38Z",
+   "pushed_at": "2026-11-20T10:23:22Z",
    "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
    "topics": [
     "agentic-ai",
@@ -5125,9 +5118,9 @@
    "last_matched": "2026-11-20"
   },
   "deepset-ai/haystack": {
-   "stars": 27055,
+   "stars": 27060,
    "created_at": "2019-11-14T09:05:28Z",
-   "pushed_at": "2026-11-20T02:11:06Z",
+   "pushed_at": "2026-11-20T11:11:34Z",
    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m",
    "topics": [
     "agent-framework",
@@ -5148,9 +5141,9 @@
    "last_matched": "2026-11-20"
   },
   "Canner/WrenAI": {
-   "stars": 18346,
+   "stars": 18350,
    "created_at": "2024-03-13T06:18:20Z",
-   "pushed_at": "2026-11-19T02:41:14Z",
+   "pushed_at": "2026-11-20T11:25:19Z",
    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s",
    "topics": [
     "ai-agents",
@@ -5171,7 +5164,7 @@
    "last_matched": "2026-11-20"
   },
   "semantica-agi/semantica": {
-   "stars": 14675,
+   "stars": 14683,
    "created_at": "2025-06-25T10:41:00Z",
    "pushed_at": "2026-11-17T18:35:14Z",
    "description": "Graph-Native Semantic Layer for Trustworthy Enterprise AI ",
@@ -5194,9 +5187,9 @@
    "last_matched": "2026-11-20"
   },
   "cocoindex-io/cocoindex": {
-   "stars": 11916,
+   "stars": 11918,
    "created_at": "2025-03-03T23:03:09Z",
-   "pushed_at": "2026-11-20T00:56:28Z",
+   "pushed_at": "2026-11-20T08:23:59Z",
    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
    "topics": [
     "agentic-data-framework",
@@ -5217,9 +5210,9 @@
    "last_matched": "2026-11-20"
   },
   "trailhq/Trail-Code": {
-   "stars": 11348,
+   "stars": 11352,
    "created_at": "2026-07-03T13:44:21Z",
-   "pushed_at": "2026-11-19T17:38:38Z",
+   "pushed_at": "2026-11-20T06:04:20Z",
    "description": "One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.",
    "topics": [
     "ai-agents",
@@ -5240,7 +5233,7 @@
    "last_matched": "2026-11-20"
   },
   "plastic-labs/honcho": {
-   "stars": 8201,
+   "stars": 8207,
    "created_at": "2023-09-10T21:29:54Z",
    "pushed_at": "2026-11-19T21:41:05Z",
    "description": " Memory library for building stateful agents",
@@ -5263,9 +5256,9 @@
    "last_matched": "2026-11-20"
   },
   "loopx-project/loopx": {
-   "stars": 6726,
+   "stars": 6730,
    "created_at": "2026-05-31T14:58:56Z",
-   "pushed_at": "2026-11-20T03:53:53Z",
+   "pushed_at": "2026-11-20T10:32:21Z",
    "description": "The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.",
    "topics": [
     "agent-control-plane",
@@ -5286,9 +5279,9 @@
    "last_matched": "2026-11-20"
   },
   "ai-boost/awesome-harness-engineering": {
-   "stars": 5197,
+   "stars": 5199,
    "created_at": "2026-03-29T15:39:49Z",
-   "pushed_at": "2026-11-19T10:02:32Z",
+   "pushed_at": "2026-11-20T09:15:06Z",
    "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
    "topics": [
     "agent-harness",
@@ -5308,9 +5301,9 @@
    "last_matched": "2026-11-20"
   },
   "microsoft/apm": {
-   "stars": 4414,
+   "stars": 4417,
    "created_at": "2025-09-18T13:45:22Z",
-   "pushed_at": "2026-11-20T03:58:09Z",
+   "pushed_at": "2026-11-20T11:50:56Z",
    "description": "Agent Package Manager",
    "topics": [
     "ai-agents",
@@ -5330,7 +5323,7 @@
   "pipeshub-ai/pipeshub-ai": {
    "stars": 4138,
    "created_at": "2025-03-06T18:51:10Z",
-   "pushed_at": "2026-11-20T03:51:52Z",
+   "pushed_at": "2026-11-20T11:47:32Z",
    "description": "The open-source context layer for AI agents and enterprise AI search. Permission-aware search and cited answers across 30+ sources, including Slack, Drive, Jira, GitHub and Microsoft 365, for people a",
    "topics": [
     "agentic-rag",
@@ -5375,7 +5368,7 @@
    "last_matched": "2026-11-20"
   },
   "foryourhealth111-pixel/Vibe-Skills": {
-   "stars": 3834,
+   "stars": 3835,
    "created_at": "2026-02-22T13:51:44Z",
    "pushed_at": "2026-11-09T07:33:42Z",
    "description": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
@@ -5422,7 +5415,7 @@
    "last_matched": "2026-11-20"
   },
   "alexgreensh/token-optimizer": {
-   "stars": 3028,
+   "stars": 3031,
    "created_at": "2026-02-26T17:29:10Z",
    "pushed_at": "2026-11-19T23:19:48Z",
    "description": "Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay. ",
@@ -5445,7 +5438,7 @@
    "last_matched": "2026-11-20"
   },
   "datawhalechina/deepagents-in-action": {
-   "stars": 2993,
+   "stars": 2994,
    "created_at": "2026-05-05T08:14:44Z",
    "pushed_at": "2026-11-17T11:34:43Z",
    "description": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
@@ -5468,7 +5461,7 @@
    "last_matched": "2026-11-20"
   },
   "cocoindex-io/cocoindex-code": {
-   "stars": 2987,
+   "stars": 2988,
    "created_at": "2026-02-01T02:16:56Z",
    "pushed_at": "2026-11-14T02:53:30Z",
    "description": "A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!",
@@ -5491,9 +5484,9 @@
    "last_matched": "2026-11-20"
   },
   "aoci-spec/aoci-code": {
-   "stars": 2661,
+   "stars": 2733,
    "created_at": "2026-08-08T11:33:08Z",
-   "pushed_at": "2026-11-20T02:26:04Z",
+   "pushed_at": "2026-11-20T11:44:07Z",
    "description": "A persistent, Git-versioned map of your whole codebase and database schema that coding agents read before they touch anything. Local-first MCP server + CLI in Go: a governed repository index of code k",
    "topics": [
     "agent-memory",
@@ -5514,9 +5507,9 @@
    "last_matched": "2026-11-20"
   },
   "rtk-ai/rtk": {
-   "stars": 87214,
+   "stars": 87241,
    "created_at": "2026-01-22T16:54:16Z",
-   "pushed_at": "2026-11-19T23:18:20Z",
+   "pushed_at": "2026-11-20T10:30:41Z",
    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
    "topics": [
     "agentic-coding",
@@ -5537,7 +5530,7 @@
    "last_matched": "2026-11-20"
   },
   "Yeachan-Heo/oh-my-claudecode": {
-   "stars": 40962,
+   "stars": 40969,
    "created_at": "2026-01-09T03:36:29Z",
    "pushed_at": "2026-11-19T17:30:46Z",
    "description": "Teams-first Multi-agent orchestration for Claude Code",
@@ -5560,7 +5553,7 @@
    "last_matched": "2026-11-20"
   },
   "HKUDS/DeepCode": {
-   "stars": 16854,
+   "stars": 16855,
    "created_at": "2025-05-14T05:23:02Z",
    "pushed_at": "2026-11-17T13:29:49Z",
    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -5576,9 +5569,9 @@
    "last_matched": "2026-11-20"
   },
   "OrchestratorInc/agent-orchestrator": {
-   "stars": 14941,
+   "stars": 14960,
    "created_at": "2026-02-13T09:52:36Z",
-   "pushed_at": "2026-11-19T23:26:02Z",
+   "pushed_at": "2026-11-20T11:49:55Z",
    "description": "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.",
    "topics": [
     "agent-fleet",
@@ -5599,7 +5592,7 @@
    "last_matched": "2026-11-20"
   },
   "jnMetaCode/superpowers-zh": {
-   "stars": 8571,
+   "stars": 8572,
    "created_at": "2026-03-20T00:12:39Z",
    "pushed_at": "2026-11-16T02:41:11Z",
    "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（250k+ ⭐）完整汉化 + 4 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI / Qoder 等 26 款 AI 编程工具真正会干活",
@@ -5622,7 +5615,7 @@
    "last_matched": "2026-11-20"
   },
   "microsoft/TokenEconomizer": {
-   "stars": 7788,
+   "stars": 7812,
    "created_at": "2026-10-13T04:16:50Z",
    "pushed_at": "2026-11-20T02:36:48Z",
    "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
@@ -5647,7 +5640,7 @@
   "marionettejs/marionette": {
    "stars": 7046,
    "created_at": "2011-12-12T16:36:09Z",
-   "pushed_at": "2026-11-19T21:49:26Z",
+   "pushed_at": "2026-11-20T10:22:03Z",
    "description": "A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.",
    "topics": [
     "agent-friendly",
@@ -5668,7 +5661,7 @@
    "last_matched": "2026-11-20"
   },
   "FlorianBruniaux/claude-code-ultimate-guide": {
-   "stars": 6481,
+   "stars": 6489,
    "created_at": "2026-01-09T13:42:10Z",
    "pushed_at": "2026-11-19T08:50:07Z",
    "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.",
@@ -5693,7 +5686,7 @@
   "weave-os/router": {
    "stars": 5625,
    "created_at": "2026-04-27T17:56:27Z",
-   "pushed_at": "2026-11-20T03:53:13Z",
+   "pushed_at": "2026-11-20T07:33:26Z",
    "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
    "topics": [
     "agentic-coding",
@@ -5711,7 +5704,7 @@
    "last_matched": "2026-11-20"
   },
   "wesammustafa/Claude-Code-Quest": {
-   "stars": 3717,
+   "stars": 3716,
    "created_at": "2025-08-17T14:45:39Z",
    "pushed_at": "2026-11-15T03:51:09Z",
    "description": "Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact cited to its source. Independent community guide.",
@@ -5734,7 +5727,7 @@
    "last_matched": "2026-11-20"
   },
   "MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials": {
-   "stars": 2951,
+   "stars": 2952,
    "created_at": "2025-05-15T09:00:54Z",
    "pushed_at": "2026-11-06T23:04:28Z",
    "description": "Multi-agent systems, memory, planning, reasoning loops",
@@ -5758,7 +5751,7 @@
    "last_matched": "2026-11-20"
   },
   "teaql/teaql-agent-kit": {
-   "stars": 2821,
+   "stars": 2822,
    "created_at": "2018-12-17T18:07:12Z",
    "pushed_at": "2026-11-10T10:21:25Z",
    "description": "A model-driven harness for AI coding agents: semantic modeling, app generation, progressive API Assist and evidence-based verification.",
@@ -5783,7 +5776,7 @@
   "NeuralNomadsAI/CodeNomad": {
    "stars": 2678,
    "created_at": "2025-11-01T23:29:24Z",
-   "pushed_at": "2026-11-20T03:48:19Z",
+   "pushed_at": "2026-11-20T11:50:47Z",
    "description": "CodeNomad: The command center that puts AI coding on steroids.",
    "topics": [
     "agentic-coding",
@@ -5824,9 +5817,9 @@
    "last_matched": "2026-11-20"
   },
   "devswha/ovis": {
-   "stars": 2145,
+   "stars": 2151,
    "created_at": "2026-09-17T18:52:07Z",
-   "pushed_at": "2026-11-20T03:59:21Z",
+   "pushed_at": "2026-11-20T11:25:38Z",
    "description": "Ovis (formerly herdr web UI): free, open-source browser and phone client for herdr. Chat and live terminal for Claude Code, Codex and every agent pane, remote PCs over SSH, web push alerts",
    "topics": [
     "agentic-coding",
@@ -5847,7 +5840,7 @@
    "last_matched": "2026-11-20"
   },
   "thinkwee/AgentsMeetRL": {
-   "stars": 1886,
+   "stars": 1887,
    "created_at": "2025-06-09T12:42:36Z",
    "pushed_at": "2026-11-16T23:29:38Z",
    "description": "Awesome List for Agentic RL",
@@ -5915,7 +5908,7 @@
    "last_matched": "2026-11-20"
   },
   "Get-Concord-AI/concord-mcp": {
-   "stars": 1412,
+   "stars": 1421,
    "created_at": "2026-07-14T16:30:00Z",
    "pushed_at": "2026-11-18T10:58:05Z",
    "description": "Live messaging for coding agents",
@@ -5938,9 +5931,9 @@
    "last_matched": "2026-11-20"
   },
   "tomasz-tomczyk/crit": {
-   "stars": 1344,
+   "stars": 1343,
    "created_at": "2026-02-16T15:39:33Z",
-   "pushed_at": "2026-11-18T14:32:11Z",
+   "pushed_at": "2026-11-20T11:48:33Z",
    "description": "Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.",
    "topics": [
     "agentic-coding",
@@ -5959,7 +5952,7 @@
    "last_matched": "2026-11-20"
   },
   "borghei/Claude-Skills": {
-   "stars": 1167,
+   "stars": 1171,
    "created_at": "2026-01-13T16:15:31Z",
    "pushed_at": "2026-11-08T18:12:17Z",
    "description": "403 AI skills, 76 expert agents, and 973 stdlib Python tools for every team: engineering, UI/UX design, PM, marketing, C-level, compliance, business ops, research, founders, and a LinkedIn toolkit. In",
@@ -6007,7 +6000,7 @@
   "sno-ai/sno-station": {
    "stars": 1024,
    "created_at": "2026-09-19T06:55:24Z",
-   "pushed_at": "2026-11-20T01:53:34Z",
+   "pushed_at": "2026-11-20T07:55:19Z",
    "description": "When Claude Code hits its usage limit, Codex picks the task up from the same memory. Sno Station puts Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one squad: they hand work to each other a",
    "topics": [
     "agent-memory",
@@ -6051,9 +6044,9 @@
    "last_matched": "2026-11-20"
   },
   "langgenius/dify": {
-   "stars": 161533,
+   "stars": 161562,
    "created_at": "2023-04-12T07:40:24Z",
-   "pushed_at": "2026-11-20T03:53:09Z",
+   "pushed_at": "2026-11-20T11:46:34Z",
    "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb",
    "topics": [
     "agent",
@@ -6074,9 +6067,9 @@
    "last_matched": "2026-11-20"
   },
   "bytedance/deer-flow": {
-   "stars": 85537,
+   "stars": 85543,
    "created_at": "2025-05-07T02:50:19Z",
-   "pushed_at": "2026-11-20T02:27:23Z",
+   "pushed_at": "2026-11-20T11:11:32Z",
    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
    "topics": [
     "agent",
@@ -6097,9 +6090,9 @@
    "last_matched": "2026-11-20"
   },
   "ruvnet/ruflo": {
-   "stars": 82122,
+   "stars": 82136,
    "created_at": "2025-06-02T21:24:20Z",
-   "pushed_at": "2026-11-20T02:15:15Z",
+   "pushed_at": "2026-11-20T04:47:14Z",
    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
    "topics": [
     "agent-memory",
@@ -6120,7 +6113,7 @@
    "last_matched": "2026-11-20"
   },
   "Mintplex-Labs/anything-llm": {
-   "stars": 68446,
+   "stars": 68459,
    "created_at": "2023-06-04T02:29:14Z",
    "pushed_at": "2026-11-20T01:32:49Z",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
@@ -6143,9 +6136,9 @@
    "last_matched": "2026-11-20"
   },
   "gogs/gogs": {
-   "stars": 47958,
+   "stars": 47959,
    "created_at": "2014-02-12T01:57:08Z",
-   "pushed_at": "2026-11-20T03:58:16Z",
+   "pushed_at": "2026-11-20T07:02:36Z",
    "description": "The painless way to host your own Git service",
    "topics": [
     "agent-orchestration",
@@ -6168,7 +6161,7 @@
   "simstudioai/sim": {
    "stars": 30164,
    "created_at": "2025-01-05T22:47:49Z",
-   "pushed_at": "2026-11-20T03:59:34Z",
+   "pushed_at": "2026-11-20T11:40:32Z",
    "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
    "topics": [
     "agent-workflow",
@@ -6189,9 +6182,9 @@
    "last_matched": "2026-11-20"
   },
   "ag-ui-protocol/ag-ui": {
-   "stars": 20668,
+   "stars": 20733,
    "created_at": "2025-05-07T12:49:37Z",
-   "pushed_at": "2026-11-19T22:12:16Z",
+   "pushed_at": "2026-11-20T10:41:57Z",
    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
    "topics": [
     "ag-ui-protocol",
@@ -6207,7 +6200,7 @@
    "last_matched": "2026-11-20"
   },
   "eigent-ai/eigent": {
-   "stars": 15856,
+   "stars": 15858,
    "created_at": "2025-07-29T15:56:02Z",
    "pushed_at": "2026-11-20T02:39:43Z",
    "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
@@ -6253,7 +6246,7 @@
   "iflytek/astron-agent": {
    "stars": 8919,
    "created_at": "2025-09-19T08:46:01Z",
-   "pushed_at": "2026-11-20T03:32:03Z",
+   "pushed_at": "2026-11-20T08:14:10Z",
    "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
    "topics": [
     "agent",
@@ -6276,7 +6269,7 @@
   "kyegomez/swarms": {
    "stars": 7388,
    "created_at": "2023-05-11T01:09:00Z",
-   "pushed_at": "2026-11-20T03:21:52Z",
+   "pushed_at": "2026-11-20T05:10:12Z",
    "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
    "topics": [
     "agentic-ai",
@@ -6297,9 +6290,9 @@
    "last_matched": "2026-11-20"
   },
   "ArcReel/ArcReel": {
-   "stars": 6665,
+   "stars": 6677,
    "created_at": "2026-02-07T08:17:10Z",
-   "pushed_at": "2026-11-20T01:55:31Z",
+   "pushed_at": "2026-11-20T11:32:16Z",
    "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
    "topics": [
     "agentic-workflow",
@@ -6320,7 +6313,7 @@
    "last_matched": "2026-11-20"
   },
   "KunAgent/Kun": {
-   "stars": 6386,
+   "stars": 6384,
    "created_at": "2026-05-21T13:22:06Z",
    "pushed_at": "2026-11-16T01:38:27Z",
    "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
@@ -6343,9 +6336,9 @@
    "last_matched": "2026-11-20"
   },
   "ModelEngine-Group/nexent": {
-   "stars": 6223,
+   "stars": 6225,
    "created_at": "2025-04-28T10:44:33Z",
-   "pushed_at": "2026-11-20T03:59:16Z",
+   "pushed_at": "2026-11-20T11:45:46Z",
    "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedbac",
    "topics": [
     "agent",
@@ -6389,9 +6382,9 @@
    "last_matched": "2026-11-20"
   },
   "formkit/formkit": {
-   "stars": 4785,
+   "stars": 4784,
    "created_at": "2021-06-02T21:35:19Z",
-   "pushed_at": "2026-11-19T15:46:39Z",
+   "pushed_at": "2026-11-20T11:46:56Z",
    "description": "The form framework for coding agents",
    "topics": [
     "agentic-workflow",
@@ -6412,7 +6405,7 @@
    "last_matched": "2026-11-20"
   },
   "ombharatiya/ai-system-design-guide": {
-   "stars": 4416,
+   "stars": 4418,
    "created_at": "2025-12-16T11:05:49Z",
    "pushed_at": "2026-11-10T14:40:19Z",
    "description": "AI system design guide for engineers building production AI systems and evals.",
@@ -6481,7 +6474,7 @@
    "last_matched": "2026-11-20"
   },
   "eracle/OpenOutreach": {
-   "stars": 3779,
+   "stars": 3784,
    "created_at": "2016-10-07T18:10:30Z",
    "pushed_at": "2026-11-19T15:58:34Z",
    "description": "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit, explains why each one does, and emails them from your mailbox. Self-hosted CLI, one install.",
@@ -6594,7 +6587,7 @@
    "last_matched": "2026-11-20"
   },
   "the-open-engine/zeroshot": {
-   "stars": 2204,
+   "stars": 2207,
    "created_at": "2025-12-25T17:12:45Z",
    "pushed_at": "2026-11-19T22:32:30Z",
    "description": "Multi-agent graph harness for Claude Code, Codex and other coding agents. Separate agents review and test the work. Runs locally on your subscription.",
@@ -6639,9 +6632,9 @@
    "last_matched": "2026-11-20"
   },
   "google-deepmind/robotics-antigravity-plugin": {
-   "stars": 141,
+   "stars": 161,
    "created_at": "2026-11-16T18:50:28Z",
-   "pushed_at": "2026-11-17T19:05:45Z",
+   "pushed_at": "2026-11-20T11:48:47Z",
    "description": "GDM Robotics Skills for agentic robotics workflows across simulation and real robots.",
    "topics": [
     "ai",
@@ -6663,7 +6656,7 @@
    "last_matched": "2026-11-20"
   },
   "onlook-dev/onlook": {
-   "stars": 27435,
+   "stars": 27537,
    "created_at": "2024-06-25T19:16:02Z",
    "pushed_at": "2026-11-20T02:22:43Z",
    "description": "The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an",
@@ -6683,7 +6676,7 @@
     "hn"
    ],
    "hn": {
-    "points": 95,
+    "points": 120,
     "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
     "hn_id": "50562320",
     "keyword": "context engineering"
@@ -6739,9 +6732,9 @@
    "last_matched": "2026-11-19"
   },
   "microsoft/power-platform-skills": {
-   "stars": 1163,
+   "stars": 1164,
    "created_at": "2026-01-21T18:25:14Z",
-   "pushed_at": "2026-11-19T23:43:28Z",
+   "pushed_at": "2026-11-20T11:45:09Z",
    "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
    "topics": [
     "claude-code-plugin",
@@ -6759,9 +6752,9 @@
    "last_matched": "2026-11-19"
   },
   "redhat-et/ripwire": {
-   "stars": 2555,
+   "stars": 2556,
    "created_at": "2026-07-29T15:58:33Z",
-   "pushed_at": "2026-11-20T03:39:04Z",
+   "pushed_at": "2026-11-20T11:44:29Z",
    "description": "The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Cut agent token costs by finding code without reading the repo, then keep large codebases off the complexity wall",
    "topics": [
     "agent-tools",
@@ -6782,7 +6775,7 @@
    "last_matched": "2026-11-19"
   },
   "dagoSte/squadra": {
-   "stars": 988,
+   "stars": 987,
    "created_at": "2026-09-28T04:44:21Z",
    "pushed_at": "2026-11-19T20:04:52Z",
    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code an",
@@ -6827,7 +6820,7 @@
    "last_matched": "2026-11-19"
   },
   "ayghri/i-have-adhd": {
-   "stars": 61725,
+   "stars": 61759,
    "created_at": "2026-05-13T20:42:06Z",
    "pushed_at": "2026-10-19T19:46:23Z",
    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
@@ -6847,7 +6840,7 @@
    "last_matched": "2026-11-18"
   },
   "a5c-ai/babysitter": {
-   "stars": 1923,
+   "stars": 1925,
    "created_at": "2026-01-05T15:26:53Z",
    "pushed_at": "2026-11-01T17:01:59Z",
    "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
@@ -6888,7 +6881,7 @@
    "last_matched": "2026-11-18"
   },
   "Oldcircle/geo-sleuth": {
-   "stars": 7291,
+   "stars": 7330,
    "created_at": "2026-09-18T08:51:34Z",
    "pushed_at": "2026-11-19T17:48:38Z",
    "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL",
@@ -6923,7 +6916,7 @@
    "last_matched": "2026-11-17"
   },
   "GoogleChrome/modern-web-guidance": {
-   "stars": 23514,
+   "stars": 23733,
    "created_at": "2026-03-23T17:49:14Z",
    "pushed_at": "2026-11-17T18:41:16Z",
    "description": "Keep your coding agent up to date with the latest web best practices",
@@ -6941,7 +6934,7 @@
    "last_matched": "2026-11-17"
   },
   "kuhnhomeuk-cell/procedural-film": {
-   "stars": 547,
+   "stars": 548,
    "created_at": "2026-09-17T17:15:34Z",
    "pushed_at": "2026-09-25T05:35:59Z",
    "description": "Agent skill: turn a topic into a 30s vertical film drawn and scored entirely in JavaScript. Reference film: the life of a monarch butterfly.",
@@ -6953,7 +6946,7 @@
    "last_matched": "2026-11-16"
   },
   "tamaratran/fast-jev-compaction": {
-   "stars": 8004,
+   "stars": 8003,
    "created_at": "2026-09-17T05:57:20Z",
    "pushed_at": "2026-09-18T04:45:31Z",
    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati",
@@ -6977,7 +6970,7 @@
    "last_matched": "2026-11-16"
   },
   "gosom/google-maps-scraper": {
-   "stars": 8256,
+   "stars": 8266,
    "created_at": "2023-04-22T14:35:13Z",
    "pushed_at": "2026-11-15T14:35:55Z",
    "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
@@ -7070,7 +7063,7 @@
    "last_matched": "2026-11-15"
   },
   "deanpeters/Product-Manager-Skills": {
-   "stars": 8095,
+   "stars": 8102,
    "created_at": "2026-02-05T02:16:46Z",
    "pushed_at": "2026-11-13T15:19:58Z",
    "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
@@ -7088,9 +7081,9 @@
    "last_matched": "2026-11-14"
   },
   "cortexkit/magic-context": {
-   "stars": 2541,
+   "stars": 2542,
    "created_at": "2026-03-26T12:27:01Z",
-   "pushed_at": "2026-11-20T02:38:16Z",
+   "pushed_at": "2026-11-20T11:25:53Z",
    "description": "Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.",
    "topics": [
     "agent-framework",
@@ -7126,7 +7119,7 @@
    "last_matched": "2026-11-14"
   },
   "squall01337/mixamo-llm-mocap": {
-   "stars": 451,
+   "stars": 452,
    "created_at": "2026-08-17T21:05:02Z",
    "pushed_at": "2026-09-26T21:42:14Z",
    "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
