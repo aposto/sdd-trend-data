@@ -60,6 +60,11 @@
     {
       "repo": "gotalab/cc-sdd",
       "group": "candidate"
+    },
+    {
+      "repo": "backnotprop/pstack",
+      "group": "candidate",
+      "note": "2026-11-20 수동 추가: 에이전트 스킬·엔지니어링 원칙 모음(/poteto-mode)"
     }
   ],
   "discovery": {
