@@ -1,0 +1,988 @@
+{
+ "as_of": "2026-11-26T05:03:23Z",
+ "snapshot": "2026-11-26",
+ "repos": [
+  {
+   "repo": "github/spec-kit",
+   "group": "spec",
+   "stars": 151408,
+   "forks": 13616,
+   "created": "2025-08",
+   "release": "v1.4.5",
+   "release_at": "2026-11-25T17:43:41Z",
+   "commits_7d": 47,
+   "archived": false,
+   "avg_life": 328.2514446008098,
+   "delta_7d": 881,
+   "avg_7d": 125.22171717919487,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "Fission-AI/OpenSpec",
+   "group": "spec",
+   "stars": 75744,
+   "forks": 5183,
+   "created": "2025-08",
+   "release": "v2.2.0",
+   "release_at": "2026-11-24T19:55:16Z",
+   "commits_7d": 9,
+   "archived": false,
+   "avg_life": 158.53726402910834,
+   "delta_7d": 534,
+   "avg_7d": 75.90056410180483,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "bmad-code-org/BMAD-METHOD",
+   "group": "spec",
+   "stars": 55762,
+   "forks": 6210,
+   "created": "2025-04",
+   "release": "v6.12.4",
+   "release_at": "2026-10-14T21:19:19Z",
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 94.2579175713392,
+   "delta_7d": 234,
+   "avg_7d": 33.259797752476274,
+   "base_7d": "2026-11-19",
+   "delta_30d": 1301,
+   "avg_30d": 38.333828393586884,
+   "base_30d": "2026-10-23",
+   "trend": 0.4066908052002516,
+   "released_this_week": false
+  },
+  {
+   "repo": "modu-ai/moai-adk",
+   "group": "spec",
+   "stars": 1262,
+   "forks": 223,
+   "created": "2025-09",
+   "release": "v3.1.2",
+   "release_at": "2026-08-21T06:50:41Z",
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 2.896727568803815,
+   "delta_7d": 4,
+   "avg_7d": 0.5685435513243807,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "open-gsd/gsd-core",
+   "group": "loop",
+   "stars": 11850,
+   "forks": 855,
+   "created": "2026-05",
+   "release": "v1.23.0",
+   "release_at": "2026-11-23T02:29:59Z",
+   "commits_7d": 152,
+   "archived": false,
+   "avg_life": 63.123542583174874,
+   "delta_7d": 165,
+   "avg_7d": 23.452421492130707,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "open-gsd/gsd-pi",
+   "group": "loop",
+   "stars": 1394,
+   "forks": 121,
+   "created": "2026-05",
+   "release": "v1.23.0",
+   "release_at": "2026-10-29T02:40:27Z",
+   "commits_7d": 2,
+   "archived": false,
+   "avg_life": 7.424771554453047,
+   "delta_7d": 18,
+   "avg_7d": 2.5584459809597133,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "awslabs/aidlc-workflows",
+   "group": "loop",
+   "stars": 6256,
+   "forks": 1116,
+   "created": "2025-11",
+   "release": "v2.11.5",
+   "release_at": "2026-11-25T06:43:28Z",
+   "commits_7d": 63,
+   "archived": false,
+   "avg_life": 16.581389687892425,
+   "delta_7d": 98,
+   "avg_7d": 13.92931700744733,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "mattpocock/skills",
+   "group": "skills",
+   "stars": 333022,
+   "forks": 27998,
+   "created": "2026-02",
+   "release": "v1.3.2",
+   "release_at": "2026-10-29T10:27:41Z",
+   "commits_7d": 11,
+   "archived": false,
+   "avg_life": 1126.0584101862669,
+   "delta_7d": 5456,
+   "avg_7d": 775.4934040064554,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "obra/superpowers",
+   "group": "skills",
+   "stars": 326772,
+   "forks": 28994,
+   "created": "2025-10",
+   "release": "v7.0.2",
+   "release_at": "2026-11-03T22:17:54Z",
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 792.3905407997719,
+   "delta_7d": 5348,
+   "avg_7d": 760.1427281206971,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "group": "skills",
+   "stars": 120462,
+   "forks": 12532,
+   "created": "2026-02",
+   "release": "0.6.18",
+   "release_at": "2026-11-24T07:11:18Z",
+   "commits_7d": 18,
+   "archived": false,
+   "avg_life": 425.1152482845249,
+   "delta_7d": 1476,
+   "avg_7d": 209.79257043869652,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "google/elephant-goldfish-model",
+   "group": "skills",
+   "stars": 23051,
+   "forks": 1701,
+   "created": "2026-09",
+   "release": "v0.1.1",
+   "release_at": "2026-11-06T21:50:31Z",
+   "commits_7d": 16,
+   "archived": false,
+   "avg_life": 313.52341665752306,
+   "delta_7d": 1863,
+   "avg_7d": 264.7991590293303,
+   "base_7d": "2026-11-19",
+   "delta_30d": 23032,
+   "avg_30d": 644.9951381416032,
+   "base_30d": "2026-10-21",
+   "trend": 2.0572470950269177,
+   "released_this_week": false
+  },
+  {
+   "repo": "EveryInc/compound-engineering-plugin",
+   "group": "candidate",
+   "stars": 26237,
+   "forks": 2057,
+   "created": "2025-10",
+   "release": "compound-engineering-v3.38.3",
+   "release_at": "2026-11-23T23:51:00Z",
+   "commits_7d": 7,
+   "archived": false,
+   "avg_life": 63.62202678910751,
+   "delta_7d": 86,
+   "avg_7d": 12.223686353474186,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": true
+  },
+  {
+   "repo": "buildermethods/agent-os",
+   "group": "candidate",
+   "stars": 5640,
+   "forks": 830,
+   "created": "2025-07",
+   "release": "v3.0.0",
+   "release_at": "2026-01-20T17:26:20Z",
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 11.340887967398299,
+   "delta_7d": 18,
+   "avg_7d": 2.5584459809597133,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "kirodotdev/Kiro",
+   "group": "candidate",
+   "stars": 4496,
+   "forks": 336,
+   "created": "2025-06",
+   "release": null,
+   "release_at": null,
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 8.540863860392,
+   "delta_7d": 12,
+   "avg_7d": 1.7056306539731423,
+   "base_7d": "2026-11-19",
+   "delta_30d": 120,
+   "avg_30d": 3.227732598791717,
+   "base_30d": "2026-10-20",
+   "trend": 0.3779164088729046,
+   "released_this_week": false
+  },
+  {
+   "repo": "gotalab/cc-sdd",
+   "group": "candidate",
+   "stars": 3781,
+   "forks": 284,
+   "created": "2025-07",
+   "release": "v3.1.0",
+   "release_at": "2026-09-23T07:30:18Z",
+   "commits_7d": 0,
+   "archived": false,
+   "avg_life": 7.607414503610978,
+   "delta_7d": 9,
+   "avg_7d": 1.2792229904798567,
+   "base_7d": "2026-11-19",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  },
+  {
+   "repo": "backnotprop/pstack",
+   "group": "candidate",
+   "stars": 5199,
+   "forks": 398,
+   "created": "2026-05",
+   "release": null,
+   "release_at": null,
+   "commits_7d": 19,
+   "archived": false,
+   "avg_life": 28.393370597108067,
+   "delta_7d": 567,
+   "avg_7d": 99.1621915401385,
+   "base_7d": "2026-11-20",
+   "delta_30d": null,
+   "avg_30d": null,
+   "base_30d": null,
+   "trend": null,
+   "released_this_week": false
+  }
+ ],
+ "top_weekly_gain": [
+  "mattpocock/skills",
+  "obra/superpowers",
+  "google/elephant-goldfish-model",
+  "addyosmani/agent-skills",
+  "github/spec-kit"
+ ],
+ "accelerating": [
+  "google/elephant-goldfish-model"
+ ],
+ "decelerating": [
+  "bmad-code-org/BMAD-METHOD",
+  "kirodotdev/Kiro"
+ ],
+ "released_this_week": [
+  {
+   "repo": "github/spec-kit",
+   "tag": "v1.4.5",
+   "at": "2026-11-25T17:43:41Z"
+  },
+  {
+   "repo": "Fission-AI/OpenSpec",
+   "tag": "v2.2.0",
+   "at": "2026-11-24T19:55:16Z"
+  },
+  {
+   "repo": "open-gsd/gsd-core",
+   "tag": "v1.23.0",
+   "at": "2026-11-23T02:29:59Z"
+  },
+  {
+   "repo": "awslabs/aidlc-workflows",
+   "tag": "v2.11.5",
+   "at": "2026-11-25T06:43:28Z"
+  },
+  {
+   "repo": "addyosmani/agent-skills",
+   "tag": "0.6.18",
+   "at": "2026-11-24T07:11:18Z"
+  },
+  {
+   "repo": "EveryInc/compound-engineering-plugin",
+   "tag": "compound-engineering-v3.38.3",
+   "at": "2026-11-23T23:51:00Z"
+  }
+ ],
+ "candidates_ranked": [
+  {
+   "repo": "Innei/ryugi",
+   "relevance": "핵심",
+   "stars": 944,
+   "delta_7d": 408,
+   "avg_life": 24.980122876761836,
+   "created": "2026-10-19",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +408/주",
+    "신생 고성장 25/일"
+   ],
+   "sources": [
+    "kw:\"coding agent\" workflow",
+    "new:\"coding agent\" workflow"
+   ],
+   "hn": null,
+   "description": "Ryugi (ryoo-ghee) — Interactive Artifacts for Coding Agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "artifacts",
+    "brainstorming",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-skills",
+    "codex",
+    "coding-agents",
+    "cursor"
+   ],
+   "score": 408
+  },
+  {
+   "repo": "EfimSafonov/best-sdd-tools",
+   "relevance": "핵심",
+   "stars": 569,
+   "delta_7d": null,
+   "avg_life": 49.59746250045399,
+   "created": "2026-11-14",
+   "first_seen": "2026-11-24",
+   "signals": [
+    "신생 고성장 50/일"
+   ],
+   "sources": [
+    "kw:\"spec driven\"",
+    "kw:\"spec-driven\"",
+    "new:\"spec driven\"",
+    "new:\"spec-driven\"",
+    "topic:sdd",
+    "topic:spec-driven-development"
+   ],
+   "hn": null,
+   "description": "Opinionated list of the spec-driven development (SDD) tools that matter",
+   "topics": [
+    "ai-coding-agents",
+    "awesome-list",
+    "sdd",
+    "spec-driven-development"
+   ],
+   "score": 347.18223750317793
+  },
+  {
+   "repo": "SnailSploit/Claude-Red",
+   "relevance": "핵심",
+   "stars": 11568,
+   "delta_7d": 346,
+   "avg_life": 43.331387599536775,
+   "created": "2026-03-04",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +346/주"
+   ],
+   "sources": [
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+   "topics": [
+    "claude-ai",
+    "claude-pt",
+    "claude-skills",
+    "redteam",
+    "redteam-tools",
+    "skills"
+   ],
+   "score": 346
+  },
+  {
+   "repo": "ShuaiMXu/happyhands",
+   "relevance": "핵심",
+   "stars": 537,
+   "delta_7d": 20,
+   "avg_life": 16.982853821350748,
+   "created": "2026-10-25",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 17/일"
+   ],
+   "sources": [
+    "kw:\"design review\" agent",
+    "new:\"design review\" agent"
+   ],
+   "hn": null,
+   "description": "Open-source, AI-assisted UI design review for coding agents. Inspect screenshots, scope code changes and compare results in a local workbench. Alpha.",
+   "topics": [
+    "ai-assisted-development",
+    "coding-agents",
+    "design-review",
+    "design-systems",
+    "developer-tools",
+    "ui-review"
+   ],
+   "score": 20
+  },
+  {
+   "repo": "paperclipai/paperclip",
+   "relevance": "주변",
+   "stars": 117122,
+   "delta_7d": 2278,
+   "avg_life": 436.07149487289587,
+   "created": "2026-03-02",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +2,278/주"
+   ],
+   "sources": [
+    "topic:agent-skills",
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "The open-source app everyone uses to manage agents at work",
+   "topics": [
+    "acpx",
+    "agent-orchestration",
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "ai-engineering",
+    "ai-governance",
+    "ai-tools",
+    "autonomous-agents",
+    "claude"
+   ],
+   "score": 2278
+  },
+  {
+   "repo": "Tencent/LoopForge",
+   "relevance": "주변",
+   "stars": 6115,
+   "delta_7d": 2253,
+   "avg_life": 50.516209310832984,
+   "created": "2026-07-28",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +2,253/주"
+   ],
+   "sources": [
+    "kw:\"coding agent\" workflow",
+    "topic:agentic-workflow"
+   ],
+   "hn": null,
+   "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+   "topics": [
+    "agent-orchestration",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codebuddy",
+    "codex",
+    "coding-agents",
+    "cursor"
+   ],
+   "score": 2253
+  },
+  {
+   "repo": "alibaba/open-code-review",
+   "relevance": "주변",
+   "stars": 56416,
+   "delta_7d": 2206,
+   "avg_life": 293.6561886646432,
+   "created": "2026-05-18",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +2,206/주"
+   ],
+   "sources": [
+    "topic:agent-skills"
+   ],
+   "hn": null,
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+   "topics": [
+    "agent",
+    "agent-skills",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context"
+   ],
+   "score": 2206
+  },
+  {
+   "repo": "tt-a1i/archify",
+   "relevance": "주변",
+   "stars": 100006,
+   "delta_7d": 2198,
+   "avg_life": 444.5043574761199,
+   "created": "2026-04-15",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +2,198/주"
+   ],
+   "sources": [
+    "kw:\"agent skills\"",
+    "topic:agent-skills",
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "architecture-diagram",
+    "claude-code",
+    "claude-skills",
+    "code-analysis",
+    "codex",
+    "coding-agents",
+    "deepseek-harness",
+    "developer-tools"
+   ],
+   "score": 2198
+  },
+  {
+   "repo": "nexu-io/open-design",
+   "relevance": "주변",
+   "stars": 109535,
+   "delta_7d": 1164,
+   "avg_life": 516.610138182135,
+   "created": "2026-04-28",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +1,164/주"
+   ],
+   "sources": [
+    "topic:agent-skills"
+   ],
+   "hn": null,
+   "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha",
+   "topics": [
+    "agent-skills",
+    "ai-design",
+    "byok",
+    "claude-code-for-design",
+    "claude-design",
+    "codex-design",
+    "cursor-design",
+    "deepseek",
+    "deepseek-harness",
+    "design-systems"
+   ],
+   "score": 1164
+  },
+  {
+   "repo": "alchaincyf/huashu-design",
+   "relevance": "주변",
+   "stars": 30987,
+   "delta_7d": 1156,
+   "avg_life": 140.46810971665468,
+   "created": "2026-04-19",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +1,156/주"
+   ],
+   "sources": [
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & a",
+   "topics": [
+    "agent-skills",
+    "ai-design",
+    "animation",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "deepseek-harness",
+    "design"
+   ],
+   "score": 1156
+  },
+  {
+   "repo": "alchaincyf/nuwa-skill",
+   "relevance": "주변",
+   "stars": 39043,
+   "delta_7d": 445,
+   "avg_life": 166.12554263386275,
+   "created": "2026-04-05",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +445/주"
+   ],
+   "sources": [
+    "topic:agent-skills",
+    "topic:claude-skills"
+   ],
+   "hn": null,
+   "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "decision-making",
+    "deepseek-harness",
+    "dsh-plugin"
+   ],
+   "score": 445
+  },
+  {
+   "repo": "sickn33/agentic-awesome-skills",
+   "relevance": "주변",
+   "stars": 50340,
+   "delta_7d": 370,
+   "avg_life": 159.57198341651466,
+   "created": "2026-01-14",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +370/주"
+   ],
+   "sources": [
+    "kw:\"agent skills\"",
+    "topic:agent-skills"
+   ],
+   "hn": null,
+   "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+   "topics": [
+    "agent-skills",
+    "agentic-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-workflows",
+    "antigravity",
+    "antigravity-skills",
+    "claude-code",
+    "claude-code-skills"
+   ],
+   "score": 370
+  },
+  {
+   "repo": "ruvnet/ruflo",
+   "relevance": "주변",
+   "stars": 82430,
+   "delta_7d": 367,
+   "avg_life": 152.27625999031045,
+   "created": "2025-06-02",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +367/주"
+   ],
+   "sources": [
+    "topic:agentic-workflow"
+   ],
+   "hn": null,
+   "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
+   "topics": [
+    "agent-memory",
+    "agent-orchestration",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-agents",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "codex",
+    "hnsw"
+   ],
+   "score": 367
+  },
+  {
+   "repo": "infiniflow/ragflow",
+   "relevance": "주변",
+   "stars": 94732,
+   "delta_7d": 325,
+   "avg_life": 87.71875366059926,
+   "created": "2023-12-12",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +325/주"
+   ],
+   "sources": [
+    "topic:context-engineering"
+   ],
+   "hn": null,
+   "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "topics": [
+    "agent-harness",
+    "agent-native-database",
+    "agentic-ai",
+    "agentic-retrieval",
+    "agentic-search",
+    "ai",
+    "ai-agents",
+    "context-engine",
+    "context-engineering",
+    "context-management"
+   ],
+   "score": 325
+  },
+  {
+   "repo": "bytedance/deer-flow",
+   "relevance": "주변",
+   "stars": 85825,
+   "delta_7d": 322,
+   "avg_life": 151.07577373138628,
+   "created": "2025-05-07",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "급상승 +322/주"
+   ],
+   "sources": [
+    "topic:agentic-workflow"
+   ],
+   "hn": null,
+   "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+   "topics": [
+    "agent",
+    "agentic",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "deep-research",
+    "harness",
+    "langchain",
+    "langgraph"
+   ],
+   "score": 322
+  },
+  {
+   "repo": "soumatheusgomes/vibe-coding-toolkit",
+   "relevance": "주변",
+   "stars": 2584,
+   "delta_7d": 79,
+   "avg_life": 25.033054841435433,
+   "created": "2026-08-14",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 25/일"
+   ],
+   "sources": [
+    "kw:\"claude code plugin\""
+   ],
+   "hn": null,
+   "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+   "topics": [
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "developer-tools",
+    "llm-agents",
+    "prompts"
+   ],
+   "score": 79
+  },
+  {
+   "repo": "sno-ai/sno-station",
+   "relevance": "주변",
+   "stars": 1028,
+   "delta_7d": 4,
+   "avg_life": 15.134960864646528,
+   "created": "2026-09-19",
+   "first_seen": "2026-11-20",
+   "signals": [
+    "신생 고성장 15/일"
+   ],
+   "sources": [
+    "topic:agentic-coding"
+   ],
+   "hn": null,
+   "description": "When Claude Code hits its usage limit, Codex picks the task up from the same memory. Sno Station puts Codex, Claude Code, Cursor, Hermes Agent and OpenClaw on one squad: they hand work to each other a",
+   "topics": [
+    "agent-memory",
+    "agent-orchestration",
+    "agentic-coding",
+    "ai-code-review",
+    "ai-coding-agent",
+    "ai-memory",
+    "claude-code",
+    "claude-code-skills",
+    "code-review",
+    "codex"
+   ],
+   "score": 4
+  },
+  {
+   "repo": "mikehasa/golive-skill",
+   "relevance": "주변",
+   "stars": 1624,
+   "delta_7d": -4,
+   "avg_life": 25.517330553068632,
+   "created": "2026-09-23",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 26/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+   "topics": [
+    "agent-skill",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "cloudflare",
+    "codex",
+    "database",
+    "deployment",
+    "developer-tools",
+    "devops"
+   ],
+   "score": -4
+  },
+  {
+   "repo": "huaxialucaicaizi/ai-startup-skills",
+   "relevance": "주변",
+   "stars": 708,
+   "delta_7d": -223,
+   "avg_life": 20.35786812673348,
+   "created": "2026-10-22",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 20/일"
+   ],
+   "sources": [
+    "new:\"agent skills\""
+   ],
+   "hn": null,
+   "description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "business-plan",
+    "claude-code",
+    "codex",
+    "cursor",
+    "entrepreneurship",
+    "growth",
+    "mvp-validation",
+    "one-person-company"
+   ],
+   "score": -223
+  },
+  {
+   "repo": "dagoSte/squadra",
+   "relevance": "주변",
+   "stars": 977,
+   "delta_7d": -306,
+   "avg_life": 16.555613129670025,
+   "created": "2026-09-28",
+   "first_seen": "2026-11-14",
+   "signals": [
+    "신생 고성장 17/일"
+   ],
+   "sources": [
+    "topic:agentic-coding"
+   ],
+   "hn": null,
+   "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code an",
+   "topics": [
+    "agent-orchestration",
+    "agent-skills",
+    "agentic-coding",
+    "ai-agents",
+    "ai-coding",
+    "claude",
+    "claude-code",
+    "claude-skills",
+    "code-review",
+    "codex"
+   ],
+   "score": -306
+  }
+ ],
+ "candidate_pool_size": 349,
+ "ecosystem_new_repos_by_month": {
+  "2026-08": 807,
+  "2026-09": 899,
+  "2026-10": 994
+ },
+ "missing_7d": [],
+ "missing_30d": [
+  "github/spec-kit",
+  "Fission-AI/OpenSpec",
+  "modu-ai/moai-adk",
+  "open-gsd/gsd-core",
+  "open-gsd/gsd-pi",
+  "awslabs/aidlc-workflows",
+  "mattpocock/skills",
+  "obra/superpowers",
+  "addyosmani/agent-skills",
+  "EveryInc/compound-engineering-plugin",
+  "buildermethods/agent-os",
+  "gotalab/cc-sdd",
+  "backnotprop/pstack"
+ ]
+}
